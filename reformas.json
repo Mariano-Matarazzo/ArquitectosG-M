@@ -1,0 +1,963 @@
+[
+    {
+        "id": "1",
+        "categoria": "reformas",
+        "nombre": "QUINCHO Y TERRAZA CHIVILCOY",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157355/Reformas/1_Quincho%20Chivilcoy/quincho_chivilcoy_a_y_d_1_bgn67o.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157355/Reformas/1_Quincho%20Chivilcoy/quincho_chivilcoy_a_y_d_2_im8fqz.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157354/Reformas/1_Quincho%20Chivilcoy/quincho_chivilcoy_3_j6ugke.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157354/Reformas/1_Quincho%20Chivilcoy/quincho_chivilcoy_4_rncn4a.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157354/Reformas/1_Quincho%20Chivilcoy/quincho_chivilcoy_5_i3lfgr.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "El pedido del cliente fue aprovechar al máximo una terraza que, si bien era accesible estaba en desuso"
+                },
+                {
+                    "parrafo": "Se construyeron un quincho con parrilla y gimnasio y en la zona exterior un espacio de duchas y solárium con áreas de descanso. Para el interior se optó por un diseño moderno y minimalista con algunos detalles rústicos. Se priorizó la buena iluminación y ventilación con grandes ventanales que se vinculaban con el área exterior. Se utilizaron colores claros y madera para lograr un ambiente cálido y armónico."
+                },
+                {
+                    "parrafo": "En la zona exterior se utilizó el lapacho tanto en decks como en bancos y canteros, se buscó generar un clima cálido con abundante vegetación. Se priorizó el aprovechamiento de los espacios al aire libre."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157354/Reformas/1_Quincho%20Chivilcoy/quincho_chivilcoy_6_nkjz0r.jpg"
+    },
+    {
+        "id": "2",
+        "categoria": "reformas",
+        "nombre": "QUINCHO Y TERRAZA JVG",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157369/Reformas/2_Quincho%20y%20terraza%20JVG/quincho_y_terraza_jv_3_23_o1vuvt.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157370/Reformas/2_Quincho%20y%20terraza%20JVG/quincho_y_terraza_jv_4_25_jxzc13.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157370/Reformas/2_Quincho%20y%20terraza%20JVG/quincho_y_terraza_jv_5_20_wzpmpf.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157370/Reformas/2_Quincho%20y%20terraza%20JVG/quincho_y_terraza_jv_6_19_deppty.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157369/Reformas/2_Quincho%20y%20terraza%20JVG/quincho_y_tarraza_jv_7_19_x78o5s.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "El cliente se contactó con el estudio ya que le había gustado una terraza que realizamos con anterioridad. El proyecto consta de quincho y reforma de terraza completa. En la zona exterior se utilizó lapacho tanto en deck como en bancos."
+                },
+                {
+                    "parrafo": "Para el interior del quincho se optó por un diseño moderno y minimalista."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157369/Reformas/2_Quincho%20y%20terraza%20JVG/plano_terraza_JVG_ak03tf.jpg"
+    },
+    {
+        "id": "3",
+        "categoria": "reformas",
+        "nombre": "DPTO AZCUENAGA",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_1_k3b0th.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_2_pbabsx.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_3_sprkxp.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_4_vxrlwc.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_8_c59ikv.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "Reforma total departamento 3 ambientes"
+                },
+                {
+                    "parrafo": "La intención del cliente fue mejorar la funcionalidad y comodidad del departamento, ya que era un 4 ambientes pero con un living muy pequeño y cocina y lavadero incomodo."
+                },
+                {
+                    "parrafo": "Ademas, habia un dormitorio que no contaba con iluminación y ventilación directa, ya que estaba el lavadero."
+                },
+                {
+                    "parrafo": "Frente a esto, se demolió un dormitorio que estaba inutilizado y se lo integró al living. Donde estaba la cocina, se ubicó el lavadero, y el espacio del anterior lavadero se integro al dormitorio, logrando la iluminación y ventilación adecuada."
+                },
+                {
+                    "parrafo": "La cocina se ubicó en lo que era el cuarto de servicio, logrando una cocina de mayores dimensiones y funcionalidad."
+                },
+                {
+                    "parrafo": "Se realizo el cambio de todas las aberturas, y se acondicionó el piso de parquet."
+                },
+                {
+                    "parrafo": "Tambien se realizo todo el mobiliario a medida."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157374/Reformas/3_Depto%20Azcuenaga/plano_azcuenaga_zgpjog.jpg"
+    },
+    {
+        "id": "4",
+        "categoria": "reformas",
+        "nombre": "DPTO CÓRDOBA",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157375/Reformas/4_Depto%20Cordoba/depto_corrientes_1_21_r8wzrc.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157376/Reformas/4_Depto%20Cordoba/depto_corrientes_2_23_oj6cw3.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157376/Reformas/4_Depto%20Cordoba/depto_corrientes_3_21_hkotyd.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157376/Reformas/4_Depto%20Cordoba/depto_corrientes_4_22_sdkmvi.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157376/Reformas/4_Depto%20Cordoba/depto_corrientes_5_19_ms9uhy.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "Reforma total - 70 m2"
+                },
+                {
+                    "parrafo": "Se trata de un departamento de aproximadamente 40 años que se encontraba en su estado original."
+                },
+                {
+                    "parrafo": "Se realizó una remodelación integral de baño, cocina y lavadero, Se decidió integrar la cocina con el living comedor mediante un pasaplatos."
+                },
+                {
+                    "parrafo": "Se realizo pulido y plastificado de todos los pisos y la pintura del departamento."
+                },
+                {
+                    "parrafo": "Se optó por un diseño moderno y minimalista. Predominan detalles en madera y los colores cálidos."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157376/Reformas/4_Depto%20Cordoba/CORRIENTES-Model_bp6c9d.jpg"
+    },
+    {
+        "id": "5",
+        "categoria": "reformas",
+        "nombre": "JARDIN DE INFANTES SAN MIGUEL",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157378/Reformas/5_Jardin%20de%20infantes/jardin_de_infantes_1_19_humvqp.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157379/Reformas/5_Jardin%20de%20infantes/jardin_de_infantes_2_21_al59qu.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157379/Reformas/5_Jardin%20de%20infantes/jardin_de_infantes_3_18_mmk8rk.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157379/Reformas/5_Jardin%20de%20infantes/jardin_de_infantes_4_20_xfilwr.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157380/Reformas/5_Jardin%20de%20infantes/jardin_de_infantes_6_16_eyc5rw.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "Se refaccionó íntegramente una casa antigua para construir un jardín de infantes."
+                },
+                {
+                    "parrafo": "La escuela tiene 3 salas para chicos (3, 4 y 5 años), cocina, dirección preceptoria y archivo."
+                },
+                {
+                    "parrafo": "Todas las aulas se encuentran en planta baja para mayor comodidad y seguridad de los chicos."
+                },
+                {
+                    "parrafo": "Las salas poseen amplias dimensiones, priorizando la buena iluminación y ventilación."
+                },
+                {
+                    "parrafo": "Se optó por un diseño moderno y colorido, combinando círculos de colores tanto en cielo rasos como en pisos para generar un ambiente cálido y dinámico."
+                },
+                {
+                    "parrafo": "Para las paredes se optó por un tono neutro para dar prioridad a las carteleras y producciones de los alumnos."
+                },
+                {
+                    "parrafo": "Respecto de la organización espacial, el espacio principal es abarcado por las aulas y hacia un lateral las zonas de apoyo y servicios."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157380/Reformas/5_Jardin%20de%20infantes/planta_jardin_xel2qz.jpg"
+    },
+    {
+        "id": "6",
+        "categoria": "reformas",
+        "nombre": "CASA MARMOL",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157382/Reformas/6_Casa%20Marmol/casa_marmol1_20_nulvmq.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157381/Reformas/6_Casa%20Marmol/casa_marmol_2_22_riytes.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157381/Reformas/6_Casa%20Marmol/casa_marmol_3_verrou.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157382/Reformas/6_Casa%20Marmol/casa_marmol_4_21_mpe9u0.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157382/Reformas/6_Casa%20Marmol/casa_marmol_5_18_xllkea.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "Se construyó sobre una terraza existente una casa de 100 m2."
+                },
+                {
+                    "parrafo": "Se priorizó el espacio de living y comedor, generando una doble altura para lograr un espacio amplio y bien iluminado."
+                },
+                {
+                    "parrafo": "Cuenta con 3 dormitorio, lavadero y patio de colgado."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157382/Reformas/6_Casa%20Marmol/plano_marmol_pqe1nq.jpg"
+    },
+    {
+        "id": "7",
+        "categoria": "reformas",
+        "nombre": "OFICINA SARMIENTO",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157387/Reformas/7_Oficina%20Sarmiento/oficinas_sarmiento_1_17_zoxqmb.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157387/Reformas/7_Oficina%20Sarmiento/oficinas_sarmiento_2_19_xerd4f.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157387/Reformas/7_Oficina%20Sarmiento/oficinas_sarmiento_4_18_im3kqh.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157387/Reformas/7_Oficina%20Sarmiento/oficinas_sarmiento_5_15_qjkj4a.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157387/Reformas/7_Oficina%20Sarmiento/oficinas_sarmiento_6_14_crsoai.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "Reforma total"
+                },
+                {
+                    "parrafo": "Se trataba de un monoambiente, con un baño muy pequeño y una cocina con una distribución poco funcional."
+                },
+                {
+                    "parrafo": "Se decidió correr el baño hacia el fondo, para lograr aprovechar el espacio central para área de trabajo. Por otro lado se generó una nueva oficina para reuniones."
+                },
+                {
+                    "parrafo": "Se modernizó el departamento, conservando detalles de estilo: piso de pinotea y ventanas de cedro."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157388/Reformas/7_Oficina%20Sarmiento/plano_sarmiento_rfu2z8.jpg"
+    },
+    {
+        "id": "8",
+        "categoria": "reformas",
+        "nombre": "CASA CAXARAVILLE",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157390/Reformas/8_Casa%20Caxaraville/Casa_caxaville_A_tkdtxu.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157390/Reformas/8_Casa%20Caxaraville/Casa_caxaville_B_q1mlma.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157390/Reformas/8_Casa%20Caxaraville/Casa_caxaville_C_g5chsf.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157390/Reformas/8_Casa%20Caxaraville/Casa_Caxaville_E_vzxphc.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157390/Reformas/8_Casa%20Caxaraville/Casa_caxaville_F_imfetu.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "Reforma total y ampliación"
+                },
+                {
+                    "parrafo": "El problema planteado por los clientes consistía en que tenían una casa grande pero poco funcional."
+                },
+                {
+                    "parrafo": "En la planta alta tenían un baño y un vestidor muy pequeños , además un gran palier al que no daban uso."
+                },
+                {
+                    "parrafo": "Frente a ello, se decidió demoler y avanzar sobre el palier y un sector del balcón sin uso. Se logró un cómodo baño compartimentado, con un antebaño para los hijos, y otro para el matrimonio. Asimismo se agrando el vestidor, por el cual se accede al baño desde el dormitorio principal."
+                },
+                {
+                    "parrafo": "Respecto de la terraza se decidió hacerla accesible, para lo cual se colocó una puerta ventana en el dormitorio principal, se realizaron las paredes medianeras y se colocaron los pisos."
+                },
+                {
+                    "parrafo": "En la planta baja se integró la cocina con el living comedor, y se cambiaron los pisos de ceramicos por pisos de madera."
+                },
+                {
+                    "parrafo": "Se quitaron unas ventanas pequeñas en el frente y se coloco unos paños de ladrillo de vidrio, que aportan gran luminosidad sin resignar privacidad. Bajo la escalera se ubica un lugar de guardado, muy util para el uso diario."
+                },
+                {
+                    "parrafo": "Respecto de la estética se optó por un diseño moderno, con colores y materiales clásicos. La premisa fue la sobriedad y la elegancia."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157391/Reformas/8_Casa%20Caxaraville/plano_caxaraville_ql0nav.jpg"
+    },
+    {
+        "id": "9",
+        "categoria": "reformas",
+        "nombre": "OFICINAS ALSELEC",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157392/Reformas/9_Oficinas%20alselec/oficinas_alselec_2_18_mdxie1.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157392/Reformas/9_Oficinas%20alselec/oficinas_alselec_3_16_pvlkgx.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157393/Reformas/9_Oficinas%20alselec/oficinas_alseleec_4_17_ff7cg8.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157392/Reformas/9_Oficinas%20alselec/oficinas_alselec_5_14_prutdo.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157393/Reformas/9_Oficinas%20alselec/oficinas_alseleec_6_13_fpzz93.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "Reforma y ampliación."
+                },
+                {
+                    "parrafo": "El pedido del cliente fue realizar oficinas y taller para la empresa Alselec S.A., empresa proveedora de soluciones de automatización, instrumentación y eléctrica para la industria."
+                },
+                {
+                    "parrafo": "Se realizó una ampliación en planta baja, donde se ubicó el área de servicios  (vestuarios, sanitarios, office), y la parte administrativa en el frente (oficina director, oficina comercial, sala de reuniones y administración)."
+                },
+                {
+                    "parrafo": "En la planta alta se ubican las oficinas de ingeniería, y el laboratorio de bioquímica, donde se realizan análisis de materiales y medio ambientales."
+                },
+                {
+                    "parrafo": "La obra cuenta con un total de 400 m2 cubiertos aproximadamente."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157393/Reformas/9_Oficinas%20alselec/plano_carlos_edoots.jpg"
+    },
+    {
+        "id": "10",
+        "categoria": "reformas",
+        "nombre": "CONSULTORIOS PASO",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157394/Reformas/10_Consultorios%20Paso/consultorio_paso_1_jhm0bu.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157397/Reformas/10_Consultorios%20Paso/consultorio_paso2_mphmhb.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157395/Reformas/10_Consultorios%20Paso/consultorio_paso_4_mmxrnv.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157396/Reformas/10_Consultorios%20Paso/consultorio_paso_5_nhkfhe.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157396/Reformas/10_Consultorios%20Paso/consultorio_paso_6_esgrqr.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "Reforma total de 4 consultorios."
+                },
+                {
+                    "parrafo": "Los consultorios se encuentran en un edificio antiguo de estilo art déco."
+                },
+                {
+                    "parrafo": "El pedido de los comitentes fue una re funcionalización y puesta en valor de la propiedad ya que tenía un deficiente mantenimiento."
+                },
+                {
+                    "parrafo": "La idea fue potenciar y restaurar elementos valiosos de la construcción antigua: pisos de pinotea, puertas y ventanas macizas de cedro, trabajos de las molduras, combinándolos con el diseño moderno."
+                },
+                {
+                    "parrafo": "Se rediseñaron los halls de distribución dándole un carácter moderno, y se mejoró su iluminación tanto natural como artificial."
+                },
+                {
+                    "parrafo": "Respecto de los consultorios  se diseñó mobiliario exclusivo y se cambió la iluminación. Además se generó un nuevo consultorio para chicos, que también podría utilizarse para talleres infantiles. El mismo se construyó  en un ambiente que estaba desaprovechado, ya que se utilizaba como baulera."
+                },
+                {
+                    "parrafo": "Lo especial de este diseño es la conjunción entre lo clásico y lo moderno, dando como resultado un cálido y confortable espacio."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157396/Reformas/10_Consultorios%20Paso/0_plano_Paso_con_colores_sif43n.jpg"
+    },
+    {
+        "id": "11",
+        "categoria": "reformas",
+        "nombre": "CASA GRIGERA",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157398/Reformas/11_Casa%20Grigera/casa_grigera_1_dsszhe.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157399/Reformas/11_Casa%20Grigera/casa_grigera_2_erm3gd.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157399/Reformas/11_Casa%20Grigera/casa_grigera_3_qwps0q.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157399/Reformas/11_Casa%20Grigera/casa_grigera_4_ggsrls.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157400/Reformas/11_Casa%20Grigera/casa_grigera_5_nz82oi.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "Se trata de una casa en dos plantas."
+                },
+                {
+                    "parrafo": "Sobre la planta baja se modernizó el patio: se buscó un estilo moderno y cálido."
+                },
+                {
+                    "parrafo": "Para ello se utilizaron materiales como la piedra y el deck. En planta alta se construyó un baño en suite para el matrimonio. Se optó por un estilo moderno con detalles rústicos."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157407/Reformas/11_Casa%20Grigera/casa_grigera_6_cgdnjg.jpg"
+    },
+    {
+        "id": "12",
+        "categoria": "reformas",
+        "nombre": "LOCAL MUNDO SHOP",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157409/Reformas/12_Local%20Mundoshop/local_mundoshop1_18_pnuj70.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157410/Reformas/12_Local%20Mundoshop/local_mundoshop2_20_wp2apy.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157409/Reformas/12_Local%20Mundoshop/local_mundoshop3_17_pglamb.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157409/Reformas/12_Local%20Mundoshop/local_mundoshop_4_19_lyc4zy.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157409/Reformas/12_Local%20Mundoshop/local_mundoshop5_16_ymuqbh.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "Se trata de un local ubicado en el complejo MOCA."
+                },
+                {
+                    "parrafo": "La premisa fue hacer un diseño que se destaque, en el que se utilicen los colores de la marca."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157409/Reformas/12_Local%20Mundoshop/plano_local_mundoshop_pwkfni.jpg"
+    },
+    {
+        "id": "13",
+        "categoria": "reformas",
+        "nombre": "CASA ARIAS",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157407/Reformas/13_Casa%20Arias/casa_arias_1_23_wgraiw.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157407/Reformas/13_Casa%20Arias/casa_arias_2_srgdg8.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157407/Reformas/13_Casa%20Arias/casa_arias_4_24_n6nvmk.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157407/Reformas/13_Casa%20Arias/casa_arias_8_18_enzcjx.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157407/Reformas/13_Casa%20Arias/casa_arias_9_16_fvzkml.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "Se reformó el frente de una casa antigua."
+                },
+                {
+                    "parrafo": "Se retiro el jardin y se ubicaron cocheras para 3 autos."
+                },
+                {
+                    "parrafo": "El pedido del cliente fue lograr una imágen moderna y sobria."
+                },
+                {
+                    "parrafo": "En una segunda etapa se construyó quincho y piscina en el fondo de la casa. Se optó por un estilo moderno, con colores vivos y grandes ventanales."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157408/Reformas/13_Casa%20Arias/plano_arias_nj5c6z.jpg"
+    },
+    {
+        "id": "14",
+        "categoria": "reformas",
+        "nombre": "PH CABRERO",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157413/Reformas/14_Ph%20Cabrero/ph_cabrero_1_15_egnddu.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157412/Reformas/14_Ph%20Cabrero/ph_cabrero_2_17_vzhlqz.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157412/Reformas/14_Ph%20Cabrero/ph_cabrero_3_15_a7qixl.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157412/Reformas/14_Ph%20Cabrero/ph_cabrero_4_16_d3iswe.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157413/Reformas/14_Ph%20Cabrero/ph_cabrero_5_13_uwjfk8.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "Reforma total departamento 3 ambientes."
+                },
+                {
+                    "parrafo": "Se trata de un departamento tipo casa que se encontraba en un estado total de abandono."
+                },
+                {
+                    "parrafo": "La distribución original no permitía la ventilación e iluminación natural de casi ninguno de sus ambientes, y al ser interno era muy oscuro."
+                },
+                {
+                    "parrafo": "La decisión fue crear un patio interno al que ventilen los dormitorios y sea a su vez el 'corazón' de la casa. Los colores cálidos, la madera y la vegetación intentan crear un clima de calidez y armonía."
+                },
+                {
+                    "parrafo": "Además el patio permitió generar ventilación cruzada, con lo cual el living comedor es muy fresco en verano, y casi no requiere refrigeración."
+                },
+                {
+                    "parrafo": "Al mismo tiempo, para ganar mayor iluminación natural, se diseño una raja horizontal en el living comedor, en el punto de transición del techo existente con el de la nueva ampliación."
+                },
+                {
+                    "parrafo": "Por otro lado, se avanzó bajo la escalera que lleva a la terraza, aprovechando ese espacio para ubicar la cocina, integrada al comedor, obteniendo un espacio fluido."
+                },
+                {
+                    "parrafo": "En la terraza se demolió un galpón (donde ahora se encuentra el patio interno), y por otro lado se construyó un pequeño quincho, de gran uso para la familia."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157413/Reformas/14_Ph%20Cabrero/planta_cabrero_msvjbg.jpg"
+    },
+    {
+        "id": "15",
+        "categoria": "reformas",
+        "nombre": "DPTO ITALIA",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157414/Reformas/15_Dpto%20Italia/italia1_izvkra.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157414/Reformas/15_Dpto%20Italia/italia2_mvto4s.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157414/Reformas/15_Dpto%20Italia/italia3_uyoyen.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157415/Reformas/15_Dpto%20Italia/italia4_sdu6dr.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "El pedido del cliente fue modernizar y darle mayor funcionalidad a su cocina comedor."
+                },
+                {
+                    "parrafo": "Se trabajó en conjunto con MB diseño de interiores. Se utilizaron colores claros para lograr mayor amplitud, mucha madera dada su calidez y algunos elementos rústicos."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157414/Reformas/15_Dpto%20Italia/italia5_sloyxp.jpg"
+    },
+    {
+        "id": "16",
+        "categoria": "reformas",
+        "nombre": "QUINCHO PALESTINA",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157416/Reformas/16_Quincho%20Palestina/quincho_palestina1_zbe9ut.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157417/Reformas/16_Quincho%20Palestina/quincho_palestina2_nx5rqm.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157417/Reformas/16_Quincho%20Palestina/quincho_palestina_3_mnnmol.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157416/Reformas/16_Quincho%20Palestina/quincho_palestina_4_xjgnfw.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157416/Reformas/16_Quincho%20Palestina/quincho_palestina_5_pg65tg.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "La casa Palestina tenía en el último piso un cuarto que utilizaban como depósito, un pequeño lavadero y una terraza en desuso."
+                },
+                {
+                    "parrafo": "El pedido del cliente fue aprovechar el espacio para construir un quincho y poder utilizar la terraza."
+                },
+                {
+                    "parrafo": "Se integraron los ambientes y se realizó una ampliación para poder construir un quincho de mejores dimensiones."
+                },
+                {
+                    "parrafo": "Se optó por un estilo moderno con detalles rústicos, colores claros para lograr amplitud y grandes ventanales."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157416/Reformas/16_Quincho%20Palestina/plano_quincho_palestina_wnjfzq.jpg"
+    },
+    {
+        "id": "17",
+        "categoria": "reformas",
+        "nombre": "COCINA YAPEYU",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157418/Reformas/17_%20Cocina%20yapeyu/render1_io9hv8.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157418/Reformas/17_%20Cocina%20yapeyu/render2_ul1ceb.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157418/Reformas/17_%20Cocina%20yapeyu/render3_xs3nkq.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "El pedido del cliente fue modernizar la cocina y el lavadero, ya que compraron un departamento y no les gustaba el estilo del mismo."
+                },
+                {
+                    "parrafo": "A su vez, se buscó optimizar el espacio y su distribución, ya que no resultaba muy funcional."
+                },
+                {
+                    "parrafo": "Por otra parte, se cambiaron los cerramientos y se realizaron todas las instalaciones nuevas para que quede en perfecto funcionamiento y evitar problemas a futuro."
+                },
+                {
+                    "parrafo": "Se optó por un diseño minimalista, con materiales cálidos y modernos."
+                },
+                {
+                    "parrafo": "La idea fue utilizar materiales de excelente calidad y que no pasen de moda. Es por ello que se optó por el Silestone en mesada y una combinación de melamina y madera en el mobiliario de cocina."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157418/Reformas/17_%20Cocina%20yapeyu/plano_yapeyu_mppbhv.jpg"
+    },
+    {
+        "id": "18",
+        "categoria": "reformas",
+        "nombre": "HALL SARMIENTO",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157412/Reformas/18_Hall%20Sarmiento/hall_sarmiento_1_bzqf7x.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157411/Reformas/18_Hall%20Sarmiento/hall_sarmiento_2_jxqryg.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157411/Reformas/18_Hall%20Sarmiento/hall_sarmiento_3_zwxn6u.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157411/Reformas/18_Hall%20Sarmiento/hall_sarmiento_4_sdyj5d.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "La idea fue modernizar el hall existente y mejorar su iluminación ya que era muy oscuro."
+                },
+                {
+                    "parrafo": "Se cambiaron los cerramientos de vidrio del frente e interno y todos los revestimientos, tanto en pared como en piso."
+                },
+                {
+                    "parrafo": "Se optó por utilizar un porcelanato carrara, grandes espejos e iluminación led embutida."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157411/Reformas/18_Hall%20Sarmiento/hall_sarmiento_5_cqyghb.jpg"
+    },
+    {
+        "id": "19",
+        "categoria": "reformas",
+        "nombre": "CASA PALESTINA",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157421/Reformas/19_Casa%20Palestina/palestina1_rnrbxo.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157421/Reformas/19_Casa%20Palestina/palestina2_t7dix2.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157421/Reformas/19_Casa%20Palestina/palestina3_un8qkq.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157421/Reformas/19_Casa%20Palestina/palestina4_xnhuok.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157421/Reformas/19_Casa%20Palestina/palestina5_yeabu8.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "Se reformó el baño y cocina ya que el cliente quería modernizarlos y cambiar todos los caños ya que estaban deteriorados."
+                },
+                {
+                    "parrafo": "En el baño se sacó la bañera y se realizó un box de ducha con venecitas blancas."
+                },
+                {
+                    "parrafo": "Para piso y pared se utilizó porcelanato simil cemento alisado."
+                },
+                {
+                    "parrafo": "Se bajó y el cielorraso con Durlock y se colocaron luces embutidas."
+                },
+                {
+                    "parrafo": "También se cambió la ventana para mejorar la iluminación."
+                },
+                {
+                    "parrafo": "En la cocina se mejoró la distribución para aprovechar al máximo el espacio."
+                },
+                {
+                    "parrafo": "A su vez, se cambiaron las aberturas para mejorar la iluminación y ventilación, ya que era muy oscura."
+                },
+                {
+                    "parrafo": "Se utilizaron colores claros para generar mayor amplitud."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157422/Reformas/19_Casa%20Palestina/plano_cocina_palestina_fkkin0.jpg"
+    },
+    {
+        "id": "20",
+        "categoria": "reformas",
+        "nombre": "CLINICA KINESIOLOGICA",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157425/Reformas/20_Clinica%20kinesiologia/clinica_1a_apnzpj.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157425/Reformas/20_Clinica%20kinesiologia/clinica_2_13_zjbkdp.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157425/Reformas/20_Clinica%20kinesiologia/clinica_3_11_slpljd.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157425/Reformas/20_Clinica%20kinesiologia/clinica_5_10_qot6ap.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157425/Reformas/20_Clinica%20kinesiologia/clinica_6_9_kahkka.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "Primero realizamos un asesoramiento en la compra de la propiedad, ya que al estar abandonada y con algunos problemas estructurales, el cliente quería un informe técnico sobre el estado de la misma."
+                },
+                {
+                    "parrafo": "Posteriormente realizamos la reforma integral. La clínica cuenta con recepción, gimnasio, tres consultorios y cuatro boxes para atención personaliza a pacientes. Se optó por un diseño moderno."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157426/Reformas/20_Clinica%20kinesiologia/plano_kine_wipnaa.jpg"
+    },
+    {
+        "id": "21",
+        "categoria": "reformas",
+        "nombre": "DPTO LACARRA",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157427/Reformas/21_Depto%20Lacarra/depto_lacarra_2_12_yjknfy.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157427/Reformas/21_Depto%20Lacarra/depto_lacarra_4_11_y2rntu.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157427/Reformas/21_Depto%20Lacarra/depto_lacarra_5_9_khkrrd.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157427/Reformas/21_Depto%20Lacarra/depto_lacarra_6_8_t6oraj.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157427/Reformas/21_Depto%20Lacarra/depto_lacarra3_10_bddevm.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "Reforma y ampliacion depto 3 ambientes."
+                },
+                {
+                    "parrafo": "El pedido consistió en integrar la planta baja, con la planta alta de la casa, en donde actualmente existe un amplio quincho, el cual se convertirá en dos dormitorios."
+                },
+                {
+                    "parrafo": "La decisión fue cubrir un patio (actual lavadero) y transformarlo en escritorio con un hall de circulación a partir del cual se organiza toda la casa."
+                },
+                {
+                    "parrafo": "Lo importante era no perder la iluminación que generaba el patio, para lo cual se propuso construir una gran pared de ladrillo de vidrio a través de la cual se recibe el sol de la mañana."
+                },
+                {
+                    "parrafo": "Por otro lado, se realizó un sector de la cubierta con vidrio, por el que se recibe iluminación natural durante casi la totalidad del día."
+                },
+                {
+                    "parrafo": "La decisión de no vidriar todo el techo se basa en evitar la sensación de 'patio techado', y conseguir mayor integración a la casa."
+                },
+                {
+                    "parrafo": "Además se cambiarán todos los pisos, retirando el cerámico existente y colocando piso de madera."
+                },
+                {
+                    "parrafo": "Respecto de la estética la idea fue lograr una imagen moderna y minimalista, sin perder calidez."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157427/Reformas/21_Depto%20Lacarra/plano_lacarra_jpshnq.jpg"
+    },
+    {
+        "id": "22",
+        "categoria": "reformas",
+        "nombre": "COCINA DOMINICO",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157420/Reformas/22_Cocina%20dominico/cocina_dominico_1_1_g4madx.png",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157419/Reformas/22_Cocina%20dominico/cocina_dominico_2_14_ol7r4j.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157420/Reformas/22_Cocina%20dominico/cocina_dominico_3_12_zc7edd.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157420/Reformas/22_Cocina%20dominico/cocina_dominico_4_13_bbvxfx.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157420/Reformas/22_Cocina%20dominico/cocina_dominico_5_11_fvemn7.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "El pedido del cliente fue modernizar la cocina y mejorar su funcionalidad."
+                },
+                {
+                    "parrafo": "Se cambiaron íntegramente las instalaciones ya que estaban deterioradas."
+                },
+                {
+                    "parrafo": "Se realizo mobiliario utilizando melamina blanca y madera paraíso."
+                },
+                {
+                    "parrafo": "Se eligieron colores claros para generar amplitud."
+                },
+                {
+                    "parrafo": "Tambien se diseñó la iluminación, combinando luces embutidas y colgantes."
+                },
+                {
+                    "parrafo": "Se optó por un diseño minimalista con algunos detalles rústicos."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157420/Reformas/22_Cocina%20dominico/plano_dominico_giya0b.jpg"
+    },
+    {
+        "id": "23",
+        "categoria": "reformas",
+        "nombre": "DPTO PUEYRREDON",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157436/Reformas/23%20Dpto%20Pueyrredon/1_qbfdvn.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157437/Reformas/23%20Dpto%20Pueyrredon/2_dub5rt.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157431/Reformas/23%20Dpto%20Pueyrredon/3_inrqxp.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157431/Reformas/23%20Dpto%20Pueyrredon/4_vjeamt.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157432/Reformas/23%20Dpto%20Pueyrredon/5_mudj9d.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "Reforma de baño y cocina."
+                },
+                {
+                    "parrafo": "Se efectuó la refacción de baño y cocina."
+                },
+                {
+                    "parrafo": "Se realizaron instalaciones completas nuevas, cambio de revestimiento y diseño de muebles a medida."
+                },
+                {
+                    "parrafo": "El pedido de la cliente fue aprovechar al máximo el espacio de mesada en la cocina y lograr un diseño moderno y funcional."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157432/Reformas/23%20Dpto%20Pueyrredon/plano_pueyrredon_ctkzo0.jpg"
+    },
+    {
+        "id": "24",
+        "categoria": "reformas",
+        "nombre": "TERRAZA CONDE",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157424/Reformas/24%20Terraza%20Conde/terraza_Conde_1_aopgtn.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157425/Reformas/24%20Terraza%20Conde/conde_2_oz0cya.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157424/Reformas/24%20Terraza%20Conde/conde_3_n8t3xj.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "La idea fue aprovechar una terraza que era inaccesible para generar un área de esparcimiento."
+                },
+                {
+                    "parrafo": "El proyecto tiene tres áreas: solárium con jacuzzi, galería con espacio de comedor y un lavadero con baulera."
+                },
+                {
+                    "parrafo": "Se trató de optimizar al máximo el espacio. Se colocaron deck y pergola de madera, césped sintético y canteros con madera y revestimiento tipo tarquini."
+                },
+                {
+                    "parrafo": "Se priorizó la vegetación y el uso de madera para crear un ambiente cálido y acogedor."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157424/Reformas/24%20Terraza%20Conde/PLANO_CONDE_az5mnj.jpg"
+    },
+    {
+        "id": "25",
+        "categoria": "reformas",
+        "nombre": "FRENTE NAZAR",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157428/Reformas/25%20Frente%20Nazar/1_kxmtis.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157428/Reformas/25%20Frente%20Nazar/2_njyt8i.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157430/Reformas/25%20Frente%20Nazar/3_zybkme.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157428/Reformas/25%20Frente%20Nazar/1_kxmtis.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/doejsqlbl/image/upload/v1634048143/sample.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "Reforma de fachada."
+                },
+                {
+                    "parrafo": "Se trata de una casa que fue construyendose en etapas, por lo que no tuvo una coherencia entre las distintas partes."
+                },
+                {
+                    "parrafo": "El pedido del cliente fue diseñar una fachada que le de una coherencia y unifique el todo."
+                },
+                {
+                    "parrafo": "Se realizó mediante planos de piedra y Tarquini, logrando un estilo moderno y sobrio."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157430/Reformas/25%20Frente%20Nazar/3_zybkme.jpg"
+    }
+]

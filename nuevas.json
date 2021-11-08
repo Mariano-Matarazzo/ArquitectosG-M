@@ -1,0 +1,568 @@
+[
+    {
+        "id": "1",
+        "categoria": "nuevas",
+        "nombre": "CASA NC",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157450/Viviendas/1%20_Casa%20NC/casa_NC_1_avfuot.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157450/Viviendas/1%20_Casa%20NC/CASA_NC_2_zc6aie.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157450/Viviendas/1%20_Casa%20NC/CASA_NC_3_mnkrwj.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157450/Viviendas/1%20_Casa%20NC/CASA_NC_4_gtluri.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157450/Viviendas/1%20_Casa%20NC/CASA_NC_5_nwg2y4.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "AÑO: 2021 – UBICACIÓN: LAGUNA AZUL, EZEIZA, BS.AS"
+                },
+                {
+                    "parrafo": "78 M2 CUBIERTOS / 48 M2 SEMICUBIERTOS / 315 M2 DESCUBIERTOS"
+                },
+                {
+                    "parrafo": "Los propietarios querían construir una casa de fin de semana y para vacacionar. Es una vivienda de una planta, en donde priorizamos el espacio social: un gran living comedor con cocina integrada, que se vincula con una galería al exterior. Por otra parte se ubica el área de tres dormitorios."
+                },
+                {
+                    "parrafo": "La premisa fue lograr una casa cómoda, bien distribuida, que permita aprovechar al máximo la circulación y los metros construidos. Además, fue fundamental lograr una buena iluminación y ventilación y espacios de conexión con el área verde exterior. Se optó por un diseño moderno, con algunos detalles rústicos y de campo."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157451/Viviendas/1%20_Casa%20NC/PLANO_NC_utwkgt.jpg"
+    },
+    {
+        "id": "2",
+        "categoria": "nuevas",
+        "nombre": "Casa JS",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157452/Viviendas/2_Casa%20JS/casa_js_1_svjdg8.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157453/Viviendas/2_Casa%20JS/casa_js_2_llpgpt.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157452/Viviendas/2_Casa%20JS/casa_js_3_fn51wg.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157452/Viviendas/2_Casa%20JS/casa_js_4_ey1olx.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157452/Viviendas/2_Casa%20JS/plano_casa_JS_nnygss.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "AÑO: 2021 – UBICACIÓN: CLUB DE CAMPO HORIZONTES AL SUR, CANNING, BS.AS"
+                },
+                {
+                    "parrafo": "143 M2 CUBIERTOS / 53 M2 SEMICUBIERTOS / 540 M2 DESCUBIERTOS"
+                },
+                {
+                    "parrafo": "En planta baja se ubican: living-comedor, cocina, toilette, lavadero y galería exterior. La idea fue lograr una planta libre, integrada, que permita aprovechar al máximo el espacio y la vinculación visual con el exterior. Se utilizaron grandes ventanales, colores claros y madera para generar calidez y armonía."
+                },
+                {
+                    "parrafo": "En planta alta se ubica el área privada, que a su vez se divide en dos sectores. Por un lado, se encuentran dos habitaciones para los hijos hacia el frente, con su baño privado y por otro la matrimonial con su baño en suite y vestidor. Esta última posee una gran terraza para poder disfrutar del espacio exterior y las visuales."
+                },
+                {
+                    "parrafo": "Se optó por un diseño moderno y minimalista, priorizando la buena iluminación y ventilación y la conexión con los espacios verdes exterior."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157452/Viviendas/2_Casa%20JS/plano_casa_JS_nnygss.jpg"
+    },
+    {
+        "id": "3",
+        "categoria": "nuevas",
+        "nombre": "CASA 3B",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157456/Viviendas/3_Casa%203B/CASA_3b_1_b4hpcu.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157456/Viviendas/3_Casa%203B/CASA_3B_2_d3ozjb.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157456/Viviendas/3_Casa%203B/casa_3b_3_bzfuc8.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157456/Viviendas/3_Casa%203B/casa_3b_4_yn79un.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157456/Viviendas/3_Casa%203B/casa_3b_5_lembpk.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "AÑO: 2021 – UBICACIÓN: LAGOS DE SAN ELISEO, CANNING, BS.AS."
+                },
+                {
+                    "parrafo": "196 M2 CUBIERTOS / 30 M2 SEMICUBIERTOS / 675 M2 DESCUBIERTOS"
+                },
+                {
+                    "parrafo": "Se trata de una vivienda familiar para ser utilizada los fines de semana y para vacacionar. Los clientes son tres hermanos con sus respectivas familias, con lo cual era de suma importancia priorizar los espacios de uso común  y lograr privacidad en el sector de los dormitorios."
+                },
+                {
+                    "parrafo": "En planta baja se ubicaron las áreas sociales: living-comedor, cocina, habitación de húespedes, baño, lavadero y galería. Se diseñaron espacios amplios, integrados, priorizando la buena vinculación con los espacios exteriores."
+                },
+                {
+                    "parrafo": "En planta alta se ubican tres dormitorios con baño privado y una amplia terraza."
+                },
+                {
+                    "parrafo": "Se optó por un diseño moderno y minimalista. Se utilizaron colores claros, madera y piedra para lograr calidez."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157456/Viviendas/3_Casa%203B/plano_casa_3B_ekcxid.jpg"
+    },
+    {
+        "id": "4",
+        "categoria": "nuevas",
+        "nombre": "CASA SB",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157460/Viviendas/5_Casa%20SB/casa_sb1_z5gtik.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157460/Viviendas/5_Casa%20SB/casa_sb2_vu3scf.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157460/Viviendas/5_Casa%20SB/casa_sb4_tkjpvn.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157460/Viviendas/5_Casa%20SB/casa_sb5_jpzws6.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157460/Viviendas/5_Casa%20SB/casa_sb6_ikigrd.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "AÑO 2021 – UBICACIÓN: CAMPOS DE ROCA, BRANDSEN, BS.AS"
+                },
+                {
+                    "parrafo": "161 M2 CUBIERTOS / 109 M2 SEMICUBIERTOS / 1850 M2 DESCUBIERTOS"
+                },
+                {
+                    "parrafo": "La casa se diseño para un matrimonio y el abuelo de uno de ellos. Por ese motivo, la planta baja se pensó en dos sectores: por un lado el área social que cuenta con living-comedor, cocina, lavadero y toilette y por otro la habitación para el abuelo. Quisimos lograr privacidad, es por ello que la habitación se separa de la casa, mediante un patio interno con galería vidriada. En la planta alta se encuentran las habitaciones para el matrimonio y sus hijos y un escritorio. La habitación matrimonial se diseño en suite con su baño y vestidor. Además, cuenta con una amplia terraza que permite lograr buena conexión con el exterior y aprovechar las visuales al campo."
+                },
+                {
+                    "parrafo": "Se optó por un diseño moderno y minimalista. Se utilizó mucho vidrio y colores claros para generar amplitud y buena iluminación."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157460/Viviendas/5_Casa%20SB/plano_SB_ukqk1w.jpg"
+    },
+    {
+        "id": "5",
+        "categoria": "nuevas",
+        "nombre": "PICHINCHA",
+        "imagen": "https://res.cloudinary.com/doejsqlbl/image/upload/v1634048143/sample.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/doejsqlbl/image/upload/v1634048143/sample.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/doejsqlbl/image/upload/v1634048143/sample.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/doejsqlbl/image/upload/v1634048143/sample.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/doejsqlbl/image/upload/v1634048143/sample.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "AÑO: 2021"
+                },
+                {
+                    "parrafo": "238   M2 CUBIERTOS /   26 M2 SEMICUBIERTOS  /   102 M2 DESCUBIERTOS"
+                },
+                {
+                    "parrafo": "En planta baja se ubican el living, cocina, comedor y cochera. Se buscó crear espacios amplios, con mucha iluminación. Se diseñó un espacio en doble altura en el living, con una cubierta vidriada, que logra generar un espacio moderno. En la planta alta se ubican los dormitorios, separando dos áreas: una para el matrimonio y otra para los hijos. La primera tiene vestidor, gimnasio y baño en suite. Además posee una amplia terraza balconeando hacia el gran parque del contrafrente."
+                },
+                {
+                    "parrafo": "La premisa fue diseñar una casa moderna y minimalista. Se optó utilizar colores claros, porcelanatos simil madera para generar calidez y grandes aberturas."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157469/Viviendas/6_Pichincha/plano_pichincha_y2ab43.jpg"
+    },
+    {
+        "id": "6",
+        "categoria": "nuevas",
+        "nombre": "MARCO AVELLANEDA",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157468/Viviendas/7_Marco%20Avellaneda/Marco_avellaneda1_jb9v1g.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157467/Viviendas/7_Marco%20Avellaneda/Marco_avellaneda_2_cyhlqh.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157467/Viviendas/7_Marco%20Avellaneda/Marco_avellaneda_3_f50xkf.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157467/Viviendas/7_Marco%20Avellaneda/Marco_avellaneda4_p4dpnv.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157468/Viviendas/7_Marco%20Avellaneda/Marco_avellaneda5_tdzvvz.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "AÑO 2020"
+                },
+                {
+                    "parrafo": "104 M2 CUBIERTOS / 15 M2 SEMICUBIERTOS / 23 M2 DESCUBIERTOS"
+                },
+                {
+                    "parrafo": "Se trata de una ampliación en planta alta. La idea fue dejar la planta baja para el área social y construir arriba el área de dormitorios."
+                },
+                {
+                    "parrafo": "Los clientes buscaban espacios amplios y cómodos, en donde cada habitación contara con baño en suite. A su vez, el baño principal debía contar con hidromasaje y box de ducha."
+                },
+                {
+                    "parrafo": "Se construyeron tres dormitorios, un amplio espacio para playroom y descanso y dos amplias terrazas."
+                },
+                {
+                    "parrafo": "Una de las premisas fue generar seguridad y privacidad sin perder luz y amplitud, por lo que se construyó un volumen hacia el frente, cerrado por parasoles verticales en madera."
+                },
+                {
+                    "parrafo": "Se optó por un diseño moderno, utilizando mucha madera para otorgar calidez."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157468/Viviendas/7_Marco%20Avellaneda/PLANO_MARCO_AVELLANEDA_op5npt.jpg"
+    },
+    {
+        "id": "7",
+        "categoria": "nuevas",
+        "nombre": "GRANADEROS",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157470/Viviendas/8_Granaderos/Granaderos_1_8_oehoip.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157474/Viviendas/8_Granaderos/Granaderos2_7_qqw0ex.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157472/Viviendas/8_Granaderos/Granaderos_3_7_ay1pqa.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157472/Viviendas/8_Granaderos/Granaderos_4_7_csgjqw.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157473/Viviendas/8_Granaderos/Granaderos_5_7_qywceh.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "AÑO: 2020"
+                },
+                {
+                    "parrafo": "336 M2 CUBIERTOS / 16 M2 SEMICUBIERTOS / 80 M2 DESCUBIERTOS"
+                },
+                {
+                    "parrafo": "En planta baja se ubican el living, cocina, lavadero, comedor y cochera. Se amplió y se demolieron paredes para lograr espacios amplios. Se colocó un techo vidriado en el living para lograr buena iluminación, a su vez se restauró la pared de ladrillos. En planta alta se ubica el playroom, a pedido del cliente debería tener buenas dimensiones, y también los dormitorios. El matrimonial tiene su baño en suite, un amplio vestidor y terraza."
+                },
+                {
+                    "parrafo": "La premisa fue diseñar una casa moderna y minimalista. Se utilizaron materiales modernos, prevalece la utilización de vidrios como cerramientos para lograr buena iluminación. Se utilizó madera en los pisos para generar calidez."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157473/Viviendas/8_Granaderos/plano_granaderos_modfj8.jpg"
+    },
+    {
+        "id": "8",
+        "categoria": "nuevas",
+        "nombre": "CERRITO",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157479/Viviendas/9_Cerrito/Cerrito_1_rz7hbj.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157479/Viviendas/9_Cerrito/Cerrito_2_lfrhuu.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157479/Viviendas/9_Cerrito/Cerrito_3_muitxb.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157480/Viviendas/9_Cerrito/Cerrito_4_i4j01j.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157480/Viviendas/9_Cerrito/Cerrito_5_lomlqb.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "AÑO: 2014"
+                },
+                {
+                    "parrafo": "186 M2 CUBIERTOS / 26 M2 SEMICUBIERTOS / 58 M2 DESCUBIERTOS"
+                },
+                {
+                    "parrafo": "Se trata de la union de 2 casas (una en planta baja y la otra en la planta alta)."
+                },
+                {
+                    "parrafo": "Se realizo la reforma total, logrando en planta baja cochera pasante para 2 autos, un living de grandes dimensiones, cocina, toilette, galeria con parrilla y parque."
+                },
+                {
+                    "parrafo": "En la planta alta se ubican 3 dormitorios, 2 baños, vestidor y terraza."
+                },
+                {
+                    "parrafo": "La escalera se ubicó en un espacio de doble altura en el que se realizó una pared de ladrillos de vidrio, lo que posibilita una gran entrada de luz, consolidando el espacio de la escalera como corazón de la casa."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157482/Viviendas/9_Cerrito/PLANO_CERRITO_zlfzd1.jpg"
+    },
+    {
+        "id": "9",
+        "categoria": "nuevas",
+        "nombre": "REPUBLICA",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157474/Viviendas/10_Rep%C3%BAblica%20Argentina/republica_argentina_4_xxke0t.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157474/Viviendas/10_Rep%C3%BAblica%20Argentina/republica_argentina_2_wxulxq.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157474/Viviendas/10_Rep%C3%BAblica%20Argentina/republica_argentina_3_cvat6o.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157474/Viviendas/10_Rep%C3%BAblica%20Argentina/republica_argentina_4_xxke0t.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157475/Viviendas/10_Rep%C3%BAblica%20Argentina/republica_argentina_5_unoava.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "AÑO: 2020"
+                },
+                {
+                    "parrafo": "86 M2 CUBIERTOS / 60 M2 SEMICUBIERTOS / 170 M2 DESCUBIERTOS"
+                },
+                {
+                    "parrafo": "Se trata de una vivienda de tipología “casa chorizo” que se amplió y refaccionó íntegramente. Fue fundamental mejorar la circulación del área de los dormitorios, por ello se diseñó un pasillo interno."
+                },
+                {
+                    "parrafo": "Las habitaciones tienen vista a un patio interno, lo cual consigue buena iluminación y ventilación."
+                },
+                {
+                    "parrafo": "En el fondo se ubica el área social: living- comedor con cocina integrada. Se buscó generar un espacio amplio que tuviese buena vinculación con la galería y espacio exterior."
+                },
+                {
+                    "parrafo": "A su vez se cambió en acceso a la vivienda para poder entrar por el área social. Al contrafrente se contruyó galería con parrilla y una pileta."
+                },
+                {
+                    "parrafo": "Se optó por un diseño sobrio, moderno, utilizando madera y grandes ventanales para lograr amplitud y calidez."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157474/Viviendas/10_Rep%C3%BAblica%20Argentina/plano_republica_mbcd0q.jpg"
+    },
+    {
+        "id": "10",
+        "categoria": "nuevas",
+        "nombre": "PALLARES",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157486/Viviendas/11_Pallares/Pallares_1_4_tmbhgy.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157486/Viviendas/11_Pallares/Pallares_2_4_cy1kei.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157486/Viviendas/11_Pallares/Pallares_3_4_j2lkdo.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157485/Viviendas/11_Pallares/Pallares_4_4_uasm6l.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157486/Viviendas/11_Pallares/Pallares_5_4_ib3qxb.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "AÑO: 2017"
+                },
+                {
+                    "parrafo": "107 M2 CUBIERTOS / 64 M2 DESCUBIERTOS"
+                },
+                {
+                    "parrafo": "Se trabajó sobre una casa existente, la cual estaba totalmente deteriorada. Se aprovechó un sector y luego fue necesario realizar una demolición para poder construir."
+                },
+                {
+                    "parrafo": "Se construyó una casa de 3 ambientes, con un amplio living-comedor con cocina integrada."
+                },
+                {
+                    "parrafo": "Optamos por un diseño moderno, con colores claros y buena iluminación para generar mayor amplitud."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157486/Viviendas/11_Pallares/plano_pallares_jaceg8.jpg"
+    },
+    {
+        "id": "11",
+        "categoria": "nuevas",
+        "nombre": "EDIFICIO 29 DE SEPTIEMBRE",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157476/Viviendas/12_Edificio%2029%20septiembre/29_de_septiembre_1_3_sv8xbj.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157477/Viviendas/12_Edificio%2029%20septiembre/29_de_septiembre2_3_adflti.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157477/Viviendas/12_Edificio%2029%20septiembre/29_de_septiembre_3_3_dhzx7t.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157477/Viviendas/12_Edificio%2029%20septiembre/29_de_septiembre5_3_wcvxfv.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157478/Viviendas/12_Edificio%2029%20septiembre/29_de_septiembre_6_2_zbo1jq.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "AÑO: 2011"
+                },
+                {
+                    "parrafo": "Construccion de 3 departamentos"
+                },
+                {
+                    "parrafo": "En la planta baja funciona una cochera y hacia arriba sólo había una estructura de hormigón, sin ninguna pared interior."
+                },
+                {
+                    "parrafo": "La idea del propietario era aprovechar la estructura del 2º piso para construir departamentos para renta."
+                },
+                {
+                    "parrafo": "En una superficie de 110m² cubiertos y 40m²descubiertos, diseñamos aprovechando la estructura existente, tres departamentos de dos ambientes, dos de los cuales tienen patio."
+                },
+                {
+                    "parrafo": "La intención fue que los departamentos tengan las características de pequeñas casas."
+                },
+                {
+                    "parrafo": "Priorizamos la buena iluminación, ventilación, y la posibilidad de tener un amplio living-comedor. Como se trata de superficies reducidas, se trató de optimizar al máximo las circulaciones y se utilizaron recursos de iluminación natural y color para lograr un efecto de mayor amplitud."
+                },
+                {
+                    "parrafo": "Por otro lado se realizaron la fachada, la escalera y paliers a nuevo de los tres niveles. La idea del frente era dar una imagen moderna, sencilla y cálida, tratando de integrarse a la construcción existente."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157478/Viviendas/12_Edificio%2029%20septiembre/PLANO_29_DE_SEPTIEMBRE_y91og3.jpg"
+    },
+    {
+        "id": "12",
+        "categoria": "nuevas",
+        "nombre": "CASA CISSAB",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157487/Viviendas/13_Casa%20CISSAB/3_dagg1i.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157487/Viviendas/13_Casa%20CISSAB/2_rwhifj.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157487/Viviendas/13_Casa%20CISSAB/3_dagg1i.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157487/Viviendas/13_Casa%20CISSAB/4_vnvzl9.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157487/Viviendas/13_Casa%20CISSAB/5_cg7vn3.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "AÑO: 2019"
+                },
+                {
+                    "parrafo": "Se realizó el diseño interior y remodelación de una casa de fin de semana."
+                },
+                {
+                    "parrafo": "Los dueños querían modernizarla y mejorar la funcionalidad. Se integró la cocina con el comedor y se realizó mobiliario."
+                },
+                {
+                    "parrafo": "Por otra parte se modernizaron los baños y dormitorios, cambiando la totalidad de los revestimientos e iluminación. En la planta baja se creó un jardín de invierno y una galería con deck. Se optó por un diseño moderno y minimalista."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157488/Viviendas/13_Casa%20CISSAB/6_oc2nl5.jpg"
+    },
+    {
+        "id": "13",
+        "categoria": "nuevas",
+        "nombre": "COMPLEJO GORRITI",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157488/Viviendas/14_Complejo%20Gorriti/depto_gorriti1_2_tlydgu.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157488/Viviendas/14_Complejo%20Gorriti/depto_gorriti2_2_s5qauy.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157488/Viviendas/14_Complejo%20Gorriti/depto_gorriti3_2_odtf7a.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157488/Viviendas/14_Complejo%20Gorriti/depto_gorriti4_2_qsfsba.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157488/Viviendas/14_Complejo%20Gorriti/depto_gorriti5_2_tg1irr.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "AÑO: 2016"
+                },
+                {
+                    "parrafo": "198 M2 CUBIERTOS / 71 M2 DESCUBIERTOS"
+                },
+                {
+                    "parrafo": "Se realizó el proyecto, dirección y construcción de dos departamentos, de dos y tres ambientes con cochera. Además se amplió una casa, agregando una planta más, integrándola al complejo."
+                },
+                {
+                    "parrafo": "La idea principal fue lograr que cada unidad tuviese las comodidades de una casa. Para ello se diseñaron entradas independientes y se individualizaron los patios. La premisa fue lograr calidez y privacidad."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157489/Viviendas/14_Complejo%20Gorriti/planta_gorritil_qqwrru.jpg"
+    },
+    {
+        "id": "14",
+        "categoria": "nuevas",
+        "nombre": "SAN MARTIN",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157483/Viviendas/15_San%20Martin/san_martin7_afhucf.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157483/Viviendas/15_San%20Martin/san_martin2_1_ra0iud.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157483/Viviendas/15_San%20Martin/san_martin3_1_sxidaa.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157483/Viviendas/15_San%20Martin/san_martin_4_1_ossps8.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157483/Viviendas/15_San%20Martin/san_martin5_1_nodhmo.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "AÑO: 2019"
+                },
+                {
+                    "parrafo": "Se trata de un dúplex que el propietario quería construir para alquilar, por lo cual tenía que ser muy funcional."
+                },
+                {
+                    "parrafo": "En planta baja se ubicó el área social, sobre el living se diseñó una doble altura para generar mayor amplitud y una mejor calidad espacial."
+                },
+                {
+                    "parrafo": "Sobre la planta alta se ubican los dormitorios. Se optó por un diseño moderno y minimalista."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157483/Viviendas/15_San%20Martin/san_martin_6_zgyss9.jpg"
+    }
+]
