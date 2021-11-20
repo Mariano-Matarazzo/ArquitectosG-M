@@ -219,6 +219,9 @@
         "slider" :
         [
             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157468/Viviendas/7_Marco%20Avellaneda/Marco_avellaneda1_jb9v1g.jpg"
+            },
+            {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157467/Viviendas/7_Marco%20Avellaneda/Marco_avellaneda_2_cyhlqh.jpg"
             },
             {
@@ -229,6 +232,21 @@
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157468/Viviendas/7_Marco%20Avellaneda/Marco_avellaneda5_tdzvvz.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157468/Viviendas/7_Marco%20Avellaneda/Marco_avellaneda6_rztw9z.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157468/Viviendas/7_Marco%20Avellaneda/Marco_avellaneda7_prt1cm.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157468/Viviendas/7_Marco%20Avellaneda/Marco_avellaneda8_eqdvrt.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157467/Viviendas/7_Marco%20Avellaneda/Marco_a_vellaneda9_hgl2my.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157467/Viviendas/7_Marco%20Avellaneda/Marco_Avellaneda10_j51uly.jpg"
             }
         ],
         "informacionGeneral": 
