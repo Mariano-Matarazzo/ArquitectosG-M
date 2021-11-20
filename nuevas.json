@@ -5,7 +5,10 @@
         "nombre": "CASA NC",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157450/Viviendas/1%20_Casa%20NC/casa_NC_1_avfuot.jpg",
         "slider" :
-        [
+        [   
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157450/Viviendas/1%20_Casa%20NC/casa_NC_1_avfuot.jpg"
+            },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157450/Viviendas/1%20_Casa%20NC/CASA_NC_2_zc6aie.jpg"
             },
@@ -17,7 +20,10 @@
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157450/Viviendas/1%20_Casa%20NC/CASA_NC_5_nwg2y4.jpg"
-            }
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157450/Viviendas/1%20_Casa%20NC/CASA_NC6_z2cnid.jpg"
+            },
         ],
         "informacionGeneral": 
             [
