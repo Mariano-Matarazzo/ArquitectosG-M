@@ -50,6 +50,9 @@
         "slider" :
         [   
             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157452/Viviendas/2_Casa%20JS/casa_js_1_svjdg8.jpg"
+            },
+            {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157453/Viviendas/2_Casa%20JS/casa_js_2_llpgpt.jpg"
             },
             {
