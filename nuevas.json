@@ -607,16 +607,49 @@
         "slider" :
         [
             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157476/Viviendas/12_Edificio%2029%20septiembre/29_de_septiembre_1_3_sv8xbj.jpg"
+            },
+            {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157477/Viviendas/12_Edificio%2029%20septiembre/29_de_septiembre2_3_adflti.jpg"
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157477/Viviendas/12_Edificio%2029%20septiembre/29_de_septiembre_3_3_dhzx7t.jpg"
             },
             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157477/Viviendas/12_Edificio%2029%20septiembre/29_de_septiembre4_3_smtj1b.jpg"
+            },
+            {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157477/Viviendas/12_Edificio%2029%20septiembre/29_de_septiembre5_3_wcvxfv.jpg"
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157478/Viviendas/12_Edificio%2029%20septiembre/29_de_septiembre_6_2_zbo1jq.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157477/Viviendas/12_Edificio%2029%20septiembre/29_de_septiembre_7_2_lfjcah.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157477/Viviendas/12_Edificio%2029%20septiembre/29_de_septiembre_8_2_oi7we8.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157477/Viviendas/12_Edificio%2029%20septiembre/29_de_septiembre_9_2_bv84af.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157477/Viviendas/12_Edificio%2029%20septiembre/29_de_septiembre10_1_gyr2yl.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157476/Viviendas/12_Edificio%2029%20septiembre/29_de_septiembre_11_1_oz7g23.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157476/Viviendas/12_Edificio%2029%20septiembre/29_de_septiembre_12_1_tqqkze.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157476/Viviendas/12_Edificio%2029%20septiembre/29_de_septiembre_13_qmnm20.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157476/Viviendas/12_Edificio%2029%20septiembre/29_de_septiembre_14_rcrkxl.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157476/Viviendas/12_Edificio%2029%20septiembre/29_de_septiembre_15_agcnel.jpg"
             }
         ],
         "informacionGeneral": 
