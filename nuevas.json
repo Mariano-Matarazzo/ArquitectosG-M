@@ -555,6 +555,9 @@
         "slider" :
         [
             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157486/Viviendas/11_Pallares/Pallares_1_4_tmbhgy.jpg"
+            },
+            {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157486/Viviendas/11_Pallares/Pallares_2_4_cy1kei.jpg"
             },
             {
@@ -565,6 +568,15 @@
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157486/Viviendas/11_Pallares/Pallares_5_4_ib3qxb.jpg"
+            }
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157486/Viviendas/11_Pallares/Pallares_6_3_m4xkah.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157486/Viviendas/11_Pallares/Pallares_7_3_dvfpwx.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157486/Viviendas/11_Pallares/Pallares_8_3_ihk2z0.jpg"
             }
         ],
         "informacionGeneral": 
