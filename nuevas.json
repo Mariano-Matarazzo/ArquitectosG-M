@@ -7,6 +7,9 @@
         "slider" :
         [   
             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157450/Viviendas/1%20_Casa%20NC/casa_NC_1_avfuot.jpg"
+            },
+            {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157450/Viviendas/1%20_Casa%20NC/CASA_NC_2_zc6aie.jpg"
             },
             {
@@ -17,6 +20,9 @@
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157450/Viviendas/1%20_Casa%20NC/CASA_NC_5_nwg2y4.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157450/Viviendas/1%20_Casa%20NC/CASA_NC6_z2cnid.jpg"
             }
         ],
         "informacionGeneral": 
@@ -44,9 +50,6 @@
         "slider" :
         [   
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157450/Viviendas/1%20_Casa%20NC/casa_NC_1_avfuot.jpg"
-            },
-            {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157453/Viviendas/2_Casa%20JS/casa_js_2_llpgpt.jpg"
             },
             {
@@ -57,10 +60,7 @@
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157452/Viviendas/2_Casa%20JS/plano_casa_JS_nnygss.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157450/Viviendas/1%20_Casa%20NC/CASA_NC6_z2cnid.jpg"
-            }    
+            }
         ],
         "informacionGeneral": 
             [
