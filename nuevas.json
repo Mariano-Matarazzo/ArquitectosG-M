@@ -395,6 +395,9 @@
         "slider" :
         [
             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157479/Viviendas/9_Cerrito/Cerrito_1_rz7hbj.jpg"
+            },
+            {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157479/Viviendas/9_Cerrito/Cerrito_2_lfrhuu.jpg"
             },
             {
@@ -405,7 +408,55 @@
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157480/Viviendas/9_Cerrito/Cerrito_5_lomlqb.jpg"
-            }
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157480/Viviendas/9_Cerrito/Cerrito_6_ywsyhr.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157480/Viviendas/9_Cerrito/Cerrito_7_xd954u.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157480/Viviendas/9_Cerrito/Cerrito_8_yzi9ad.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157480/Viviendas/9_Cerrito/Cerrito_9_fcxpry.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157479/Viviendas/9_Cerrito/Cerrito_10_cps2gx.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157480/Viviendas/9_Cerrito/Cerrito11_lkh5jl.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157481/Viviendas/9_Cerrito/Cerrito12_d8w4wc.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157479/Viviendas/9_Cerrito/Cerrito_13_kjmxp2.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157481/Viviendas/9_Cerrito/Cerrito15_e0ytfx.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157479/Viviendas/9_Cerrito/Cerrito_16_tbnjrb.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157481/Viviendas/9_Cerrito/Cerrito17_vnl8a1.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157479/Viviendas/9_Cerrito/Cerrito_18_flz1ar.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157481/Viviendas/9_Cerrito/Cerrito19_konkoc.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157479/Viviendas/9_Cerrito/Cerrito_20_v3msk6.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157479/Viviendas/9_Cerrito/Cerrito_21_p3ziie.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157481/Viviendas/9_Cerrito/Cerrito22_vfdrgd.jpg"
+            },
         ],
         "informacionGeneral": 
             [
@@ -437,6 +488,9 @@
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157474/Viviendas/10_Rep%C3%BAblica%20Argentina/republica_argentina_4_xxke0t.jpg",
         "slider" :
         [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157474/Viviendas/10_Rep%C3%BAblica%20Argentina/republica_argentina_2_wxulxq.jpg"
+            },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157474/Viviendas/10_Rep%C3%BAblica%20Argentina/republica_argentina_2_wxulxq.jpg"
             },
