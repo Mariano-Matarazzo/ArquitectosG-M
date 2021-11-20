@@ -488,8 +488,9 @@
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157474/Viviendas/10_Rep%C3%BAblica%20Argentina/republica_argentina_4_xxke0t.jpg",
         "slider" :
         [
+            
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157474/Viviendas/10_Rep%C3%BAblica%20Argentina/republica_argentina_2_wxulxq.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157474/Viviendas/10_Rep%C3%BAblica%20Argentina/Republica_argentina_1_xuj8kg.jpg"
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157474/Viviendas/10_Rep%C3%BAblica%20Argentina/republica_argentina_2_wxulxq.jpg"
@@ -502,7 +503,23 @@
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157475/Viviendas/10_Rep%C3%BAblica%20Argentina/republica_argentina_5_unoava.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157475/Viviendas/10_Rep%C3%BAblica%20Argentina/republica_argentina_6_d5pt9g.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157475/Viviendas/10_Rep%C3%BAblica%20Argentina/republica_argentina_7_pjhafq.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157475/Viviendas/10_Rep%C3%BAblica%20Argentina/republica_argentina8_lqk4vb.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157475/Viviendas/10_Rep%C3%BAblica%20Argentina/republica_argentina_9_qaugd1.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157474/Viviendas/10_Rep%C3%BAblica%20Argentina/republica_argentina_10_ms5n1w.jpg"
             }
+            
         ],
         "informacionGeneral": 
             [
