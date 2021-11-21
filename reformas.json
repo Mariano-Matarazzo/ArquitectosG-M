@@ -601,6 +601,9 @@
         "slider" :
         [
             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157394/Reformas/10_Consultorios%20Paso/consultorio_paso_1_jhm0bu.jpg"
+            },
+            {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157397/Reformas/10_Consultorios%20Paso/consultorio_paso2_mphmhb.jpg"
             },
             {
@@ -611,6 +614,45 @@
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157396/Reformas/10_Consultorios%20Paso/consultorio_paso_6_esgrqr.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157396/Reformas/10_Consultorios%20Paso/consultorio_paso_7_f7xb4w.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157397/Reformas/10_Consultorios%20Paso/consultorio_paso_8_sxhieg.jpg"
+            }, 
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157397/Reformas/10_Consultorios%20Paso/consultorio_paso_9_pxraqk.jpg"
+            },  
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157394/Reformas/10_Consultorios%20Paso/consultorio_paso_11_udcyv9.jpg"
+            }, 
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157394/Reformas/10_Consultorios%20Paso/consultorio_paso_12_fsgmvr.jpg"
+            }, 
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157397/Reformas/10_Consultorios%20Paso/consultorio_paso13_mvhtoe.jpg"
+            }, 
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157396/Reformas/10_Consultorios%20Paso/consultorio_paso_14_euikem.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157397/Reformas/10_Consultorios%20Paso/consultorio_paso_15_cwywxj.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157397/Reformas/10_Consultorios%20Paso/consultorio_paso_16_hfxnby.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157398/Reformas/10_Consultorios%20Paso/consultorio_pso_17_jipyae.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157395/Reformas/10_Consultorios%20Paso/consultorio_paso_18_bpqvkv.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157395/Reformas/10_Consultorios%20Paso/consultorio_paso_19_cle3zh.jpg"
+            }, 
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157396/Reformas/10_Consultorios%20Paso/consultorio_paso_20_cymfkw.jpg"
             }
         ],
         "informacionGeneral": 
