@@ -775,6 +775,9 @@
         "slider" :
         [
             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157407/Reformas/13_Casa%20Arias/casa_arias_1_23_wgraiw.jpg"
+            },
+            {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157407/Reformas/13_Casa%20Arias/casa_arias_2_srgdg8.jpg"
             },
             {
@@ -785,6 +788,12 @@
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157407/Reformas/13_Casa%20Arias/casa_arias_9_16_fvzkml.jpg"
+            },  
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157407/Reformas/13_Casa%20Arias/casa_arias_11_11_cwr0g9.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157408/Reformas/13_Casa%20Arias/casa_arias6_18_spqowd.jpg"
             }
         ],
         "informacionGeneral": 
