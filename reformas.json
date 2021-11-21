@@ -894,6 +894,9 @@
         "slider" :
         [
             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157414/Reformas/15_Dpto%20Italia/italia1_izvkra.jpg"
+            },
+            {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157414/Reformas/15_Dpto%20Italia/italia2_mvto4s.jpg"
             },
             {
@@ -901,6 +904,9 @@
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157415/Reformas/15_Dpto%20Italia/italia4_sdu6dr.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157414/Reformas/15_Dpto%20Italia/italia5_sloyxp.jpg"
             }
         ],
         "informacionGeneral": 
@@ -922,6 +928,9 @@
         "slider" :
         [
             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157416/Reformas/16_Quincho%20Palestina/quincho_palestina1_zbe9ut.jpg"
+            },
+            {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157417/Reformas/16_Quincho%20Palestina/quincho_palestina2_nx5rqm.jpg"
             },
             {
@@ -932,6 +941,18 @@
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157416/Reformas/16_Quincho%20Palestina/quincho_palestina_5_pg65tg.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157416/Reformas/16_Quincho%20Palestina/quincho_palestina_6_n6xgdz.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157417/Reformas/16_Quincho%20Palestina/quincho_palestina_7_hi8qpo.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157416/Reformas/16_Quincho%20Palestina/quincho_palestina_8_aipsiu.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157416/Reformas/16_Quincho%20Palestina/quincho_palestina_9_pbsqsh.jpg"
             }
         ],
         "informacionGeneral": 
@@ -958,6 +979,9 @@
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157418/Reformas/17_%20Cocina%20yapeyu/render1_io9hv8.jpg",
         "slider" :
         [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157418/Reformas/17_%20Cocina%20yapeyu/render1_io9hv8.jpg"
+            },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157418/Reformas/17_%20Cocina%20yapeyu/render2_ul1ceb.jpg"
             },
