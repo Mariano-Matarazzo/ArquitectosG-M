@@ -79,9 +79,18 @@
         "id": "2",
         "categoria": "reformas",
         "nombre": "QUINCHO Y TERRAZA JVG",
-        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157369/Reformas/2_Quincho%20y%20terraza%20JVG/quincho_y_terraza_jv_3_23_o1vuvt.jpg",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157370/Reformas/2_Quincho%20y%20terraza%20JVG/quincho_y_terraza_jv1_24_z3udbt.jpg",
         "slider" :
         [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157370/Reformas/2_Quincho%20y%20terraza%20JVG/quincho_y_terraza_jv1_24_z3udbt.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157370/Reformas/2_Quincho%20y%20terraza%20JVG/quincho_y_terraza_jv2_26_t9osht.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157369/Reformas/2_Quincho%20y%20terraza%20JVG/quincho_y_terraza_jv_3_23_o1vuvt.jpg"
+            },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157370/Reformas/2_Quincho%20y%20terraza%20JVG/quincho_y_terraza_jv_4_25_jxzc13.jpg"
             },
@@ -93,6 +102,9 @@
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157369/Reformas/2_Quincho%20y%20terraza%20JVG/quincho_y_tarraza_jv_7_19_x78o5s.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157369/Reformas/2_Quincho%20y%20terraza%20JVG/quincho_y_tarraza_jv_8_19_j3envz.jpg"
             }
         ],
         "informacionGeneral": 
