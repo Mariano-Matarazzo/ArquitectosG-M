@@ -354,6 +354,9 @@
         "slider" :
         [
             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157382/Reformas/6_Casa%20Marmol/casa_marmol1_20_nulvmq.jpg"
+            },
+            {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157381/Reformas/6_Casa%20Marmol/casa_marmol_2_22_riytes.jpg"
             },
             {
@@ -364,6 +367,24 @@
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157382/Reformas/6_Casa%20Marmol/casa_marmol_5_18_xllkea.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157382/Reformas/6_Casa%20Marmol/casa_marmol_6_iwj0ym.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157381/Reformas/6_Casa%20Marmol/casa_maramol_7_16_b0bu1c.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157382/Reformas/6_Casa%20Marmol/casa_marmol_8_15_eatxsx.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157382/Reformas/6_Casa%20Marmol/casa_marmol_9_13_yi9znc.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157381/Reformas/6_Casa%20Marmol/casa_marmol_10_10_kjylkg.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157381/Reformas/6_Casa%20Marmol/casa_marmol_11_8_dzr4zp.jpg"
             }
         ],
         "informacionGeneral": 
