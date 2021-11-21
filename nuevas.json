@@ -689,6 +689,9 @@
         "slider" :
         [
             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157487/Viviendas/13_Casa%20CISSAB/1_xwsli9.jpg"
+            },
+            {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157487/Viviendas/13_Casa%20CISSAB/2_rwhifj.jpg"
             },
             {
@@ -699,6 +702,21 @@
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157487/Viviendas/13_Casa%20CISSAB/5_cg7vn3.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157488/Viviendas/13_Casa%20CISSAB/6_oc2nl5.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157488/Viviendas/13_Casa%20CISSAB/7_wuxzhf.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157488/Viviendas/13_Casa%20CISSAB/8_sp6j2v.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157488/Viviendas/13_Casa%20CISSAB/9_m4am1z.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157487/Viviendas/13_Casa%20CISSAB/10_muymkb.jpg"
             }
         ],
         "informacionGeneral": 
