@@ -685,7 +685,7 @@
         "id": "12",
         "categoria": "nuevas",
         "nombre": "CASA CISSAB",
-        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157487/Viviendas/13_Casa%20CISSAB/3_dagg1i.jpg",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157487/Viviendas/13_Casa%20CISSAB/1_xwsli9.jpg",
         "slider" :
         [
             {
@@ -744,6 +744,9 @@
         "slider" :
         [
             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157488/Viviendas/14_Complejo%20Gorriti/depto_gorriti1_2_tlydgu.jpg"
+            },
+            {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157488/Viviendas/14_Complejo%20Gorriti/depto_gorriti2_2_s5qauy.jpg"
             },
             {
@@ -754,6 +757,18 @@
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157488/Viviendas/14_Complejo%20Gorriti/depto_gorriti5_2_tg1irr.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157489/Viviendas/14_Complejo%20Gorriti/depto_gorriti6_1_bqxi7m.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157488/Viviendas/14_Complejo%20Gorriti/depto_gorriti7_1_c1ty0h.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157489/Viviendas/14_Complejo%20Gorriti/depto_gorriti8_1_ubryac.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157489/Viviendas/14_Complejo%20Gorriti/depto_gorriti9_1_ggccyo.jpg"
             }
         ],
         "informacionGeneral": 
