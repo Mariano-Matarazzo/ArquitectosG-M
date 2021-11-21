@@ -689,6 +689,9 @@
         "slider" :
         [
             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157398/Reformas/11_Casa%20Grigera/casa_grigera_1_dsszhe.jpg"
+            },
+            {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157399/Reformas/11_Casa%20Grigera/casa_grigera_2_erm3gd.jpg"
             },
             {
@@ -699,6 +702,15 @@
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157400/Reformas/11_Casa%20Grigera/casa_grigera_5_nz82oi.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157407/Reformas/11_Casa%20Grigera/casa_grigera_6_cgdnjg.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157400/Reformas/11_Casa%20Grigera/casa_grigera_7_bgahgb.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157399/Reformas/11_Casa%20Grigera/casa_grigera_8_uii1b8.jpg"
             }
         ],
         "informacionGeneral": 
