@@ -1017,6 +1017,9 @@
         "slider" :
         [
             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157412/Reformas/18_Hall%20Sarmiento/hall_sarmiento_1_bzqf7x.jpg"
+            },
+            {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157411/Reformas/18_Hall%20Sarmiento/hall_sarmiento_2_jxqryg.jpg"
             },
             {
@@ -1024,6 +1027,9 @@
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157411/Reformas/18_Hall%20Sarmiento/hall_sarmiento_4_sdyj5d.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157411/Reformas/18_Hall%20Sarmiento/hall_sarmiento_5_cqyghb.jpg"
             }
         ],
         "informacionGeneral": 
@@ -1048,6 +1054,9 @@
         "slider" :
         [
             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157421/Reformas/19_Casa%20Palestina/palestina1_rnrbxo.jpg"
+            },
+            {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157421/Reformas/19_Casa%20Palestina/palestina2_t7dix2.jpg"
             },
             {
@@ -1058,6 +1067,24 @@
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157421/Reformas/19_Casa%20Palestina/palestina5_yeabu8.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157421/Reformas/19_Casa%20Palestina/palestina6_jlbprm.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157421/Reformas/19_Casa%20Palestina/palestina7_nzosoz.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157422/Reformas/19_Casa%20Palestina/palestina8_dh2xqn.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157422/Reformas/19_Casa%20Palestina/palestina9_ks6jbu.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157421/Reformas/19_Casa%20Palestina/palestina10_nrrjnx.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157421/Reformas/19_Casa%20Palestina/palestina11_tot2ow.jpg"
             }
         ],
         "informacionGeneral": 
