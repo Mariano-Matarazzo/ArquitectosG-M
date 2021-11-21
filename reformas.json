@@ -735,6 +735,9 @@
         "slider" :
         [
             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157409/Reformas/12_Local%20Mundoshop/local_mundoshop1_18_pnuj70.jpg"
+            },
+            {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157410/Reformas/12_Local%20Mundoshop/local_mundoshop2_20_wp2apy.jpg"
             },
             {
@@ -745,6 +748,12 @@
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157409/Reformas/12_Local%20Mundoshop/local_mundoshop5_16_ymuqbh.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157409/Reformas/12_Local%20Mundoshop/local_mundoshop_6_15_dfdlko.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157409/Reformas/12_Local%20Mundoshop/local_mundoshop_7_14_yo93cz.jpg"
             }
         ],
         "informacionGeneral": 
