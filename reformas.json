@@ -1219,6 +1219,9 @@
         "slider" :
         [
             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157420/Reformas/22_Cocina%20dominico/cocina_dominico_1_1_g4madx.png"
+            },
+            {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157419/Reformas/22_Cocina%20dominico/cocina_dominico_2_14_ol7r4j.jpg"
             },
             {
@@ -1262,6 +1265,9 @@
         "slider" :
         [
             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157436/Reformas/23%20Dpto%20Pueyrredon/1_qbfdvn.jpg"
+            },
+            {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157437/Reformas/23%20Dpto%20Pueyrredon/2_dub5rt.jpg"
             },
             {
@@ -1272,6 +1278,12 @@
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157432/Reformas/23%20Dpto%20Pueyrredon/5_mudj9d.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157431/Reformas/23%20Dpto%20Pueyrredon/6_h3pdeb.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157432/Reformas/23%20Dpto%20Pueyrredon/7_wzyrg5.jpg"
             }
         ],
         "informacionGeneral": 
@@ -1298,6 +1310,9 @@
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157424/Reformas/24%20Terraza%20Conde/terraza_Conde_1_aopgtn.jpg",
         "slider" :
         [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157424/Reformas/24%20Terraza%20Conde/terraza_Conde_1_aopgtn.jpg"
+            },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157425/Reformas/24%20Terraza%20Conde/conde_2_oz0cya.jpg"
             },
@@ -1330,16 +1345,13 @@
         "slider" :
         [
             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157428/Reformas/25%20Frente%20Nazar/1_kxmtis.jpg"
+            },
+            {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157428/Reformas/25%20Frente%20Nazar/2_njyt8i.jpg"
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157430/Reformas/25%20Frente%20Nazar/3_zybkme.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157428/Reformas/25%20Frente%20Nazar/1_kxmtis.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/doejsqlbl/image/upload/v1634048143/sample.jpg"
             }
         ],
         "informacionGeneral": 
