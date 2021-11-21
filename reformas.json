@@ -409,6 +409,9 @@
         "slider" :
         [
             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157387/Reformas/7_Oficina%20Sarmiento/oficinas_sarmiento_1_17_zoxqmb.jpg"
+            },
+            {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157387/Reformas/7_Oficina%20Sarmiento/oficinas_sarmiento_2_19_xerd4f.jpg"
             },
             {
@@ -419,6 +422,18 @@
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157387/Reformas/7_Oficina%20Sarmiento/oficinas_sarmiento_6_14_crsoai.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157388/Reformas/7_Oficina%20Sarmiento/oficinas_sarmiento_7_13_tmmrwo.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157388/Reformas/7_Oficina%20Sarmiento/oficinas_sarmiento_8_13_bt56dm.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157388/Reformas/7_Oficina%20Sarmiento/oficinas_sarmiento_9_11_nxj7ma.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157387/Reformas/7_Oficina%20Sarmiento/oficinas_sarmiento_10_8_hacwlm.jpg"
             }
         ],
         "informacionGeneral": 
