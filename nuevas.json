@@ -792,21 +792,45 @@
         "id": "14",
         "categoria": "nuevas",
         "nombre": "SAN MARTIN",
-        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157483/Viviendas/15_San%20Martin/san_martin7_afhucf.jpg",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1637453443/Viviendas/15_San%20Martin/San_martin_1B_u962gk.jpg",
         "slider" :
         [
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157483/Viviendas/15_San%20Martin/san_martin2_1_ra0iud.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1637453443/Viviendas/15_San%20Martin/San_martin_1B_u962gk.jpg"
+            },  
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1637453442/Viviendas/15_San%20Martin/san_martin2_1_ssw5or.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157483/Viviendas/15_San%20Martin/san_martin3_1_sxidaa.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1637453442/Viviendas/15_San%20Martin/san_martin3_1_gofebt.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157483/Viviendas/15_San%20Martin/san_martin_4_1_ossps8.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1637453443/Viviendas/15_San%20Martin/san_martin_4_1_t5hpv1.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157483/Viviendas/15_San%20Martin/san_martin5_1_nodhmo.jpg"
-            }
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1637453443/Viviendas/15_San%20Martin/san_martin5_1_fntgms.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1637453444/Viviendas/15_San%20Martin/san_martin_6_fnrnx2.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1637453443/Viviendas/15_San%20Martin/san_martin7_lb2fbo.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1637453443/Viviendas/15_San%20Martin/san_martin8_t5yanf.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1637453442/Viviendas/15_San%20Martin/san_martin9_fw86jm.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1637453443/Viviendas/15_San%20Martin/san_martin_10_wsfu1e.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1637453444/Viviendas/15_San%20Martin/san_martin_11_ocugej.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1637453441/Viviendas/15_San%20Martin/san_martin_12_omsnxa.jpg"
+            }       
         ],
         "informacionGeneral": 
             [
