@@ -461,6 +461,9 @@
         "slider" :
         [
             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157390/Reformas/8_Casa%20Caxaraville/Casa_caxaville_A_tkdtxu.jpg"
+            },
+            {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157390/Reformas/8_Casa%20Caxaraville/Casa_caxaville_B_q1mlma.jpg"
             },
             {
@@ -471,6 +474,27 @@
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157390/Reformas/8_Casa%20Caxaraville/Casa_caxaville_F_imfetu.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157390/Reformas/8_Casa%20Caxaraville/Casa_caxaville_G_yyd0mr.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157390/Reformas/8_Casa%20Caxaraville/Casa_Caxaville_H_nfvfou.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157390/Reformas/8_Casa%20Caxaraville/Casa_caxaville_I_pnga3m.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157390/Reformas/8_Casa%20Caxaraville/casa_caxaville_J_ogmk6f.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157390/Reformas/8_Casa%20Caxaraville/casa_caxaville_N_yjtqef.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157391/Reformas/8_Casa%20Caxaraville/casa_caxaville_P_dxioaa.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157391/Reformas/8_Casa%20Caxaraville/casa_caxaville_R_ssibo5.jpg"
             }
         ],
         "informacionGeneral": 
