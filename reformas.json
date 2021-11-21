@@ -821,6 +821,9 @@
         "slider" :
         [
             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157413/Reformas/14_Ph%20Cabrero/ph_cabrero_1_15_egnddu.jpg"
+            },
+            {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157412/Reformas/14_Ph%20Cabrero/ph_cabrero_2_17_vzhlqz.jpg"
             },
             {
@@ -831,6 +834,27 @@
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157413/Reformas/14_Ph%20Cabrero/ph_cabrero_5_13_uwjfk8.jpg"
+            }, 
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157413/Reformas/14_Ph%20Cabrero/ph_cabrero_6_12_faiyro.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157413/Reformas/14_Ph%20Cabrero/ph_cabrero_7_11_rz7k6e.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157413/Reformas/14_Ph%20Cabrero/ph_cabrero_8_11_mymjyz.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157413/Reformas/14_Ph%20Cabrero/ph_cabrero_9_9_jxasho.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157413/Reformas/14_Ph%20Cabrero/ph_carbero_10_6_se9nfh.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157412/Reformas/14_Ph%20Cabrero/ph_cabrero_11_6_ia3n6d.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157412/Reformas/14_Ph%20Cabrero/ph_cabrero_12_5_sud21j.jpg"
             }
         ],
         "informacionGeneral": 
