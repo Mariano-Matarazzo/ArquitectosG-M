@@ -534,6 +534,9 @@
         "slider" :
         [
             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157392/Reformas/9_Oficinas%20alselec/oficinas_alselec_2_18_mdxie1.jpg"
+            },
+            {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157392/Reformas/9_Oficinas%20alselec/oficinas_alselec_3_16_pvlkgx.jpg"
             },
             {
@@ -544,6 +547,30 @@
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157393/Reformas/9_Oficinas%20alselec/oficinas_alseleec_6_13_fpzz93.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157392/Reformas/9_Oficinas%20alselec/oficinas_alselec_7_12_pekbty.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157392/Reformas/9_Oficinas%20alselec/oficinas_alselec_8_12_is6eeh.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157392/Reformas/9_Oficinas%20alselec/oficinas_alselec_9_10_dkkyl6.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157391/Reformas/9_Oficinas%20alselec/oficinas_alselec_10_7_g70u36.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157391/Reformas/9_Oficinas%20alselec/oficinas_alselec_12_6_t2wxf4.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157392/Reformas/9_Oficinas%20alselec/oficinas_alselec_13_4_zyiffz.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157392/Reformas/9_Oficinas%20alselec/oficinas_alselec_14_4_j3kvxp.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157392/Reformas/9_Oficinas%20alselec/oficinas_alselec_15_4_furo0f.jpg"
             }
         ],
         "informacionGeneral": 
