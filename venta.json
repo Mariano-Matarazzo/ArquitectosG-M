@@ -74,5 +74,82 @@
                 }
             ],
         "ubicacion": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157319/Casa%20JS/LOTE_CASA_JS_gup5qw.jpg"
+    },
+    {
+        "id": "2",
+        "nombre": "CASA OMEGA",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1637458971/LOTE_CASA_omega_dei7px.jpg",
+        "slider" :
+            [
+                {
+                    "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1637458971/LOTE_CASA_omega_dei7px.jpg"
+                },
+                {
+                    "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1637458971/LOTE_CASA_omega_dei7px.jpg"
+                },
+                {
+                    "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1637458971/LOTE_CASA_omega_dei7px.jpg"
+                }
+            ],
+        "caracteristicas" : 
+            {
+                "ubicacion": "Horizontes al sur, Canning, Bs.As",
+                "orientacion": "Noroeste",
+                "dormitorios": "3 Dormitorios",
+                "toilette": "1 Toilette",
+                "baños": "2 Baños",
+                "pisos": "2 Pisos",
+                "cochera": "Cochera semicubierta para 2 autos",
+                "estado": "A estrenar"
+            },
+        "acercaDeLaPropiedad":
+            [
+                {
+                    "parrafo": "Casa de 143 m2 totales desarrollada en 2 plantas sobre un terreno de 600 m2. Posee 3 amplios dormitorios, el matrimonial en suite con una amplia terraza privada. Se caracteriza por su estilo moderno y minimalista, amplios ventanales y construcción de categoría."
+                }
+            ],
+        "plantaBaja": 
+            [
+                {
+                    "item": "Cochera semicubierta para dos autos"
+                },
+                {
+                    "item": "Toilette de recepción"
+                },
+                {
+                    "item": "Cocina integrada con muebles bajo mesada y alacenas"
+                },
+                {
+                    "item": "Living- comedor"
+                },
+                {
+                    "item": "Lavadero"
+                },
+                {
+                    "item": "Galería y amplia parrilla"
+                }
+            ],
+        "plantaBajaImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157318/Casa%20JS/pb_casa_JS_zajuj8.jpg",
+        "plantaAlta": 
+            [
+                {
+                    "item": "Habitación matrimonial en suite con amplio vestidor"
+                },
+                {
+                    "item": "Amplia terraza privada para habitación matrimonial"
+                },
+                {
+                    "item": "2 Habitaciones en semisuite, ambas con placard"
+                }
+            ],
+        "plantaAltaImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157318/Casa%20JS/pa_casa_JS_fml8rf.jpg",
+        "parrafosFinales":
+            [
+                {
+                    "parrafo": "La casa cuenta con calefacción por radiadores, instalación preparada para la colocación de splits en las habitaciones, aberturas DVH con marcos de aluminio línea Modena, laminados de seguridad en PB y pisos de porcelanato en PB y flotante en PA. Posee gas natural. Excelentes terminaciones."
+                }
+            ],
+        "ubicacion": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157319/Casa%20JS/LOTE_CASA_JS_gup5qw.jpg"
     }
+    
 ]
