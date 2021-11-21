@@ -7,6 +7,9 @@
         "slider" :
         [
             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157355/Reformas/1_Quincho%20Chivilcoy/quincho_chivilcoy_a_y_d_1_bgn67o.jpg"
+            },
+            {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157355/Reformas/1_Quincho%20Chivilcoy/quincho_chivilcoy_a_y_d_2_im8fqz.jpg"
             },
             {
@@ -17,6 +20,45 @@
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157354/Reformas/1_Quincho%20Chivilcoy/quincho_chivilcoy_5_i3lfgr.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157354/Reformas/1_Quincho%20Chivilcoy/quincho_chivilcoy_6_nkjz0r.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157354/Reformas/1_Quincho%20Chivilcoy/quincho_chivilcoy_7_psz48u.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157354/Reformas/1_Quincho%20Chivilcoy/quincho_chivilcoy_8_nypxfa.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157355/Reformas/1_Quincho%20Chivilcoy/quincho_chivilcoy_9_no7tdz.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157353/Reformas/1_Quincho%20Chivilcoy/quincho_chivilcoy_10_yblout.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157353/Reformas/1_Quincho%20Chivilcoy/quincho_chivilcoy_11_avwba4.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157353/Reformas/1_Quincho%20Chivilcoy/quinchi_chivilcoy_12_djjtvt.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157353/Reformas/1_Quincho%20Chivilcoy/quinchi_chivilcoy_13_mwxagu.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157353/Reformas/1_Quincho%20Chivilcoy/quinchi_chivilcoy_14_umwkha.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157353/Reformas/1_Quincho%20Chivilcoy/quinchi_chivilcoy_15_omonpk.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157354/Reformas/1_Quincho%20Chivilcoy/quincho_chivilcoy_16_a0w5km.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157354/Reformas/1_Quincho%20Chivilcoy/quincho_chivilcoy_17_szvdol.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157354/Reformas/1_Quincho%20Chivilcoy/quincho_chivilcoy_18_oyq0iu.jpg"
             }
         ],
         "informacionGeneral": 
