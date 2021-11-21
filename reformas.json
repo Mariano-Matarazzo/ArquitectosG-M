@@ -126,6 +126,9 @@
         "slider" :
         [
             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_1_k3b0th.jpg"
+            },
+            {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_2_pbabsx.jpg"
             },
             {
@@ -135,7 +138,28 @@
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_4_vxrlwc.jpg"
             },
             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_7_tboou2.jpg"
+            },
+            {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_8_c59ikv.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157375/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_9_ixqtsd.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_11_iz5ads.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_12_ndgbfk.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157374/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_13_u2ckbo.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_14_hxhtk0.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_15_vodyaj.jpg"
             }
         ],
         "informacionGeneral": 
