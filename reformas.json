@@ -196,6 +196,9 @@
         "slider" :
         [
             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157375/Reformas/4_Depto%20Cordoba/depto_corrientes_1_21_r8wzrc.jpg"
+            },
+            {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157376/Reformas/4_Depto%20Cordoba/depto_corrientes_2_23_oj6cw3.jpg"
             },
             {
@@ -206,6 +209,30 @@
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157376/Reformas/4_Depto%20Cordoba/depto_corrientes_5_19_ms9uhy.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157376/Reformas/4_Depto%20Cordoba/depto_corrientes_6_17_foopos.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157377/Reformas/4_Depto%20Cordoba/depto_corrientes_7_17_n9jsbc.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157377/Reformas/4_Depto%20Cordoba/depto_corrientes_8_16_j5npa2.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157377/Reformas/4_Depto%20Cordoba/depto_corrientes_9_14_hrlf0t.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157375/Reformas/4_Depto%20Cordoba/depto_corrientes_11_9_tiqjma.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157375/Reformas/4_Depto%20Cordoba/depto_corrientes_12_8_kwuuwj.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157377/Reformas/4_Depto%20Cordoba/depto_corrientes_13_6_ub9zph.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157375/Reformas/4_Depto%20Cordoba/depto_corrientes_14_6_so2iq5.jpg"
             }
         ],
         "informacionGeneral": 
