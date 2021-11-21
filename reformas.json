@@ -1124,6 +1124,9 @@
         "slider" :
         [
             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157425/Reformas/20_Clinica%20kinesiologia/clinica_1a_apnzpj.jpg"
+            },
+            {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157425/Reformas/20_Clinica%20kinesiologia/clinica_2_13_zjbkdp.jpg"
             },
             {
@@ -1134,6 +1137,12 @@
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157425/Reformas/20_Clinica%20kinesiologia/clinica_6_9_kahkka.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157425/Reformas/20_Clinica%20kinesiologia/clinica_7_8_mzljxx.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157426/Reformas/20_Clinica%20kinesiologia/clinica_8_8_syjtpf.jpg"
             }
         ],
         "informacionGeneral": 
@@ -1151,20 +1160,26 @@
         "id": "21",
         "categoria": "reformas",
         "nombre": "DPTO LACARRA",
-        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157427/Reformas/21_Depto%20Lacarra/depto_lacarra_2_12_yjknfy.jpg",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157427/Reformas/21_Depto%20Lacarra/depto_lacarra1_13_ypokex.jpg",
         "slider" :
         [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157427/Reformas/21_Depto%20Lacarra/depto_lacarra1_13_ypokex.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157427/Reformas/21_Depto%20Lacarra/depto_lacarra_2_12_yjknfy.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157427/Reformas/21_Depto%20Lacarra/depto_lacarra3_10_bddevm.jpg"
+            },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157427/Reformas/21_Depto%20Lacarra/depto_lacarra_4_11_y2rntu.jpg"
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157427/Reformas/21_Depto%20Lacarra/depto_lacarra_5_9_khkrrd.jpg"
             },
-            {
+             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157427/Reformas/21_Depto%20Lacarra/depto_lacarra_6_8_t6oraj.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157427/Reformas/21_Depto%20Lacarra/depto_lacarra3_10_bddevm.jpg"
             }
         ],
         "informacionGeneral": 
