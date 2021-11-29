@@ -1370,5 +1370,42 @@
                 }
             ],
         "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157430/Reformas/25%20Frente%20Nazar/3_zybkme.jpg"
-    }
+    },
+    {
+        "id": "26",
+        "categoria": "reformas",
+        "nombre": "SOY UN PROYECTO NUEVO",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157417/Reformas/16_Quincho%20Palestina/quincho_palestina2_nx5rqm.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157417/Reformas/16_Quincho%20Palestina/quincho_palestina_3_mnnmol.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157355/Reformas/1_Quincho%20Chivilcoy/quincho_chivilcoy_a_y_d_2_im8fqz.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157354/Reformas/1_Quincho%20Chivilcoy/quincho_chivilcoy_3_j6ugke.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157354/Reformas/1_Quincho%20Chivilcoy/quincho_chivilcoy_4_rncn4a.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "El pedido del cliente fue aprovechar al máximo una terraza que, si bien era accesible estaba en desuso"
+                },
+                {
+                    "parrafo": "Se construyeron un quincho con parrilla y gimnasio y en la zona exterior un espacio de duchas y solárium con áreas de descanso. Para el interior se optó por un diseño moderno y minimalista con algunos detalles rústicos. Se priorizó la buena iluminación y ventilación con grandes ventanales que se vinculaban con el área exterior. Se utilizaron colores claros y madera para lograr un ambiente cálido y armónico."
+                },
+                {
+                    "parrafo": "En la zona exterior se utilizó el lapacho tanto en decks como en bancos y canteros, se buscó generar un clima cálido con abundante vegetación. Se priorizó el aprovechamiento de los espacios al aire libre."
+                },
+                {
+                    "parrafo": "Soy un nuevo parrafo"
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157354/Reformas/1_Quincho%20Chivilcoy/quincho_chivilcoy_6_nkjz0r.jpg"
+    },
 ]
