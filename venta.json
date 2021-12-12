@@ -160,7 +160,7 @@
         "nombre": "CASA NC",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157450/Viviendas/1%20_Casa%20NC/casa_NC_1_avfuot.jpg",
         "slider" :
-          
+          [
                 {
                     "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157318/Casa%20JS/casa_js_2_pqw8zw.jpg"
                 },
@@ -170,9 +170,9 @@
                 {
                     "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157318/Casa%20JS/casa_js_4_wov0uj.jpg"
                 },
-            
+          ],  
         "caracteristicas" : 
-            [
+            
                 {
                 "ubicacion": "Horizontes al sur, Canning, Bs.As",
                 "orientacion": "Noroeste",
@@ -183,7 +183,7 @@
                 "cochera": "Cochera semicubierta para 2 autos",
                 "estado": "A estrenar"
                 }
-           ],
+           
         "acercaDeLaPropiedad":
             [
                 {
