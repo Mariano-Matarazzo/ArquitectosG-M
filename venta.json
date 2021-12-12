@@ -88,7 +88,7 @@
                     "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1637458971/LOTE_CASA_omega_dei7px.jpg"
                 },
                 {
-                    "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1637458971/LOTE_CASA_omega_dei7px.jpg"
+                    "imagen": "https://staticbp.com/img/prop_new_b/441/00441007-01.jpg"
                 }
             ],
         "caracteristicas" : 
@@ -129,7 +129,7 @@
                     "item": "Galería y amplia parrilla"
                 }
             ],
-        "plantaBajaImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157471/Viviendas/8_Granaderos/Granaderos_24_u2qbml.jpg",
+        "plantaBajaImagen": " ",
         "plantaAlta": 
             [
                 {
@@ -142,13 +142,13 @@
                     "item": "2 Habitaciones en semisuite, ambas con placard"
                 }
             ],
-        "plantaAltaImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157471/Viviendas/8_Granaderos/Granaderos_24_u2qbml.jpg",
+        "plantaAltaImagen": " ",
         "parrafosFinales":
             [
                 {
                     "parrafo": "La casa cuenta con calefacción por radiadores, instalación preparada para la colocación de splits en las habitaciones, aberturas DVH con marcos de aluminio línea Modena, laminados de seguridad en PB y pisos de porcelanato en PB y flotante en PA. Posee gas natural. Excelentes terminaciones."
                 }
             ],
-        "ubicacion": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157471/Viviendas/8_Granaderos/Granaderos_24_u2qbml.jpg"
+        "ubicacion": " "
     }
 ]
