@@ -1,6 +1,7 @@
 [
     {
         "id": "1",
+        "categoria": "venta",
         "nombre": "CASA JS",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157318/Casa%20JS/casa_js_1_qd23p0.jpg",
         "slider" :
@@ -77,6 +78,7 @@
     },
     {
         "id": "2",
+        "categoria": "venta",
         "nombre": "CASA OMEGA",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1637458971/LOTE_CASA_omega_dei7px.jpg",
         "slider" :
