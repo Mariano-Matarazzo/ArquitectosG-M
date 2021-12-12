@@ -80,6 +80,7 @@
         "id": "2",
         "categoria": "venta",
         "nombre": "CASA OMEGA",
+       
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1637458971/LOTE_CASA_omega_dei7px.jpg",
         "slider" :
             [
