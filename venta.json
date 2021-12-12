@@ -77,13 +77,12 @@
         "ubicacion": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157319/Casa%20JS/LOTE_CASA_JS_gup5qw.jpg"
     },
     {
-        "id": "2",
+        "id": "3",
         "categoria": "venta",
-        "nombre": "CASA OMEGA",
-       
-        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1637458971/LOTE_CASA_omega_dei7px.jpg",
+        "nombre": "CASA prueba",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157460/Viviendas/5_Casa%20SB/casa_sb1_z5gtik.jpg",
         "slider" :
-            [
+        [
                 {
                     "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1637458971/LOTE_CASA_omega_dei7px.jpg"
                 },
@@ -154,24 +153,25 @@
             ],
         "ubicacion": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157319/Casa%20JS/LOTE_CASA_JS_gup5qw.jpg"
     },
-    {
-        "id": "3",
+   {
+        "id": "2",
         "categoria": "venta",
-        "nombre": "CASA NC",
-        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157450/Viviendas/1%20_Casa%20NC/casa_NC_1_avfuot.jpg",
+        "nombre": "CASA OMEGA",
+       
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1637458971/LOTE_CASA_omega_dei7px.jpg",
         "slider" :
-          [
+            [
                 {
-                    "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157318/Casa%20JS/casa_js_2_pqw8zw.jpg"
+                    "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1637458971/LOTE_CASA_omega_dei7px.jpg"
                 },
                 {
-                    "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157318/Casa%20JS/casa_js_3_jac6kf.jpg"
+                    "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1637458971/LOTE_CASA_omega_dei7px.jpg"
                 },
                 {
-                    "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157318/Casa%20JS/casa_js_4_wov0uj.jpg"
-                },
-          ],  
-"caracteristicas" : 
+                    "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1637458971/LOTE_CASA_omega_dei7px.jpg"
+                }
+            ],
+        "caracteristicas" : 
             {
                 "ubicacion": "Horizontes al sur, Canning, Bs.As",
                 "orientacion": "Noroeste",
@@ -182,7 +182,6 @@
                 "cochera": "Cochera semicubierta para 2 autos",
                 "estado": "A estrenar"
             },
-           
         "acercaDeLaPropiedad":
             [
                 {
