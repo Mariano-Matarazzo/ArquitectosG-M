@@ -171,9 +171,8 @@
                     "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157318/Casa%20JS/casa_js_4_wov0uj.jpg"
                 },
           ],  
-        "caracteristicas" : 
-            
-                {
+"caracteristicas" : 
+            {
                 "ubicacion": "Horizontes al sur, Canning, Bs.As",
                 "orientacion": "Noroeste",
                 "dormitorios": "3 Dormitorios",
@@ -182,7 +181,7 @@
                 "pisos": "2 Pisos",
                 "cochera": "Cochera semicubierta para 2 autos",
                 "estado": "A estrenar"
-                }
+            },
            
         "acercaDeLaPropiedad":
             [
