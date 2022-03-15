@@ -78,23 +78,71 @@
    {
         "id": "2",
         "nombre": "CASA OMEGA",       
-        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1637458971/LOTE_CASA_omega_dei7px.jpg",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314734/Viviendas/Omega/1_corwiq.jpg",
         "slider" :
             [
-                {
-                    "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1637458971/LOTE_CASA_omega_dei7px.jpg"
-                },
-                {
-                    "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1637458971/LOTE_CASA_omega_dei7px.jpg"
-                },
-                {
-                    "imagen": "https://staticbp.com/img/prop_new_b/441/00441007-01.jpg"
-                }
-            ],
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314734/Viviendas/Omega/1_corwiq.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314734/Viviendas/Omega/2_xxljj2.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314733/Viviendas/Omega/3_ide8yp.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314733/Viviendas/Omega/4_gujdeu.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314734/Viviendas/Omega/5_udqi5k.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314733/Viviendas/Omega/6_fvak2a.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314735/Viviendas/Omega/7_jgrx9m.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314737/Viviendas/Omega/8_yc07wf.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314734/Viviendas/Omega/9_kkbu9y.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314734/Viviendas/Omega/10_m9rsph.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314735/Viviendas/Omega/11_cfeayk.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314735/Viviendas/Omega/12_dxme96.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314735/Viviendas/Omega/13_er5pxg.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314735/Viviendas/Omega/14_rbuj1m.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314735/Viviendas/Omega/15_ovsp2c.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314735/Viviendas/Omega/16_afcoct.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314736/Viviendas/Omega/17_trjyo4.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314736/Viviendas/Omega/18_uvljta.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314736/Viviendas/Omega/19_wyyaqw.jpg"
+            }
+        ],
         "caracteristicas" : 
             {
-                "ubicacion": "Horizontes al sur, Canning, Bs.As",
-                "orientacion": "Noroeste",
+                "ubicacion": "La Alameda. Barrio privado Spa, Canning, Bs.As",
+                "orientacion": "Sudoeste",
                 "dormitorios": "3 Dormitorios",
                 "toilette": "1 Toilette",
                 "baños": "2 Baños",
@@ -105,7 +153,7 @@
         "acercaDeLaPropiedad":
             [
                 {
-                    "parrafo": "Casa de 143 m2 totales desarrollada en 2 plantas sobre un terreno de 600 m2. Posee 3 amplios dormitorios, el matrimonial en suite con una amplia terraza privada. Se caracteriza por su estilo moderno y minimalista, amplios ventanales y construcción de categoría."
+                    "parrafo": "Casa de 219 m2 totales desarrollada en 2 plantas sobre un terreno de 600 m2. Posee 3 amplios dormitorios, el matrimonial en suite con una amplia terraza privada. Se caracteriza por su estilo moderno y minimalista, amplios ventanales y construcción de categoría."
                 }
             ],
         "plantaBaja": 
