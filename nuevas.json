@@ -194,20 +194,65 @@
         "id": "5",
         "categoria": "nuevas",
         "nombre": "PICHINCHA",
-        "imagen": "https://res.cloudinary.com/doejsqlbl/image/upload/v1634048143/sample.jpg",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647311392/Viviendas/6_Pichincha/1_zid0el.jpg",
         "slider" :
         [
             {
-                "imagen": "https://res.cloudinary.com/doejsqlbl/image/upload/v1634048143/sample.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647311392/Viviendas/6_Pichincha/1_zid0el.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/doejsqlbl/image/upload/v1634048143/sample.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647311392/Viviendas/6_Pichincha/2_hxxu50.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/doejsqlbl/image/upload/v1634048143/sample.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647311392/Viviendas/6_Pichincha/3_v030ho.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/doejsqlbl/image/upload/v1634048143/sample.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647311392/Viviendas/6_Pichincha/4_lsi2qu.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647311392/Viviendas/6_Pichincha/5_ng5jil.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647311392/Viviendas/6_Pichincha/6_dt65qv.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647311393/Viviendas/6_Pichincha/7_shomeq.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647311392/Viviendas/6_Pichincha/8_redh2s.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647311393/Viviendas/6_Pichincha/9_w0a8ed.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647311393/Viviendas/6_Pichincha/10_ypg0qf.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647311393/Viviendas/6_Pichincha/11_ywd3sv.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647311393/Viviendas/6_Pichincha/12_mgnj0d.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647311393/Viviendas/6_Pichincha/13_bkpwxa.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647311394/Viviendas/6_Pichincha/14_lawo9e.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647311394/Viviendas/6_Pichincha/15_wxshuk.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647311394/Viviendas/6_Pichincha/16_ol231l.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647311394/Viviendas/6_Pichincha/17_ydjuqe.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647311394/Viviendas/6_Pichincha/18_qxg43i.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647311395/Viviendas/6_Pichincha/19_s6w2hs.jpg"
             }
         ],
         "informacionGeneral": 
