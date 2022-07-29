@@ -313,65 +313,29 @@
         "id": "18",
         "categoria": "nuevas",
         "nombre": "CASA LOS CEIBOS",
-        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314734/Viviendas/Omega/1_corwiq.jpg",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1659061671/Viviendas/19_Casa%20Los%20Ceibos/69bd312f-2278-4e7a-b1b2-46c22f751370_v4qjzc.jpg",
         "slider" :
         [
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314734/Viviendas/Omega/1_corwiq.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1659061671/Viviendas/19_Casa%20Los%20Ceibos/69bd312f-2278-4e7a-b1b2-46c22f751370_v4qjzc.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314734/Viviendas/Omega/2_xxljj2.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1659061671/Viviendas/19_Casa%20Los%20Ceibos/4cd463a7-e928-4eda-b73b-093a4ba59044_v9n0fc.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314733/Viviendas/Omega/3_ide8yp.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1659061671/Viviendas/19_Casa%20Los%20Ceibos/a9b83562-b20a-4b69-b28e-700396e53a74_unlhkc.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314733/Viviendas/Omega/4_gujdeu.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1659061671/Viviendas/19_Casa%20Los%20Ceibos/55ba784b-7229-4662-a70b-c83f5c26d905_tpu5zh.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314734/Viviendas/Omega/5_udqi5k.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1659061671/Viviendas/19_Casa%20Los%20Ceibos/ea6a1f6b-31f9-40b9-81cb-9ad61793751d_bghcer.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314733/Viviendas/Omega/6_fvak2a.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1659061671/Viviendas/19_Casa%20Los%20Ceibos/11599d1f-be2c-4cbc-98de-a7aef38b28d5_ftowwf.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314735/Viviendas/Omega/7_jgrx9m.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314737/Viviendas/Omega/8_yc07wf.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314734/Viviendas/Omega/9_kkbu9y.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314734/Viviendas/Omega/10_m9rsph.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314735/Viviendas/Omega/11_cfeayk.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314735/Viviendas/Omega/12_dxme96.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314735/Viviendas/Omega/13_er5pxg.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314735/Viviendas/Omega/14_rbuj1m.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314735/Viviendas/Omega/15_ovsp2c.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314735/Viviendas/Omega/16_afcoct.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314736/Viviendas/Omega/17_trjyo4.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314736/Viviendas/Omega/18_uvljta.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314736/Viviendas/Omega/19_wyyaqw.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1659061671/Viviendas/19_Casa%20Los%20Ceibos/26254892-2125-45c0-afdc-fc765be53b0f_uhpzp8.jpg"
             }
         ],
         "informacionGeneral": 
@@ -395,7 +359,7 @@
         "id": "19",
         "categoria": "nuevas",
         "nombre": "CASA QR",
-        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314734/Viviendas/Omega/1_corwiq.jpg",
+        "imagen": " ",
         "slider" :
         [
             {
