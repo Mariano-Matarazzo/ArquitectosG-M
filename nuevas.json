@@ -7,7 +7,7 @@
         "slider" :
         [
             {
-                "imagen": "https://youtu.be/MtFr0EwgCmc"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314734/Viviendas/Omega/1_corwiq.jpg"
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314734/Viviendas/Omega/2_xxljj2.jpg"
@@ -276,7 +276,7 @@
     {
         "id": "17",
         "categoria": "nuevas",
-        "nombre": "CASA BIANCA",
+        "nombre": "CASA EA",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1657661917/Viviendas/Casa%20blanca/IMG-20220616-WA0002_oqx3ur.jpg",
         "slider" :
         [
@@ -319,7 +319,7 @@
     {
         "id": "18",
         "categoria": "nuevas",
-        "nombre": "CASA LOS CEIBOS",
+        "nombre": "CASA RT",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1659061671/Viviendas/19_Casa%20Los%20Ceibos/69bd312f-2278-4e7a-b1b2-46c22f751370_v4qjzc.jpg",
         "slider" :
         [
