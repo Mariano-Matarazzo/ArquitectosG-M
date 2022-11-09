@@ -187,7 +187,10 @@
         "nombre": "CASA 3B",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157456/Viviendas/3_Casa%203B/CASA_3b_1_b4hpcu.jpg",
         "slider" :
-        [
+        [   
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647313324/Viviendas/2_Casa%20JS/casa_js_1_gfgirz.jpg"
+            }
              
         ],
         "informacionGeneral": 
