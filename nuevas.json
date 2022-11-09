@@ -189,9 +189,29 @@
         "slider" :
         [   
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647313324/Viviendas/2_Casa%20JS/casa_js_1_gfgirz.jpg"
-            }
-             
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667915377/Viviendas/3_Casa%203B/b6_asgqay.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667915376/Viviendas/3_Casa%203B/b4_gtbgqg.jpg"
+            },  
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667565261/Viviendas/3_Casa%203B/7a_hrifcb.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667915376/Viviendas/3_Casa%203B/b3_oz0n4x.jpg"
+            }, 
+             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667915377/Viviendas/3_Casa%203B/b6_asgqay.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667915376/Viviendas/3_Casa%203B/b4_gtbgqg.jpg"
+            },  
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667565261/Viviendas/3_Casa%203B/7a_hrifcb.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667915376/Viviendas/3_Casa%203B/b3_oz0n4x.jpg"
+            }  
         ],
         "informacionGeneral": 
             [
