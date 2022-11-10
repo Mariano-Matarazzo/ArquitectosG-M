@@ -21,7 +21,7 @@
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157452/Viviendas/2_Casa%20JS/casa_js_4_ey1olx.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157452/Viviendas/2_Casa%20JS/plano_casa_JS_nnygss.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1668085868/Viviendas/2_Casa%20JS/js_planos_photoshop2_kltstp.jpg"
             }
         ],
         "caracteristicas" : 
@@ -62,7 +62,7 @@
                     "item": "Galería y amplia parrilla"
                 }
             ],
-        "plantaBajaImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157318/Casa%20JS/pb_casa_JS_zajuj8.jpg",
+        "plantaBajaImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1668087460/Viviendas/2_Casa%20JS/JS_-_PB_fwkhzp.jpg",
         "plantaAlta": 
             [
                 {
@@ -75,7 +75,7 @@
                     "item": "2 Habitaciones en semisuite, ambas con placard"
                 }
             ],
-        "plantaAltaImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157318/Casa%20JS/pa_casa_JS_fml8rf.jpg",
+        "plantaAltaImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1668087461/Viviendas/2_Casa%20JS/JS_-_PA_oqubwd.jpg",
         "parrafosFinales":
             [
                 {
@@ -186,7 +186,7 @@
                     "item": "Galería y amplia parrilla"
                 }
             ],
-        "plantaBajaImagen": " ",
+        "plantaBajaImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667566048/Viviendas/Omega/planta_baja_ptz8py.jpg",
         "plantaAlta": 
             [
                 {
@@ -199,7 +199,7 @@
                     "item": "2 Habitaciones en semisuite, ambas con placard"
                 }
             ],
-        "plantaAltaImagen": " ",
+        "plantaAltaImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667566048/Viviendas/Omega/planta_alta_a0uvsb.jpg",
         "parrafosFinales":
             [
                 {
