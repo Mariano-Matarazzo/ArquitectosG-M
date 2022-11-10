@@ -372,83 +372,68 @@
         "id": "19",
         "categoria": "nuevas",
         "nombre": "CASA QR",
-        "imagen": " ",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667666002/Viviendas/Casa%20QR/j_hormtw.jpg",
         "slider" :
         [
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314734/Viviendas/Omega/1_corwiq.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667666002/Viviendas/Casa%20QR/j_hormtw.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314734/Viviendas/Omega/2_xxljj2.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667666001/Viviendas/Casa%20QR/h_m40f8c.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314733/Viviendas/Omega/3_ide8yp.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667666003/Viviendas/Casa%20QR/ees_f8jqva.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314733/Viviendas/Omega/4_gujdeu.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667666001/Viviendas/Casa%20QR/b_rgyips.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314734/Viviendas/Omega/5_udqi5k.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667666002/Viviendas/Casa%20QR/f_cmjrd2.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314733/Viviendas/Omega/6_fvak2a.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667666002/Viviendas/Casa%20QR/e_ixexbu.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314735/Viviendas/Omega/7_jgrx9m.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667666001/Viviendas/Casa%20QR/a_vuronm.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314737/Viviendas/Omega/8_yc07wf.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667666002/Viviendas/Casa%20QR/i_vsimnf.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314734/Viviendas/Omega/9_kkbu9y.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1668089777/Viviendas/Casa%20QR/b_xosb5u.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314734/Viviendas/Omega/10_m9rsph.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1668089776/Viviendas/Casa%20QR/f_xqc4gf.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314735/Viviendas/Omega/11_cfeayk.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1668089777/Viviendas/Casa%20QR/a_fhvyva.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314735/Viviendas/Omega/12_dxme96.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1668089776/Viviendas/Casa%20QR/g_n8iuos.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314735/Viviendas/Omega/13_er5pxg.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1668089776/Viviendas/Casa%20QR/d_tlai19.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314735/Viviendas/Omega/14_rbuj1m.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314735/Viviendas/Omega/15_ovsp2c.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314735/Viviendas/Omega/16_afcoct.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314736/Viviendas/Omega/17_trjyo4.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314736/Viviendas/Omega/18_uvljta.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314736/Viviendas/Omega/19_wyyaqw.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1668089776/Viviendas/Casa%20QR/e_zau0jo.jpg"
             }
         ],
         "informacionGeneral": 
             [
                 {
-                    "parrafo": "AÑO: 2022"
+                    "parrafo": "AÑO: 2023 - UBICACIÓN: FINCAS DE SAN VICENTE, SAN VICENTE"
                 },
                 {
-                    "parrafo": "150   M2 CUBIERTOS /   50 M2 SEMICUBIERTOS  /   102 M2 DESCUBIERTOS"
+                    "parrafo": "200 M2 CUBIERTOS /   46 M2 SEMICUBIERTOS  /   773 M2 DESCUBIERTOS"
                 },
                 {
-                    "parrafo": "En planta baja se ubican el living, cocina, comedor y cochera. Se buscó crear espacios amplios, con mucha iluminación. Se diseñó un espacio en doble altura en el living, con una cubierta vidriada, que logra generar un espacio moderno. En la planta alta se ubican los dormitorios, separando dos áreas: una para el matrimonio y otra para los hijos. La primera tiene vestidor, gimnasio y baño en suite. Además posee una amplia terraza balconeando hacia el gran parque del contrafrente."
+                    "parrafo": "Es una casa proyectada en planta baja. Se delimitaron las áreas de uso social: posee un amplio living comedor con vinculación directa con la galería y jardín. Por el otro se encuentra el área de los dormitorios: una amplia suite con vestidor y baño privado, tres dormitorios y habitación para húespedes. "
                 },
                 {
-                    "parrafo": "La premisa fue diseñar una casa moderna y minimalista. Se optó utilizar colores claros, porcelanatos simil madera para generar calidez y grandes aberturas."
+                    "parrafo": "El diseño es de estilo campestre, se utilizaron detalles característicos del estilo: columnas coloniales, molduras, galerías de chapa, etc. Se utilizó mucho la madera para generar calidez."
                 }
             ],
-        "informacionGeneralImagen": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667672071/Viviendas/Casa%20QR/eplanta_p4cg5k.jpg"
     },
     {
         "id": "4",
