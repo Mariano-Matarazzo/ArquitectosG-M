@@ -320,7 +320,7 @@
                     "parrafo": "Se optó por un estilo minimalista con detalles de estilo campo. Predomina el color blanco y la utilización de colores bien claros para generar amplitud y luminosidad."
                 }
             ],
-        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1668090654/Viviendas/Casa%20blanca/plantasss_unziyg.jpg"
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1668173518/Viviendas/Casa%20blanca/esteplantasss_gkeevj.jpg"
     },
     {
         "id": "18",
@@ -431,7 +431,10 @@
                 },
                 {
                     "parrafo": "El diseño es de estilo campestre, se utilizaron detalles característicos del estilo: columnas coloniales, molduras, galerías de chapa, etc. Se utilizó mucho la madera para generar calidez."
-                }
+                };
+                {
+                    "parrafo": "Link del recorrido virtual: https://www.youtube.com/watch?v=MtFr0EwgCmc"
+                }    
             ],
         "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667672071/Viviendas/Casa%20QR/eplanta_p4cg5k.jpg"
     },
