@@ -303,7 +303,11 @@
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1657661919/Viviendas/Casa%20blanca/IMG-20220616-WA0004_znapps.jpg"
-            }
+            },
+            {
+                "video": "https://www.youtube.com/watch?v=FJ1QLDPovNg"
+            }    
+                
         ],
         "informacionGeneral": 
             [
