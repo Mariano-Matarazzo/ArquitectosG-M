@@ -1346,8 +1346,42 @@
             ],
         "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157424/Reformas/24%20Terraza%20Conde/PLANO_CONDE_az5mnj.jpg"
     },
-    {
+     {
         "id": "25",
+        "categoria": "reformas",
+        "nombre": "DEPTO PANAMA",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669810833/Reformas/Cocina%20panama/WhatsApp_Image_2022-11-29_at_17.10.11_bcbibg.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157424/Reformas/24%20Terraza%20Conde/terraza_Conde_1_aopgtn.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157425/Reformas/24%20Terraza%20Conde/conde_2_oz0cya.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157424/Reformas/24%20Terraza%20Conde/conde_3_n8t3xj.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "En la primer visita nos encontramos con una cocina pequeña y mal distribuida."
+                },
+                {
+                    "parrafo": "La dueña necesitaba espacios de guardado y de apoyo. La premisa fue tratar de aprovechar al máximo el espacio y diseñar mobiliario de guardado cómodo.."
+                },
+                {
+                    "parrafo": "Para lograr mayor amplitud se utilizaron colores claros y una pared de color para conseguir profundidad. A su vez se agregaron mesadas de apoyo."
+                },
+                {
+                    "parrafo": "Se realizaron todas las instalaciones a nuevo, ya que al ser un edificio antiguo estaban deterioradas. Se cambiaron los revestimientos y mesadas. Se diseñó mobiliario a medida."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157424/Reformas/24%20Terraza%20Conde/PLANO_CONDE_az5mnj.jpg"
+    },
+    {
+        "id": "26",
         "categoria": "reformas",
         "nombre": "FRENTE NAZAR",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157428/Reformas/25%20Frente%20Nazar/2_njyt8i.jpg",
