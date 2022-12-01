@@ -1354,13 +1354,28 @@
         "slider" :
         [
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157424/Reformas/24%20Terraza%20Conde/terraza_Conde_1_aopgtn.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669907069/Reformas/Cocina%20panama/1_2_kbx2wu.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157425/Reformas/24%20Terraza%20Conde/conde_2_oz0cya.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669907063/Reformas/Cocina%20panama/2_2_rc5bly.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157424/Reformas/24%20Terraza%20Conde/conde_3_n8t3xj.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669907061/Reformas/Cocina%20panama/3_2_mteuk6.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669907059/Reformas/Cocina%20panama/4_2_xngzay.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669907067/Reformas/Cocina%20panama/5_1_uuiui1.jpg"
+            },
+             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669907068/Reformas/Cocina%20panama/6_1_btfo1o.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669907056/Reformas/Cocina%20panama/7_ypw9ka.jpg"
+            },
+             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669907052/Reformas/Cocina%20panama/8_jtqmrk.jpg"
             }
         ],
         "informacionGeneral": 
@@ -1378,7 +1393,7 @@
                     "parrafo": "Se realizaron todas las instalaciones a nuevo, ya que al ser un edificio antiguo estaban deterioradas. Se cambiaron los revestimientos y mesadas. Se diseñó mobiliario a medida."
                 }
             ],
-        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669897633/Reformas/Cocina%20panama/panama_flntzv.jpg"
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669907022/Reformas/Cocina%20panama/panama_irnn6g.jpg"
     },
     {
         "id": "26",
