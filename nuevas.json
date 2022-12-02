@@ -974,7 +974,7 @@
         "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157486/Viviendas/11_Pallares/plano_pallares_jaceg8.jpg"
     },
       {
-        "id": "10",
+        "id": "11",
         "categoria": "nuevas",
         "nombre": "CASA BUSTAMANTE",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669982522/Viviendas/Bustamante/B2_rhpbop.jpg",
@@ -1026,7 +1026,7 @@
         "informacionGeneralImagen": "XXX"
     },  
     {
-        "id": "11",
+        "id": "12",
         "categoria": "nuevas",
         "nombre": "EDIFICIO 29 DE SEPTIEMBRE",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157476/Viviendas/12_Edificio%2029%20septiembre/29_de_septiembre_1_3_sv8xbj.jpg",
@@ -1108,7 +1108,7 @@
         "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157478/Viviendas/12_Edificio%2029%20septiembre/PLANO_29_DE_SEPTIEMBRE_y91og3.jpg"
     },
     {
-        "id": "12",
+        "id": "13",
         "categoria": "nuevas",
         "nombre": "CASA CISSAB",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157487/Viviendas/13_Casa%20CISSAB/1_xwsli9.jpg",
@@ -1163,7 +1163,7 @@
         "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157488/Viviendas/13_Casa%20CISSAB/6_oc2nl5.jpg"
     },
     {
-        "id": "13",
+        "id": "14",
         "categoria": "nuevas",
         "nombre": "COMPLEJO GORRITI",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157488/Viviendas/14_Complejo%20Gorriti/depto_gorriti1_2_tlydgu.jpg",
@@ -1215,7 +1215,7 @@
         "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157489/Viviendas/14_Complejo%20Gorriti/planta_gorritil_qqwrru.jpg"
     },
     {
-        "id": "14",
+        "id": "15",
         "categoria": "nuevas",
         "nombre": "SAN MARTIN",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1637453443/Viviendas/15_San%20Martin/San_martin_1B_u962gk.jpg",
