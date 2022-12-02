@@ -973,6 +973,58 @@
             ],
         "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157486/Viviendas/11_Pallares/plano_pallares_jaceg8.jpg"
     },
+      {
+        "id": "10",
+        "categoria": "nuevas",
+        "nombre": "CASA BUSTAMANTE",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669982522/Viviendas/Bustamante/B2_rhpbop.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669982522/Viviendas/Bustamante/B3_jftahx.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669982522/Viviendas/Bustamante/B2_rhpbop.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669982464/Viviendas/Bustamante/b_conrs0.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669982464/Viviendas/Bustamante/c_evylax.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669982464/Viviendas/Bustamante/a_exwog0.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669982464/Viviendas/Bustamante/h_fmenvk.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669982523/Viviendas/Bustamante/b7_rotkts.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669982523/Viviendas/Bustamante/B6_erq5ze.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "AÑO: 2022"
+                },
+                {
+                    "parrafo": "108 M2 CUBIERTOS / 46 M2 SEMICUBIERTOS"
+                },
+                {
+                    "parrafo": "Se trabajó sobre una casa existente, la cual estaba totalmente deteriorada. Se aprovechó un sector y luego fue necesario realizar una demolición para poder construir."
+                },
+                {
+                    "parrafo": "Se construyó una casa de 3 ambientes, con un amplio living-comedor con cocina integrada."
+                },
+                {
+                    "parrafo": "Optamos por un diseño moderno, con colores claros y buena iluminación para generar mayor amplitud."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669982980/Viviendas/Bustamante/BUSTAMANTE_n6gauz.jpg"
+    },  
     {
         "id": "11",
         "categoria": "nuevas",
