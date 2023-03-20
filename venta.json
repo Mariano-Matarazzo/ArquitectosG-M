@@ -2,23 +2,95 @@
     {
         "id": "1",
         "nombre": "CASA JS",
-        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647313324/Viviendas/2_Casa%20JS/casa_js_1_gfgirz.jpg",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313968/Viviendas/2_Casa%20JS/4_and4ba.jpg",
         "slider" :
             [   
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647313324/Viviendas/2_Casa%20JS/casa_js_1_gfgirz.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313968/Viviendas/2_Casa%20JS/4_and4ba.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157452/Viviendas/2_Casa%20JS/casa_js_1_svjdg8.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313968/Viviendas/2_Casa%20JS/5_z5ew7y.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157453/Viviendas/2_Casa%20JS/casa_js_2_llpgpt.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313968/Viviendas/2_Casa%20JS/9_zwws7f.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157452/Viviendas/2_Casa%20JS/casa_js_3_fn51wg.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313968/Viviendas/2_Casa%20JS/10_sdpebi.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157452/Viviendas/2_Casa%20JS/casa_js_4_ey1olx.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313968/Viviendas/2_Casa%20JS/11_lp8dh3.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313968/Viviendas/2_Casa%20JS/12_bxmxds.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313968/Viviendas/2_Casa%20JS/13_xmi1jo.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313968/Viviendas/2_Casa%20JS/14_xfpfpw.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313967/Viviendas/2_Casa%20JS/15_c0emtv.jpg"
+            }, 
+              {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313967/Viviendas/2_Casa%20JS/16_gnaapf.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313967/Viviendas/2_Casa%20JS/17_olm8lt.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313967/Viviendas/2_Casa%20JS/18_j46urq.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313967/Viviendas/2_Casa%20JS/19b_qn9oiu.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313967/Viviendas/2_Casa%20JS/20b_lesop2.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313967/Viviendas/2_Casa%20JS/21b_lgrsj2.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313967/Viviendas/2_Casa%20JS/22_tl4ylc.jpg"
+            }, 
+             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313967/Viviendas/2_Casa%20JS/23_clfl4r.jpg"
+            }, 
+              {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313967/Viviendas/2_Casa%20JS/24_yurtp1.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313968/Viviendas/2_Casa%20JS/26_eegb3a.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679314058/Viviendas/2_Casa%20JS/27_ddakj4.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679314057/Viviendas/2_Casa%20JS/28_nxpdgp.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679314057/Viviendas/2_Casa%20JS/29_v6aaiq.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679314057/Viviendas/2_Casa%20JS/30_d94tcm.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679314057/Viviendas/2_Casa%20JS/32_dkxmn7.jpg"
+            },
+             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679314057/Viviendas/2_Casa%20JS/33_yz82nd.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679314057/Viviendas/2_Casa%20JS/34_f2ugfb.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679314057/Viviendas/2_Casa%20JS/35_ylsv1n.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679314057/Viviendas/2_Casa%20JS/36_ufbcrr.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679314058/Viviendas/2_Casa%20JS/37_udqpat.jpg"
             }
         ],
         "caracteristicas" : 
