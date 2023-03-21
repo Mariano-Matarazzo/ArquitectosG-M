@@ -470,6 +470,47 @@
         "youtubeVideoId": "Q5tW--JJzGU"
     },
         {
+        "id": "31",
+        "categoria": "nuevas",
+        "nombre": "CASA BJ",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679405847/Viviendas/Casa%20BJ/WhatsApp_Image_2023-01-19_at_18.40.40_5_fnq8th.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679405847/Viviendas/Casa%20BJ/WhatsApp_Image_2023-01-19_at_18.40.40_5_fnq8th.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679405847/Viviendas/Casa%20BJ/WhatsApp_Image_2023-01-19_at_18.40.40_wlhjuh.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679405847/Viviendas/Casa%20BJ/WhatsApp_Image_2023-01-19_at_18.40.40_3_fdbzu3.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679405847/Viviendas/Casa%20BJ/WhatsApp_Image_2023-01-19_at_18.40.40_4_rlkg9w.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679405847/Viviendas/Casa%20BJ/WhatsApp_Image_2023-01-19_at_18.40.40_2_qfykmd.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "AÑO: 2023 - UBICACIÓN: HARAS DEL SUR III, LOS CEIBOS, BS.AS"
+                },
+                {
+                    "parrafo": "133.50 M2 CUBIERTOS /   59.61 M2 SEMICUBIERTOS  /   883.73 M2 DESCUBIERTOS"
+                },
+                {
+                    "parrafo": "MODIFICAR La casa se organiza a partir de un gran patio central, el cual posee mucha vegetación y amplios ventanales para lograr vinculación con los espacios sociales. A partir del mismo se generan dos espacios: el área social con un amplio living-comedor y por el otro la suite del matrimonio. Desde el área social se puede acceder a la planta alta donde se proyectaron los dormitorios para los hijos. Es una casa con mucho vinculo con el exterior, donde se buscó priorizar la privacidad del matrimonio y los lugares de encuentro."
+                },
+                {
+                    "parrafo": " MODIFICAR El diseño es moderno y minimalista. Se utilizaron grandes ventanales para generar buena iluminación y ventilación. Se optó por los colores claros y la utilización de detalles en madera para generar calidez."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679406334/Viviendas/Casa%20BJ/plano_haras27_pdy9u1.jpg",
+        "youtubeVideoId": "Q5tW--JJzGU"
+    },
+        {
         "id": "19",
         "categoria": "nuevas",
         "nombre": "CASA QR",
