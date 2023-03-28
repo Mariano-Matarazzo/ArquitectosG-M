@@ -475,46 +475,6 @@
         "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1668088313/Viviendas/19_Casa%20Los%20Ceibos/rt_plantas_shgyeb.jpg",
         "youtubeVideoId": "Q5tW--JJzGU"
     },
-        {
-        "id": "31",
-        "categoria": "nuevas",
-        "nombre": "CASA BJ",
-        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679405847/Viviendas/Casa%20BJ/WhatsApp_Image_2023-01-19_at_18.40.40_5_fnq8th.jpg",
-        "slider" :
-        [
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679405847/Viviendas/Casa%20BJ/WhatsApp_Image_2023-01-19_at_18.40.40_5_fnq8th.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679405847/Viviendas/Casa%20BJ/WhatsApp_Image_2023-01-19_at_18.40.40_wlhjuh.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679405847/Viviendas/Casa%20BJ/WhatsApp_Image_2023-01-19_at_18.40.40_3_fdbzu3.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679405847/Viviendas/Casa%20BJ/WhatsApp_Image_2023-01-19_at_18.40.40_4_rlkg9w.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679405847/Viviendas/Casa%20BJ/WhatsApp_Image_2023-01-19_at_18.40.40_2_qfykmd.jpg"
-            }
-        ],
-        "informacionGeneral": 
-            [
-                {
-                    "parrafo": "AÑO: 2023 - UBICACIÓN: HARAS DEL SUR III, LA PLATA, BS.AS"
-                },
-                {
-                    "parrafo": "139 M2 CUBIERTOS / 55 M2 SEMICUBIERTOS / 884 M2 DESCUBIERTOS"
-                },
-                {
-                    "parrafo": "Se trata de una casa estilo campo en planta baja. Cuenta con un espacio central para el área social, con conexión directa a la galería y los espacios exteriores. Se buscó la máxima conexión con estos lugares y una buena iluminación y ventilación. Los espacios de dormitorios se separan en dos: uno para el matrimonio con vestidor y baño en suite; el otro para los hijos con amplias habitaciones y baño compartido."
-                },
-                {
-                    "parrafo": "La premisa fue diseñar una casa compacta, que aproveche al máximo los espacios y la vinculación con el exterior. El estilo es tipo campo pero con materialidad moderna. La ambientación interior es tipo nórdica. Se utilizan los colores cálidos, los ventanales amplios para generar confort y amplitud. "
-                }
-            ],
-        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679406334/Viviendas/Casa%20BJ/plano_haras27_pdy9u1.jpg",
-    },
          {
         "id": "4",
         "categoria": "nuevas",
