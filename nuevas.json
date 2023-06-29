@@ -120,78 +120,6 @@
             ],
         "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1668170549/Viviendas/2_Casa%20JS/this_js_planos_photoshop2_oiacfu.jpg",
         "youtubeVideoId": "gO2cihVrBW4"
-    },
-        {
-        "id": "32",
-        "categoria": "nuevas",
-        "nombre": "CASA EM",
-        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1687866887/Viviendas/Casa%20EM/Exterior_01_d6xbet.jpg",
-        "slider" :
-        [
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1687866887/Viviendas/Casa%20EM/Exterior_01_d6xbet.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1687866889/Viviendas/Casa%20EM/Exterior_02_r8f1hh.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1687866887/Viviendas/Casa%20EM/Exterior_03_dk9vqn.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1687866888/Viviendas/Casa%20EM/Exterior_04_be1nmq.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1687866886/Viviendas/Casa%20EM/Exterior_05_je7yei.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1687866887/Viviendas/Casa%20EM/Exterior_06_bsydgw.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1687866888/Viviendas/Casa%20EM/Exterior_07_jygwnb.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1687866888/Viviendas/Casa%20EM/Exterior_08_mxanfj.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1687866885/Viviendas/Casa%20EM/Interior_01_md2ymx.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1687866884/Viviendas/Casa%20EM/Interior_02_gp6x4c.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1687866885/Viviendas/Casa%20EM/Interior_03_gg2gup.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1687866884/Viviendas/Casa%20EM/Interior_04_ojwk4r.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1687866884/Viviendas/Casa%20EM/Interior_05_wkdp4g.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1687866884/Viviendas/Casa%20EM/Interior_06_fhiyvt.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1687866884/Viviendas/Casa%20EM/Interior_07_sjhcxm.jpg"
-            }
-        ],
-        "informacionGeneral": 
-            [
-                {
-                    "parrafo": "AÑO: 2023"
-                },
-                {
-                    "parrafo": "154   M2 CUBIERTOS /   56 M2 SEMICUBIERTOS  /   590 M2 DESCUBIERTOS"
-                },
-                {
-                    "parrafo": ""
-                },
-                {
-                    "parrafo": ""
-                }
-            ],
-        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1687877872/Viviendas/Casa%20EM/planta_web_yz1jbu.jpg",
-        "youtubeVideoId": "nvDXsp0Jk7c"
-           
     },        
         {
         "id": "30",
@@ -275,7 +203,6 @@
             ],
         "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1668172374/Viviendas/Omega/pp_plantas_l6i9to.jpg",
         "youtubeVideoId": "gIOiDR4i7Aw"
-           
     },
     {
         "id": "1",
@@ -443,6 +370,78 @@
         "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667568858/Viviendas/Casa%20mirabosques/casa_df_chxvsd.jpg",
         "youtubeVideoId": "74e2W881GI4"
     },
+        {
+        "id": "32",
+        "categoria": "nuevas",
+        "nombre": "CASA EM",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1687866887/Viviendas/Casa%20EM/Exterior_01_d6xbet.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1687866887/Viviendas/Casa%20EM/Exterior_01_d6xbet.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1687866889/Viviendas/Casa%20EM/Exterior_02_r8f1hh.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1687866887/Viviendas/Casa%20EM/Exterior_03_dk9vqn.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1687866888/Viviendas/Casa%20EM/Exterior_04_be1nmq.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1687866886/Viviendas/Casa%20EM/Exterior_05_je7yei.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1687866887/Viviendas/Casa%20EM/Exterior_06_bsydgw.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1687866888/Viviendas/Casa%20EM/Exterior_07_jygwnb.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1687866888/Viviendas/Casa%20EM/Exterior_08_mxanfj.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1687866885/Viviendas/Casa%20EM/Interior_01_md2ymx.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1687866884/Viviendas/Casa%20EM/Interior_02_gp6x4c.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1687866885/Viviendas/Casa%20EM/Interior_03_gg2gup.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1687866884/Viviendas/Casa%20EM/Interior_04_ojwk4r.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1687866884/Viviendas/Casa%20EM/Interior_05_wkdp4g.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1687866884/Viviendas/Casa%20EM/Interior_06_fhiyvt.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1687866884/Viviendas/Casa%20EM/Interior_07_sjhcxm.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "AÑO: 2023"
+                },
+                {
+                    "parrafo": "154   M2 CUBIERTOS /   56 M2 SEMICUBIERTOS  /   590 M2 DESCUBIERTOS"
+                },
+                {
+                    "parrafo": ""
+                },
+                {
+                    "parrafo": ""
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1687877872/Viviendas/Casa%20EM/planta_web_yz1jbu.jpg",
+        "youtubeVideoId": "nvDXsp0Jk7c"
+           
+    },        
     {
         "id": "17",
         "categoria": "nuevas",
