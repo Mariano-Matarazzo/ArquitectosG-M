@@ -1,4 +1,126 @@
 [
+   {
+        "id": "2",
+        "categoria": "nuevas",
+        "nombre": "CASA JS",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313968/Viviendas/2_Casa%20JS/4_and4ba.jpg",
+        "slider" :
+        [   
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313968/Viviendas/2_Casa%20JS/4_and4ba.jpg"
+            },
+             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1680005665/Viviendas/2_Casa%20JS/WhatsApp_Image_2023-03-22_at_08.54.08_ibjb7d.jpg"
+            },
+             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1680005664/Viviendas/2_Casa%20JS/WhatsApp_Image_2023-03-22_at_08.54.52_glrfmw.jpg"
+            },   
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313968/Viviendas/2_Casa%20JS/5_z5ew7y.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313968/Viviendas/2_Casa%20JS/9_zwws7f.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313968/Viviendas/2_Casa%20JS/10_sdpebi.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313968/Viviendas/2_Casa%20JS/11_lp8dh3.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313968/Viviendas/2_Casa%20JS/12_bxmxds.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313968/Viviendas/2_Casa%20JS/13_xmi1jo.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313968/Viviendas/2_Casa%20JS/14_xfpfpw.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313967/Viviendas/2_Casa%20JS/15_c0emtv.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313967/Viviendas/2_Casa%20JS/16_gnaapf.jpg"
+            },
+             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313967/Viviendas/2_Casa%20JS/17_olm8lt.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313967/Viviendas/2_Casa%20JS/18_j46urq.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313967/Viviendas/2_Casa%20JS/19b_qn9oiu.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313967/Viviendas/2_Casa%20JS/20b_lesop2.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313967/Viviendas/2_Casa%20JS/21b_lgrsj2.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313967/Viviendas/2_Casa%20JS/22_tl4ylc.jpg"
+            },
+             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313967/Viviendas/2_Casa%20JS/23_clfl4r.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313967/Viviendas/2_Casa%20JS/24_yurtp1.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313968/Viviendas/2_Casa%20JS/26_eegb3a.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679314058/Viviendas/2_Casa%20JS/27_ddakj4.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679314057/Viviendas/2_Casa%20JS/28_nxpdgp.jpg"
+            },
+             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679314057/Viviendas/2_Casa%20JS/29_v6aaiq.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679314057/Viviendas/2_Casa%20JS/30_d94tcm.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679314057/Viviendas/2_Casa%20JS/32_dkxmn7.jpg"
+            },
+             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679314057/Viviendas/2_Casa%20JS/33_yz82nd.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679314057/Viviendas/2_Casa%20JS/34_f2ugfb.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679314057/Viviendas/2_Casa%20JS/35_ylsv1n.jpg"
+            },
+             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679314057/Viviendas/2_Casa%20JS/36_ufbcrr.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679314058/Viviendas/2_Casa%20JS/37_udqpat.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "AÑO: 2022 – UBICACIÓN: CLUB DE CAMPO HORIZONTES AL SUR, CANNING, BS.AS"
+                },
+                {
+                    "parrafo": "143 M2 CUBIERTOS / 53 M2 SEMICUBIERTOS / 540 M2 DESCUBIERTOS"
+                },
+                {
+                    "parrafo": "En planta baja se ubican: living-comedor, cocina, toilette, lavadero y galería exterior. La idea fue lograr una planta libre, integrada, que permita aprovechar al máximo el espacio y la vinculación visual con el exterior. Se utilizaron grandes ventanales, colores claros y madera para generar calidez y armonía."
+                },
+                {
+                    "parrafo": "En planta alta se ubica el área privada, que a su vez se divide en dos sectores. Por un lado, se encuentran dos habitaciones para los hijos hacia el frente, con su baño privado y por otro la matrimonial con su baño en suite y vestidor. Esta última posee una gran terraza para poder disfrutar del espacio exterior y las visuales."
+                },
+                {
+                    "parrafo": "Se optó por un diseño moderno y minimalista, priorizando la buena iluminación y ventilación y la conexión con los espacios verdes exterior."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1668170549/Viviendas/2_Casa%20JS/this_js_planos_photoshop2_oiacfu.jpg",
+        "youtubeVideoId": "gO2cihVrBW4"
+    },
         {
         "id": "32",
         "categoria": "nuevas",
@@ -211,128 +333,6 @@
             ],
         "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157451/Viviendas/1%20_Casa%20NC/PLANO_NC_utwkgt.jpg",
         "youtubeVideoId": ""
-    },
-    {
-        "id": "2",
-        "categoria": "nuevas",
-        "nombre": "CASA JS",
-        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313968/Viviendas/2_Casa%20JS/4_and4ba.jpg",
-        "slider" :
-        [   
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313968/Viviendas/2_Casa%20JS/4_and4ba.jpg"
-            },
-             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1680005665/Viviendas/2_Casa%20JS/WhatsApp_Image_2023-03-22_at_08.54.08_ibjb7d.jpg"
-            },
-             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1680005664/Viviendas/2_Casa%20JS/WhatsApp_Image_2023-03-22_at_08.54.52_glrfmw.jpg"
-            },   
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313968/Viviendas/2_Casa%20JS/5_z5ew7y.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313968/Viviendas/2_Casa%20JS/9_zwws7f.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313968/Viviendas/2_Casa%20JS/10_sdpebi.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313968/Viviendas/2_Casa%20JS/11_lp8dh3.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313968/Viviendas/2_Casa%20JS/12_bxmxds.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313968/Viviendas/2_Casa%20JS/13_xmi1jo.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313968/Viviendas/2_Casa%20JS/14_xfpfpw.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313967/Viviendas/2_Casa%20JS/15_c0emtv.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313967/Viviendas/2_Casa%20JS/16_gnaapf.jpg"
-            },
-             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313967/Viviendas/2_Casa%20JS/17_olm8lt.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313967/Viviendas/2_Casa%20JS/18_j46urq.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313967/Viviendas/2_Casa%20JS/19b_qn9oiu.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313967/Viviendas/2_Casa%20JS/20b_lesop2.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313967/Viviendas/2_Casa%20JS/21b_lgrsj2.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313967/Viviendas/2_Casa%20JS/22_tl4ylc.jpg"
-            },
-             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313967/Viviendas/2_Casa%20JS/23_clfl4r.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313967/Viviendas/2_Casa%20JS/24_yurtp1.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679313968/Viviendas/2_Casa%20JS/26_eegb3a.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679314058/Viviendas/2_Casa%20JS/27_ddakj4.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679314057/Viviendas/2_Casa%20JS/28_nxpdgp.jpg"
-            },
-             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679314057/Viviendas/2_Casa%20JS/29_v6aaiq.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679314057/Viviendas/2_Casa%20JS/30_d94tcm.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679314057/Viviendas/2_Casa%20JS/32_dkxmn7.jpg"
-            },
-             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679314057/Viviendas/2_Casa%20JS/33_yz82nd.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679314057/Viviendas/2_Casa%20JS/34_f2ugfb.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679314057/Viviendas/2_Casa%20JS/35_ylsv1n.jpg"
-            },
-             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679314057/Viviendas/2_Casa%20JS/36_ufbcrr.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679314058/Viviendas/2_Casa%20JS/37_udqpat.jpg"
-            }
-        ],
-        "informacionGeneral": 
-            [
-                {
-                    "parrafo": "AÑO: 2022 – UBICACIÓN: CLUB DE CAMPO HORIZONTES AL SUR, CANNING, BS.AS"
-                },
-                {
-                    "parrafo": "143 M2 CUBIERTOS / 53 M2 SEMICUBIERTOS / 540 M2 DESCUBIERTOS"
-                },
-                {
-                    "parrafo": "En planta baja se ubican: living-comedor, cocina, toilette, lavadero y galería exterior. La idea fue lograr una planta libre, integrada, que permita aprovechar al máximo el espacio y la vinculación visual con el exterior. Se utilizaron grandes ventanales, colores claros y madera para generar calidez y armonía."
-                },
-                {
-                    "parrafo": "En planta alta se ubica el área privada, que a su vez se divide en dos sectores. Por un lado, se encuentran dos habitaciones para los hijos hacia el frente, con su baño privado y por otro la matrimonial con su baño en suite y vestidor. Esta última posee una gran terraza para poder disfrutar del espacio exterior y las visuales."
-                },
-                {
-                    "parrafo": "Se optó por un diseño moderno y minimalista, priorizando la buena iluminación y ventilación y la conexión con los espacios verdes exterior."
-                }
-            ],
-        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1668170549/Viviendas/2_Casa%20JS/this_js_planos_photoshop2_oiacfu.jpg",
-        "youtubeVideoId": "gO2cihVrBW4"
     },
     {
         "id": "3",
