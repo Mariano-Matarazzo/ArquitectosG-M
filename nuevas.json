@@ -327,29 +327,56 @@
         "id": "16",
         "categoria": "nuevas",
         "nombre": "CASA DF",
-        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1659060981/Viviendas/Casa%20mirabosques/0cd23122-5c34-4cf0-bbbf-f8a3ba6d9e31_lhy43u.jpg",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1697641577/Viviendas/Casa%20mirabosques/01_zvowny.jpg",
         "slider" :
         [
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1659061029/Viviendas/Casa%20mirabosques/18acb7d9-3398-4024-9a18-fb3024e16f1c_b7s9qb.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1697641577/Viviendas/Casa%20mirabosques/01_zvowny.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1659060981/Viviendas/Casa%20mirabosques/0cd23122-5c34-4cf0-bbbf-f8a3ba6d9e31_lhy43u.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1697641578/Viviendas/Casa%20mirabosques/02_qcgnft.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1659061030/Viviendas/Casa%20mirabosques/1ab52860-a4fb-4ce6-acc7-09b0657e9ad6_iz47st.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1697641577/Viviendas/Casa%20mirabosques/03_vynsh6.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1659061030/Viviendas/Casa%20mirabosques/a99c1ba0-bf6a-418a-9b95-76ffdb04d48e_tthxuz.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1697641577/Viviendas/Casa%20mirabosques/04_wmagi4.jpg"
             },
              {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1668518864/Viviendas/Casa%20mirabosques/WhatsApp_Image_2022-08-08_at_10.44.13_qlp45g.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1697641577/Viviendas/Casa%20mirabosques/05_tegnb7.jpgg"
             },  
              {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1668520400/Viviendas/Casa%20mirabosques/er_como_objeto_inteligente-1_f9tupx.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1697641578/Viviendas/Casa%20mirabosques/06_tdkgxf.jpg"
             }, 
              {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1668520986/Viviendas/Casa%20mirabosques/ea2_como_objeto_inteligente-1_f0v9n2.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1697641577/Viviendas/Casa%20mirabosques/07_o9r9mn.jpg"
+            }, 
+             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1697641611/Viviendas/Casa%20mirabosques/8_uhz79d.jpg"
+            }, 
+             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1697641611/Viviendas/Casa%20mirabosques/9_litdz9.jpg"
+            }, 
+             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1697641631/Viviendas/Casa%20mirabosques/10_u2rksn.jpg"
+            }, 
+             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1697641577/Viviendas/Casa%20mirabosques/08_u6ltuz.jpg"
+            }, 
+             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1697641651/Viviendas/Casa%20mirabosques/12_zyyivm.jpg"
+            }, 
+             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1697641652/Viviendas/Casa%20mirabosques/13_lkxhmp.jpg"
+            }, 
+             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1697641652/Viviendas/Casa%20mirabosques/14_ocm5eu.jpg"
+            }, 
+             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1697641653/Viviendas/Casa%20mirabosques/15_declq4.jpg"
+            }, 
+             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1697641653/Viviendas/Casa%20mirabosques/16_aztbfw.jpg"
             }       
         ],
         "informacionGeneral": 
