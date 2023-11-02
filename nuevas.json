@@ -1061,6 +1061,59 @@
         "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157482/Viviendas/9_Cerrito/PLANO_CERRITO_zlfzd1.jpg",
         "youtubeVideoId": ""
     },
+        {
+        "id": "11",
+        "categoria": "nuevas",
+        "nombre": "CASA BUSTAMANTE",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669982522/Viviendas/Bustamante/B2_rhpbop.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669982522/Viviendas/Bustamante/B3_jftahx.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669982522/Viviendas/Bustamante/B2_rhpbop.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669982464/Viviendas/Bustamante/b_conrs0.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669982464/Viviendas/Bustamante/c_evylax.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669982464/Viviendas/Bustamante/a_exwog0.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669982464/Viviendas/Bustamante/h_fmenvk.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669982523/Viviendas/Bustamante/b7_rotkts.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669982523/Viviendas/Bustamante/B6_erq5ze.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "AÑO: 2022"
+                },
+                {
+                    "parrafo": "108 M2 CUBIERTOS / 46 M2 SEMICUBIERTOS"
+                },
+                {
+                    "parrafo": "Es una casa de dos plantas en donde se ubicó el área social en planta baja y los dormitorios en planta alta. Los propietarios pidieron que el living estuviera separado del comedor y con mayor conexión con el acceso. Por ello se creó un patio interno para poder dar privacidad a ambos espacios. La cocina-comedor tiene mayor vinculación con la galería y el jardín.  "
+                },
+                {
+                    "parrafo": "En planta alta se encuentra la suite, que cuenta con baño privado y vestidor, una habitación con baño privado y el lavadero."
+                },
+                {
+                    "parrafo": "Respecto del estilo se diseñó bajo un concepto más clásico las fachadas, restaurando ventanales y aberturas de época. En el interior el estilo es más moderno con algunos detalles rústicos campestres. Se utilizó madera y ladrillo a la vista para generar calidez."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669982980/Viviendas/Bustamante/BUSTAMANTE_n6gauz.jpg",
+        "youtubeVideoId": ""
+    },  
     {
         "id": "9",
         "categoria": "nuevas",
@@ -1222,59 +1275,6 @@
         "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157460/Viviendas/5_Casa%20SB/plano_SB_ukqk1w.jpg",
         "youtubeVideoId": "AN-gS0ac1_k"
     },
-      {
-        "id": "11",
-        "categoria": "nuevas",
-        "nombre": "CASA BUSTAMANTE",
-        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669982522/Viviendas/Bustamante/B2_rhpbop.jpg",
-        "slider" :
-        [
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669982522/Viviendas/Bustamante/B3_jftahx.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669982522/Viviendas/Bustamante/B2_rhpbop.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669982464/Viviendas/Bustamante/b_conrs0.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669982464/Viviendas/Bustamante/c_evylax.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669982464/Viviendas/Bustamante/a_exwog0.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669982464/Viviendas/Bustamante/h_fmenvk.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669982523/Viviendas/Bustamante/b7_rotkts.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669982523/Viviendas/Bustamante/B6_erq5ze.jpg"
-            }
-        ],
-        "informacionGeneral": 
-            [
-                {
-                    "parrafo": "AÑO: 2022"
-                },
-                {
-                    "parrafo": "108 M2 CUBIERTOS / 46 M2 SEMICUBIERTOS"
-                },
-                {
-                    "parrafo": "XXX."
-                },
-                {
-                    "parrafo": "XXX."
-                },
-                {
-                    "parrafo": "XXX."
-                }
-            ],
-        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669982980/Viviendas/Bustamante/BUSTAMANTE_n6gauz.jpg",
-        "youtubeVideoId": ""
-    },  
     {
         "id": "12",
         "categoria": "nuevas",
