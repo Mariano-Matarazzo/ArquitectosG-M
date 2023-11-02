@@ -513,65 +513,6 @@
         "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1668173518/Viviendas/Casa%20blanca/esteplantasss_gkeevj.jpg",
         "youtubeVideoId": "29Nxf2YliQw"
     },
-    {
-        "id": "18",
-        "categoria": "nuevas",
-        "nombre": "CASA RT",
-        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729374/Viviendas/19_Casa%20Los%20Ceibos/02_ext_fkoprd.jpg",
-        "slider" :
-        [
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729376/Viviendas/19_Casa%20Los%20Ceibos/01_ext_vub6k9.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729374/Viviendas/19_Casa%20Los%20Ceibos/02_ext_fkoprd.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729374/Viviendas/19_Casa%20Los%20Ceibos/03_living_gj51fj.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729374/Viviendas/19_Casa%20Los%20Ceibos/04_comedor_tmnbpx.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729376/Viviendas/19_Casa%20Los%20Ceibos/05_patio_1_mrcorg.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729374/Viviendas/19_Casa%20Los%20Ceibos/06_cocina_v27vyc.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729376/Viviendas/19_Casa%20Los%20Ceibos/07_patio_2_a8jcjj.jpg"
-            },
-             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729376/Viviendas/19_Casa%20Los%20Ceibos/08_semicubierto_trmt9w.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729376/Viviendas/19_Casa%20Los%20Ceibos/09_ext_i9fmrm.jpg"
-            },     
-             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729377/Viviendas/19_Casa%20Los%20Ceibos/10_ext_oc18m7.jpg"
-            },
-             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729378/Viviendas/19_Casa%20Los%20Ceibos/11_ext_vwobt4.jpg"
-            }                
-        ],
-        "informacionGeneral": 
-            [
-                {
-                    "parrafo": "AÑO: 2023 - UBICACIÓN: HARAS DEL SUR III, LA PLATA, BS.AS"
-                },
-                {
-                    "parrafo": "185 M2 CUBIERTOS /   67 M2 SEMICUBIERTOS  /   765 M2 DESCUBIERTOS"
-                },
-                {
-                    "parrafo": "La casa se organiza a partir de un gran patio central, el cual posee mucha vegetación y amplios ventanales para lograr vinculación con los espacios sociales. A partir del mismo se generan dos espacios: el área social con un amplio living-comedor y por el otro la suite del matrimonio. Desde el área social se puede acceder a la planta alta donde se proyectaron los dormitorios para los hijos. Es una casa con mucho vinculo con el exterior, donde se buscó priorizar la privacidad del matrimonio y los lugares de encuentro."
-                },
-                {
-                    "parrafo": "El diseño es moderno y minimalista. Se utilizaron grandes ventanales para generar buena iluminación y ventilación. Se optó por los colores claros y la utilización de detalles en madera para generar calidez."
-                }
-            ],
-        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683837028/Viviendas/19_Casa%20Los%20Ceibos/planta_rita_p5xpth.jpg",
-        "youtubeVideoId": "POt_MeL-Ncg"
-    },
                 {
         "id": "31",
         "categoria": "nuevas",
@@ -966,46 +907,64 @@
         "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157473/Viviendas/8_Granaderos/plano_granaderos_modfj8.jpg",
         "youtubeVideoId": ""
     },
-         {
-        "id": "5",
+            {
+        "id": "18",
         "categoria": "nuevas",
-        "nombre": "CASA SB",
-        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157460/Viviendas/5_Casa%20SB/casa_sb1_z5gtik.jpg",
+        "nombre": "CASA RT",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729374/Viviendas/19_Casa%20Los%20Ceibos/02_ext_fkoprd.jpg",
         "slider" :
         [
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157460/Viviendas/5_Casa%20SB/casa_sb1_z5gtik.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729376/Viviendas/19_Casa%20Los%20Ceibos/01_ext_vub6k9.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157460/Viviendas/5_Casa%20SB/casa_sb2_vu3scf.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729374/Viviendas/19_Casa%20Los%20Ceibos/02_ext_fkoprd.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157460/Viviendas/5_Casa%20SB/casa_sb4_tkjpvn.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729374/Viviendas/19_Casa%20Los%20Ceibos/03_living_gj51fj.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157460/Viviendas/5_Casa%20SB/casa_sb5_jpzws6.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729374/Viviendas/19_Casa%20Los%20Ceibos/04_comedor_tmnbpx.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157460/Viviendas/5_Casa%20SB/casa_sb6_ikigrd.jpg"
-            }
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729376/Viviendas/19_Casa%20Los%20Ceibos/05_patio_1_mrcorg.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729374/Viviendas/19_Casa%20Los%20Ceibos/06_cocina_v27vyc.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729376/Viviendas/19_Casa%20Los%20Ceibos/07_patio_2_a8jcjj.jpg"
+            },
+             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729376/Viviendas/19_Casa%20Los%20Ceibos/08_semicubierto_trmt9w.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729376/Viviendas/19_Casa%20Los%20Ceibos/09_ext_i9fmrm.jpg"
+            },     
+             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729377/Viviendas/19_Casa%20Los%20Ceibos/10_ext_oc18m7.jpg"
+            },
+             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729378/Viviendas/19_Casa%20Los%20Ceibos/11_ext_vwobt4.jpg"
+            }                
         ],
         "informacionGeneral": 
             [
                 {
-                    "parrafo": "AÑO 2021 – UBICACIÓN: CAMPOS DE ROCA, BRANDSEN, BS.AS"
+                    "parrafo": "AÑO: 2023 - UBICACIÓN: HARAS DEL SUR III, LA PLATA, BS.AS"
                 },
                 {
-                    "parrafo": "161 M2 CUBIERTOS / 109 M2 SEMICUBIERTOS / 1850 M2 DESCUBIERTOS"
+                    "parrafo": "185 M2 CUBIERTOS /   67 M2 SEMICUBIERTOS  /   765 M2 DESCUBIERTOS"
                 },
                 {
-                    "parrafo": "La casa se diseño para un matrimonio y el abuelo de uno de ellos. Por ese motivo, la planta baja se pensó en dos sectores: por un lado el área social que cuenta con living-comedor, cocina, lavadero y toilette y por otro la habitación para el abuelo. Quisimos lograr privacidad, es por ello que la habitación se separa de la casa, mediante un patio interno con galería vidriada. En la planta alta se encuentran las habitaciones para el matrimonio y sus hijos y un escritorio. La habitación matrimonial se diseño en suite con su baño y vestidor. Además, cuenta con una amplia terraza que permite lograr buena conexión con el exterior y aprovechar las visuales al campo."
+                    "parrafo": "La casa se organiza a partir de un gran patio central, el cual posee mucha vegetación y amplios ventanales para lograr vinculación con los espacios sociales. A partir del mismo se generan dos espacios: el área social con un amplio living-comedor y por el otro la suite del matrimonio. Desde el área social se puede acceder a la planta alta donde se proyectaron los dormitorios para los hijos. Es una casa con mucho vinculo con el exterior, donde se buscó priorizar la privacidad del matrimonio y los lugares de encuentro."
                 },
                 {
-                    "parrafo": "Se optó por un diseño moderno y minimalista. Se utilizó mucho vidrio y colores claros para generar amplitud y buena iluminación."
+                    "parrafo": "El diseño es moderno y minimalista. Se utilizaron grandes ventanales para generar buena iluminación y ventilación. Se optó por los colores claros y la utilización de detalles en madera para generar calidez."
                 }
             ],
-        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157460/Viviendas/5_Casa%20SB/plano_SB_ukqk1w.jpg",
-        "youtubeVideoId": "AN-gS0ac1_k"
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683837028/Viviendas/19_Casa%20Los%20Ceibos/planta_rita_p5xpth.jpg",
+        "youtubeVideoId": "POt_MeL-Ncg"
     },
     {
         "id": "8",
@@ -1221,6 +1180,47 @@
             ],
         "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157486/Viviendas/11_Pallares/plano_pallares_jaceg8.jpg",
         "youtubeVideoId": ""
+    },
+        {
+        "id": "5",
+        "categoria": "nuevas",
+        "nombre": "CASA SB",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157460/Viviendas/5_Casa%20SB/casa_sb1_z5gtik.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157460/Viviendas/5_Casa%20SB/casa_sb1_z5gtik.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157460/Viviendas/5_Casa%20SB/casa_sb2_vu3scf.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157460/Viviendas/5_Casa%20SB/casa_sb4_tkjpvn.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157460/Viviendas/5_Casa%20SB/casa_sb5_jpzws6.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157460/Viviendas/5_Casa%20SB/casa_sb6_ikigrd.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "AÑO 2021 – UBICACIÓN: CAMPOS DE ROCA, BRANDSEN, BS.AS"
+                },
+                {
+                    "parrafo": "161 M2 CUBIERTOS / 109 M2 SEMICUBIERTOS / 1850 M2 DESCUBIERTOS"
+                },
+                {
+                    "parrafo": "La casa se diseño para un matrimonio y el abuelo de uno de ellos. Por ese motivo, la planta baja se pensó en dos sectores: por un lado el área social que cuenta con living-comedor, cocina, lavadero y toilette y por otro la habitación para el abuelo. Quisimos lograr privacidad, es por ello que la habitación se separa de la casa, mediante un patio interno con galería vidriada. En la planta alta se encuentran las habitaciones para el matrimonio y sus hijos y un escritorio. La habitación matrimonial se diseño en suite con su baño y vestidor. Además, cuenta con una amplia terraza que permite lograr buena conexión con el exterior y aprovechar las visuales al campo."
+                },
+                {
+                    "parrafo": "Se optó por un diseño moderno y minimalista. Se utilizó mucho vidrio y colores claros para generar amplitud y buena iluminación."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157460/Viviendas/5_Casa%20SB/plano_SB_ukqk1w.jpg",
+        "youtubeVideoId": "AN-gS0ac1_k"
     },
       {
         "id": "11",
