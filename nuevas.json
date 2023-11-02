@@ -655,6 +655,56 @@
         "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157469/Viviendas/6_Pichincha/plano_pichincha_y2ab43.jpg",
         "youtubeVideoId": ""
     },
+                {
+        "id": "33",
+        "categoria": "nuevas",
+        "nombre": "CASA CG",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667666002/Viviendas/Casa%20QR/j_hormtw.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1698951906/Viviendas/Casa%20CG/01_s8dukv.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1698951906/Viviendas/Casa%20CG/02_avvce7.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1698951910/Viviendas/Casa%20CG/03_q9adhl.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1698951906/Viviendas/Casa%20CG/04_q3lrju.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1698951905/Viviendas/Casa%20CG/05_cw4ngi.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1698951906/Viviendas/Casa%20CG/06_wfw0ud.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "AÑO: 2023 - UBICACIÓN: EL QUIMILAR, CITY BELL, LA PLATA"
+                },
+                {
+                    "parrafo": "248 M2 CUBIERTOS /   76 M2 SEMICUBIERTOS  /   270 M2 DESCUBIERTOS"
+                },
+                {
+                    "parrafo": "X"
+                },
+                {
+                    "parrafo": "X"
+                },
+                 {
+                    "parrafo": "X"
+                },    
+                {
+                    "parrafo": "X"
+                }    
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667672071/Viviendas/Casa%20QR/eplanta_p4cg5k.jpg",
+        "youtubeVideoId": "GFXnmbxHtNU"
+    },
         {
         "id": "19",
         "categoria": "nuevas",
