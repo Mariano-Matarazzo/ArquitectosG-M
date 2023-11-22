@@ -468,52 +468,8 @@
         "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1687877872/Viviendas/Casa%20EM/planta_web_yz1jbu.jpg",
         "youtubeVideoId": "nvDXsp0Jk7c"
            
-    },        
-    {
-        "id": "17",
-        "categoria": "nuevas",
-        "nombre": "CASA EA",
-        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1657661917/Viviendas/Casa%20blanca/IMG-20220616-WA0002_oqx3ur.jpg",
-        "slider" :
-        [
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1657661917/Viviendas/Casa%20blanca/IMG-20220616-WA0002_oqx3ur.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1657661919/Viviendas/Casa%20blanca/IMG-20220616-WA0003_kcaetn.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1657661917/Viviendas/Casa%20blanca/IMG-20220615-WA0112_xfczip.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1657661917/Viviendas/Casa%20blanca/IMG-20220616-WA0001_vliwcv.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1657661918/Viviendas/Casa%20blanca/IMG-20220616-WA0000_ty34k5.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1657661919/Viviendas/Casa%20blanca/IMG-20220616-WA0004_znapps.jpg"
-            }      
-        ],
-        "informacionGeneral": 
-            [
-                {
-                    "parrafo": "AÑO: 2022 - UBICACIÓN: BARRIO VILLALOBOS, HUDSON, BS.AS"
-                },
-                {
-                    "parrafo": "177   M2 CUBIERTOS /  74 M2 SEMICUBIERTOS"
-                },
-                {
-                    "parrafo": "Es una casa en dos plantas. Sobre la planta baja se encuentra el área social. Se proyectó un amplio living comedor con vinculación directa con la galería y jardín. Se priorizó a pedido del cliente, el espacio de cocina y un amplio lavadero. Sobre la planta baja se encuentran los dormitorios. Para generar mayor privacidad se encuentran separados por un playroom. A su vez hay una amplia terraza con vistas al jardín."
-                },
-                {
-                    "parrafo": "Se optó por un estilo minimalista con detalles de estilo campo. Predomina el color blanco y la utilización de colores bien claros para generar amplitud y luminosidad."
-                }
-            ],
-        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1668173518/Viviendas/Casa%20blanca/esteplantasss_gkeevj.jpg",
-        "youtubeVideoId": "29Nxf2YliQw"
     },
-                {
+    {
         "id": "31",
         "categoria": "nuevas",
         "nombre": "CASA BJ",
@@ -574,7 +530,7 @@
             ],
         "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1679406334/Viviendas/Casa%20BJ/plano_haras27_pdy9u1.jpg",
         "youtubeVideoId": "4aTF92pW_Tw"
-    },
+    },    
          {
         "id": "4",
         "categoria": "nuevas",
@@ -704,80 +660,6 @@
             ],
         "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1698956109/Viviendas/Casa%20CG/planta_web_hd4p1o.jpg",
         "youtubeVideoId": "GFXnmbxHtNU"
-    },
-        {
-        "id": "19",
-        "categoria": "nuevas",
-        "nombre": "CASA QR",
-        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667666002/Viviendas/Casa%20QR/j_hormtw.jpg",
-        "slider" :
-        [
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667666002/Viviendas/Casa%20QR/j_hormtw.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667666001/Viviendas/Casa%20QR/h_m40f8c.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667666003/Viviendas/Casa%20QR/ees_f8jqva.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667666001/Viviendas/Casa%20QR/b_rgyips.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667666002/Viviendas/Casa%20QR/f_cmjrd2.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667666002/Viviendas/Casa%20QR/e_ixexbu.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667666001/Viviendas/Casa%20QR/a_vuronm.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667666002/Viviendas/Casa%20QR/i_vsimnf.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1668089777/Viviendas/Casa%20QR/b_xosb5u.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1668089776/Viviendas/Casa%20QR/f_xqc4gf.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1668089777/Viviendas/Casa%20QR/a_fhvyva.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1668089776/Viviendas/Casa%20QR/g_n8iuos.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1668089776/Viviendas/Casa%20QR/d_tlai19.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1668089776/Viviendas/Casa%20QR/e_zau0jo.jpg"
-            }
-        ],
-        "informacionGeneral": 
-            [
-                {
-                    "parrafo": "AÑO: 2023 - UBICACIÓN: FINCAS DE SAN VICENTE, SAN VICENTE"
-                },
-                {
-                    "parrafo": "200 M2 CUBIERTOS /   46 M2 SEMICUBIERTOS  /   773 M2 DESCUBIERTOS"
-                },
-                {
-                    "parrafo": "Es una casa proyectada en planta baja. Se delimitaron las áreas de uso social: posee un amplio living comedor con vinculación directa con la galería y jardín. Por el otro se encuentra el área de los dormitorios: una amplia suite con vestidor y baño privado, tres dormitorios y habitación para húespedes. "
-                },
-                {
-                    "parrafo": "El diseño es de estilo campestre, se utilizaron detalles característicos del estilo: columnas coloniales, molduras, galerías de chapa, etc. Se utilizó mucho la madera para generar calidez."
-                },
-                 {
-                    "parrafo": "Recorrido virtual ingresando al siguiente link"
-                },    
-                {
-                    "parrafo": "https://www.youtube.com/watch?v=MtFr0EwgCmc"
-                }    
-            ],
-        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667672071/Viviendas/Casa%20QR/eplanta_p4cg5k.jpg",
-        "youtubeVideoId": "MtFr0EwgCmc"
     },
     {
         "id": "6",
@@ -956,65 +838,6 @@
             ],
         "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157473/Viviendas/8_Granaderos/plano_granaderos_modfj8.jpg",
         "youtubeVideoId": ""
-    },
-            {
-        "id": "18",
-        "categoria": "nuevas",
-        "nombre": "CASA RT",
-        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729374/Viviendas/19_Casa%20Los%20Ceibos/02_ext_fkoprd.jpg",
-        "slider" :
-        [
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729376/Viviendas/19_Casa%20Los%20Ceibos/01_ext_vub6k9.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729374/Viviendas/19_Casa%20Los%20Ceibos/02_ext_fkoprd.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729374/Viviendas/19_Casa%20Los%20Ceibos/03_living_gj51fj.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729374/Viviendas/19_Casa%20Los%20Ceibos/04_comedor_tmnbpx.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729376/Viviendas/19_Casa%20Los%20Ceibos/05_patio_1_mrcorg.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729374/Viviendas/19_Casa%20Los%20Ceibos/06_cocina_v27vyc.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729376/Viviendas/19_Casa%20Los%20Ceibos/07_patio_2_a8jcjj.jpg"
-            },
-             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729376/Viviendas/19_Casa%20Los%20Ceibos/08_semicubierto_trmt9w.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729376/Viviendas/19_Casa%20Los%20Ceibos/09_ext_i9fmrm.jpg"
-            },     
-             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729377/Viviendas/19_Casa%20Los%20Ceibos/10_ext_oc18m7.jpg"
-            },
-             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729378/Viviendas/19_Casa%20Los%20Ceibos/11_ext_vwobt4.jpg"
-            }                
-        ],
-        "informacionGeneral": 
-            [
-                {
-                    "parrafo": "AÑO: 2023 - UBICACIÓN: HARAS DEL SUR III, LA PLATA, BS.AS"
-                },
-                {
-                    "parrafo": "185 M2 CUBIERTOS /   67 M2 SEMICUBIERTOS  /   765 M2 DESCUBIERTOS"
-                },
-                {
-                    "parrafo": "La casa se organiza a partir de un gran patio central, el cual posee mucha vegetación y amplios ventanales para lograr vinculación con los espacios sociales. A partir del mismo se generan dos espacios: el área social con un amplio living-comedor y por el otro la suite del matrimonio. Desde el área social se puede acceder a la planta alta donde se proyectaron los dormitorios para los hijos. Es una casa con mucho vinculo con el exterior, donde se buscó priorizar la privacidad del matrimonio y los lugares de encuentro."
-                },
-                {
-                    "parrafo": "El diseño es moderno y minimalista. Se utilizaron grandes ventanales para generar buena iluminación y ventilación. Se optó por los colores claros y la utilización de detalles en madera para generar calidez."
-                }
-            ],
-        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683837028/Viviendas/19_Casa%20Los%20Ceibos/planta_rita_p5xpth.jpg",
-        "youtubeVideoId": "POt_MeL-Ncg"
     },
     {
         "id": "8",
@@ -1283,6 +1106,183 @@
             ],
         "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157486/Viviendas/11_Pallares/plano_pallares_jaceg8.jpg",
         "youtubeVideoId": ""
+    },
+        {
+        "id": "17",
+        "categoria": "nuevas",
+        "nombre": "CASA EA",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1657661917/Viviendas/Casa%20blanca/IMG-20220616-WA0002_oqx3ur.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1657661917/Viviendas/Casa%20blanca/IMG-20220616-WA0002_oqx3ur.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1657661919/Viviendas/Casa%20blanca/IMG-20220616-WA0003_kcaetn.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1657661917/Viviendas/Casa%20blanca/IMG-20220615-WA0112_xfczip.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1657661917/Viviendas/Casa%20blanca/IMG-20220616-WA0001_vliwcv.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1657661918/Viviendas/Casa%20blanca/IMG-20220616-WA0000_ty34k5.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1657661919/Viviendas/Casa%20blanca/IMG-20220616-WA0004_znapps.jpg"
+            }      
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "AÑO: 2022 - UBICACIÓN: BARRIO VILLALOBOS, HUDSON, BS.AS"
+                },
+                {
+                    "parrafo": "177   M2 CUBIERTOS /  74 M2 SEMICUBIERTOS"
+                },
+                {
+                    "parrafo": "Es una casa en dos plantas. Sobre la planta baja se encuentra el área social. Se proyectó un amplio living comedor con vinculación directa con la galería y jardín. Se priorizó a pedido del cliente, el espacio de cocina y un amplio lavadero. Sobre la planta baja se encuentran los dormitorios. Para generar mayor privacidad se encuentran separados por un playroom. A su vez hay una amplia terraza con vistas al jardín."
+                },
+                {
+                    "parrafo": "Se optó por un estilo minimalista con detalles de estilo campo. Predomina el color blanco y la utilización de colores bien claros para generar amplitud y luminosidad."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1668173518/Viviendas/Casa%20blanca/esteplantasss_gkeevj.jpg",
+        "youtubeVideoId": "29Nxf2YliQw"
+    },
+        {
+        "id": "19",
+        "categoria": "nuevas",
+        "nombre": "CASA QR",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667666002/Viviendas/Casa%20QR/j_hormtw.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667666002/Viviendas/Casa%20QR/j_hormtw.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667666001/Viviendas/Casa%20QR/h_m40f8c.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667666003/Viviendas/Casa%20QR/ees_f8jqva.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667666001/Viviendas/Casa%20QR/b_rgyips.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667666002/Viviendas/Casa%20QR/f_cmjrd2.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667666002/Viviendas/Casa%20QR/e_ixexbu.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667666001/Viviendas/Casa%20QR/a_vuronm.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667666002/Viviendas/Casa%20QR/i_vsimnf.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1668089777/Viviendas/Casa%20QR/b_xosb5u.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1668089776/Viviendas/Casa%20QR/f_xqc4gf.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1668089777/Viviendas/Casa%20QR/a_fhvyva.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1668089776/Viviendas/Casa%20QR/g_n8iuos.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1668089776/Viviendas/Casa%20QR/d_tlai19.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1668089776/Viviendas/Casa%20QR/e_zau0jo.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "AÑO: 2023 - UBICACIÓN: FINCAS DE SAN VICENTE, SAN VICENTE"
+                },
+                {
+                    "parrafo": "200 M2 CUBIERTOS /   46 M2 SEMICUBIERTOS  /   773 M2 DESCUBIERTOS"
+                },
+                {
+                    "parrafo": "Es una casa proyectada en planta baja. Se delimitaron las áreas de uso social: posee un amplio living comedor con vinculación directa con la galería y jardín. Por el otro se encuentra el área de los dormitorios: una amplia suite con vestidor y baño privado, tres dormitorios y habitación para húespedes. "
+                },
+                {
+                    "parrafo": "El diseño es de estilo campestre, se utilizaron detalles característicos del estilo: columnas coloniales, molduras, galerías de chapa, etc. Se utilizó mucho la madera para generar calidez."
+                },
+                 {
+                    "parrafo": "Recorrido virtual ingresando al siguiente link"
+                },    
+                {
+                    "parrafo": "https://www.youtube.com/watch?v=MtFr0EwgCmc"
+                }    
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667672071/Viviendas/Casa%20QR/eplanta_p4cg5k.jpg",
+        "youtubeVideoId": "MtFr0EwgCmc"
+    },
+        {
+        "id": "18",
+        "categoria": "nuevas",
+        "nombre": "CASA RT",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729374/Viviendas/19_Casa%20Los%20Ceibos/02_ext_fkoprd.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729376/Viviendas/19_Casa%20Los%20Ceibos/01_ext_vub6k9.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729374/Viviendas/19_Casa%20Los%20Ceibos/02_ext_fkoprd.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729374/Viviendas/19_Casa%20Los%20Ceibos/03_living_gj51fj.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729374/Viviendas/19_Casa%20Los%20Ceibos/04_comedor_tmnbpx.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729376/Viviendas/19_Casa%20Los%20Ceibos/05_patio_1_mrcorg.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729374/Viviendas/19_Casa%20Los%20Ceibos/06_cocina_v27vyc.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729376/Viviendas/19_Casa%20Los%20Ceibos/07_patio_2_a8jcjj.jpg"
+            },
+             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729376/Viviendas/19_Casa%20Los%20Ceibos/08_semicubierto_trmt9w.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729376/Viviendas/19_Casa%20Los%20Ceibos/09_ext_i9fmrm.jpg"
+            },     
+             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729377/Viviendas/19_Casa%20Los%20Ceibos/10_ext_oc18m7.jpg"
+            },
+             {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683729378/Viviendas/19_Casa%20Los%20Ceibos/11_ext_vwobt4.jpg"
+            }                
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "AÑO: 2023 - UBICACIÓN: HARAS DEL SUR III, LA PLATA, BS.AS"
+                },
+                {
+                    "parrafo": "185 M2 CUBIERTOS /   67 M2 SEMICUBIERTOS  /   765 M2 DESCUBIERTOS"
+                },
+                {
+                    "parrafo": "La casa se organiza a partir de un gran patio central, el cual posee mucha vegetación y amplios ventanales para lograr vinculación con los espacios sociales. A partir del mismo se generan dos espacios: el área social con un amplio living-comedor y por el otro la suite del matrimonio. Desde el área social se puede acceder a la planta alta donde se proyectaron los dormitorios para los hijos. Es una casa con mucho vinculo con el exterior, donde se buscó priorizar la privacidad del matrimonio y los lugares de encuentro."
+                },
+                {
+                    "parrafo": "El diseño es moderno y minimalista. Se utilizaron grandes ventanales para generar buena iluminación y ventilación. Se optó por los colores claros y la utilización de detalles en madera para generar calidez."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1683837028/Viviendas/19_Casa%20Los%20Ceibos/planta_rita_p5xpth.jpg",
+        "youtubeVideoId": "POt_MeL-Ncg"
     },
         {
         "id": "5",
