@@ -734,6 +734,71 @@
             ],
         "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669982980/Viviendas/Bustamante/BUSTAMANTE_n6gauz.jpg",
         "youtubeVideoId": ""
+    },        
+        {
+        "id": "11",
+        "categoria": "nuevas",
+        "nombre": "CASA AJ",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1719860159/Viviendas/Casa%20AJ/00_a_pdk59t.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1719860159/Viviendas/Casa%20AJ/00_a_pdk59t.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1719860160/Viviendas/Casa%20AJ/00_b_kybcds.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1719860069/Viviendas/Casa%20AJ/01_cwd2bd.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1719860070/Viviendas/Casa%20AJ/02_x8vryl.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1719860070/Viviendas/Casa%20AJ/03_m1ywy7.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1719860159/Viviendas/Casa%20AJ/04_ykap1w.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1719860161/Viviendas/Casa%20AJ/05_zkxtf0.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1719860162/Viviendas/Casa%20AJ/06_pb7lpx.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1719860161/Viviendas/Casa%20AJ/07_avj5ku.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1719860162/Viviendas/Casa%20AJ/08_ugma37.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1719860163/Viviendas/Casa%20AJ/09_p5x3af.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1719860164/Viviendas/Casa%20AJ/10_j78hbi.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "AÑO: 2024"
+                },
+                {
+                    "parrafo": "219 M2 CUBIERTOS / 25 M2 SEMICUBIERTOS"
+                },
+                {
+                    "parrafo": "..."
+                },
+                {
+                    "parrafo": "..."
+                },
+                {
+                    "parrafo": "..."
+                }
+            ],
+        "informacionGeneralImagen": "",
+        "youtubeVideoId": "2Psj_xggSck&ab"
     },  
     {
         "id": "6",
