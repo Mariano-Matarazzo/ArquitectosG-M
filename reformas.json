@@ -123,77 +123,6 @@
     {
         "id": "3",
         "categoria": "reformas",
-        "nombre": "DPTO AZCUENAGA",
-        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_1_k3b0th.jpg",
-        "slider" :
-        [
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_1_k3b0th.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_2_pbabsx.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_3_sprkxp.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_4_vxrlwc.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_7_tboou2.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_8_c59ikv.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157375/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_9_ixqtsd.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_11_iz5ads.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_12_ndgbfk.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157374/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_13_u2ckbo.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_14_hxhtk0.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_15_vodyaj.jpg"
-            }
-        ],
-        "informacionGeneral": 
-            [
-                {
-                    "parrafo": "Reforma total departamento 3 ambientes"
-                },
-                {
-                    "parrafo": "La intención del cliente fue mejorar la funcionalidad y comodidad del departamento, ya que era un 4 ambientes pero con un living muy pequeño y cocina y lavadero incomodo."
-                },
-                {
-                    "parrafo": "Ademas, habia un dormitorio que no contaba con iluminación y ventilación directa, ya que estaba el lavadero."
-                },
-                {
-                    "parrafo": "Frente a esto, se demolió un dormitorio que estaba inutilizado y se lo integró al living. Donde estaba la cocina, se ubicó el lavadero, y el espacio del anterior lavadero se integro al dormitorio, logrando la iluminación y ventilación adecuada."
-                },
-                {
-                    "parrafo": "La cocina se ubicó en lo que era el cuarto de servicio, logrando una cocina de mayores dimensiones y funcionalidad."
-                },
-                {
-                    "parrafo": "Se realizo el cambio de todas las aberturas, y se acondicionó el piso de parquet."
-                },
-                {
-                    "parrafo": "Tambien se realizo todo el mobiliario a medida."
-                }
-            ],
-        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157374/Reformas/3_Depto%20Azcuenaga/plano_azcuenaga_zgpjog.jpg",
-        "youtubeVideoId": ""
-    },
-    {
-        "id": "4",
-        "categoria": "reformas",
         "nombre": "DPTO CÓRDOBA",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157375/Reformas/4_Depto%20Cordoba/depto_corrientes_1_21_r8wzrc.jpg",
         "slider" :
@@ -260,7 +189,7 @@
         "youtubeVideoId": ""
     },
     {
-        "id": "5",
+        "id": "4",
         "categoria": "reformas",
         "nombre": "JARDIN DE INFANTES SAN MIGUEL",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157378/Reformas/5_Jardin%20de%20infantes/jardin_de_infantes_1_19_humvqp.jpg",
@@ -352,7 +281,7 @@
         "youtubeVideoId": ""
     },
     {
-        "id": "6",
+        "id": "5",
         "categoria": "reformas",
         "nombre": "CASA ARIAS",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1719858058/Reformas/Arias%20Saavedra/ab_zn0u3o.jpg",
@@ -420,7 +349,7 @@
         "youtubeVideoId": ""
     },    
     {
-        "id": "7",
+        "id": "6",
         "categoria": "reformas",
         "nombre": "CASA MARMOL",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157382/Reformas/6_Casa%20Marmol/casa_marmol1_20_nulvmq.jpg",
@@ -476,7 +405,7 @@
         "youtubeVideoId": ""
     },
     {
-        "id": "8",
+        "id": "7",
         "categoria": "reformas",
         "nombre": "OFICINA SARMIENTO",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157387/Reformas/7_Oficina%20Sarmiento/oficinas_sarmiento_1_17_zoxqmb.jpg",
@@ -529,7 +458,7 @@
         "youtubeVideoId": ""
     },
     {
-        "id": "9",
+        "id": "8",
         "categoria": "reformas",
         "nombre": "CASA CAXARAVILLE",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157390/Reformas/8_Casa%20Caxaraville/Casa_caxaville_A_tkdtxu.jpg",
@@ -603,7 +532,7 @@
         "youtubeVideoId": ""
     },
     {
-        "id": "10",
+        "id": "9",
         "categoria": "reformas",
         "nombre": "OFICINAS ALSELEC",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157392/Reformas/9_Oficinas%20alselec/oficinas_alselec_2_18_mdxie1.jpg",
@@ -671,7 +600,7 @@
         "youtubeVideoId": ""
     },
     {
-        "id": "11",
+        "id": "10",
         "categoria": "reformas",
         "nombre": "CONSULTORIOS PASO",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157394/Reformas/10_Consultorios%20Paso/consultorio_paso_1_jhm0bu.jpg",
@@ -760,7 +689,7 @@
         "youtubeVideoId": ""
     },
     {
-        "id": "12",
+        "id": "11",
         "categoria": "reformas",
         "nombre": "CASA GRIGERA",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157398/Reformas/11_Casa%20Grigera/casa_grigera_1_dsszhe.jpg",
@@ -807,7 +736,7 @@
         "youtubeVideoId": ""
     },
     {
-        "id": "13",
+        "id": "12",
         "categoria": "reformas",
         "nombre": "LOCAL MUNDO SHOP",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157409/Reformas/12_Local%20Mundoshop/local_mundoshop1_18_pnuj70.jpg",
@@ -845,6 +774,77 @@
                 }
             ],
         "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157409/Reformas/12_Local%20Mundoshop/plano_local_mundoshop_pwkfni.jpg",
+        "youtubeVideoId": ""
+    },
+    {
+        "id": "13",
+        "categoria": "reformas",
+        "nombre": "DPTO AZCUENAGA",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_1_k3b0th.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_1_k3b0th.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_2_pbabsx.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_3_sprkxp.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_4_vxrlwc.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_7_tboou2.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_8_c59ikv.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157375/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_9_ixqtsd.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_11_iz5ads.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_12_ndgbfk.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157374/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_13_u2ckbo.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_14_hxhtk0.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_15_vodyaj.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "Reforma total departamento 3 ambientes"
+                },
+                {
+                    "parrafo": "La intención del cliente fue mejorar la funcionalidad y comodidad del departamento, ya que era un 4 ambientes pero con un living muy pequeño y cocina y lavadero incomodo."
+                },
+                {
+                    "parrafo": "Ademas, habia un dormitorio que no contaba con iluminación y ventilación directa, ya que estaba el lavadero."
+                },
+                {
+                    "parrafo": "Frente a esto, se demolió un dormitorio que estaba inutilizado y se lo integró al living. Donde estaba la cocina, se ubicó el lavadero, y el espacio del anterior lavadero se integro al dormitorio, logrando la iluminación y ventilación adecuada."
+                },
+                {
+                    "parrafo": "La cocina se ubicó en lo que era el cuarto de servicio, logrando una cocina de mayores dimensiones y funcionalidad."
+                },
+                {
+                    "parrafo": "Se realizo el cambio de todas las aberturas, y se acondicionó el piso de parquet."
+                },
+                {
+                    "parrafo": "Tambien se realizo todo el mobiliario a medida."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157374/Reformas/3_Depto%20Azcuenaga/plano_azcuenaga_zgpjog.jpg",
         "youtubeVideoId": ""
     },
     {
