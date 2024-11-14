@@ -522,6 +522,80 @@
     {
         "id": "9",
         "categoria": "reformas",
+        "nombre": "DPTO CABILDO",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613367/Reformas/Reforma%20Cabildo/04_ssa3ns.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613367/Reformas/Reforma%20Cabildo/01_couwlh.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613367/Reformas/Reforma%20Cabildo/02_i9ao0h.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613367/Reformas/Reforma%20Cabildo/04_ssa3ns.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613369/Reformas/Reforma%20Cabildo/05_zdk5lu.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613368/Reformas/Reforma%20Cabildo/06_a5x3xp.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613369/Reformas/Reforma%20Cabildo/03_ntktva.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613369/Reformas/Reforma%20Cabildo/08_vvnnho.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613369/Reformas/Reforma%20Cabildo/07_pundej.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613370/Reformas/Reforma%20Cabildo/planta_3d_fyq6ud.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613348/Reformas/Reforma%20Cabildo/03bp_2_-_Photo_ndpcft.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613348/Reformas/Reforma%20Cabildo/03bp_7_-_Photo_nc5gd4.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613347/Reformas/Reforma%20Cabildo/03bp_1_-_Photo_svah5d.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613330/Reformas/Reforma%20Cabildo/bp_planta_3d_ofltdb.jpgg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613332/Reformas/Reforma%20Cabildo/4_4_-_Photo_orfmx0.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613332/Reformas/Reforma%20Cabildo/4_8_-_Photo_s4sroa.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613331/Reformas/Reforma%20Cabildo/toil_planta_3d_nkesgw.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "Reforma de cocina, baño y toilette"
+                },
+                {
+                    "parrafo": "..."
+                },
+                {
+                    "parrafo": "..."
+                },
+                {
+                    "parrafo": "..."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731614152/Reformas/Reforma%20Cabildo/Presentaci%C3%B3n_de_proyecto_-_Comodoro_Rivadavia_page-0002_-_Copy_g0fidr.jpg",
+        "youtubeVideoId": ""
+    },
+    {
+        "id": "10",
+        "categoria": "reformas",
         "nombre": "CASA CAXARAVILLE",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157390/Reformas/8_Casa%20Caxaraville/Casa_caxaville_A_tkdtxu.jpg",
         "slider" :
@@ -594,7 +668,7 @@
         "youtubeVideoId": ""
     },
     {
-        "id": "10",
+        "id": "11",
         "categoria": "reformas",
         "nombre": "OFICINAS ALSELEC",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157392/Reformas/9_Oficinas%20alselec/oficinas_alselec_2_18_mdxie1.jpg",
@@ -662,7 +736,7 @@
         "youtubeVideoId": ""
     },
     {
-        "id": "11",
+        "id": "12",
         "categoria": "reformas",
         "nombre": "CONSULTORIOS PASO",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157394/Reformas/10_Consultorios%20Paso/consultorio_paso_1_jhm0bu.jpg",
@@ -751,7 +825,7 @@
         "youtubeVideoId": ""
     },
     {
-        "id": "12",
+        "id": "13",
         "categoria": "reformas",
         "nombre": "CASA GRIGERA",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157398/Reformas/11_Casa%20Grigera/casa_grigera_1_dsszhe.jpg",
@@ -798,7 +872,7 @@
         "youtubeVideoId": ""
     },
     {
-        "id": "13",
+        "id": "14",
         "categoria": "reformas",
         "nombre": "LOCAL MUNDO SHOP",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157409/Reformas/12_Local%20Mundoshop/local_mundoshop1_18_pnuj70.jpg",
@@ -839,7 +913,7 @@
         "youtubeVideoId": ""
     },
     {
-        "id": "14",
+        "id": "15",
         "categoria": "reformas",
         "nombre": "DPTO AZCUENAGA",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157373/Reformas/3_Depto%20Azcuenaga/depto_azcuenaga_1_k3b0th.jpg",
@@ -910,7 +984,7 @@
         "youtubeVideoId": ""
     },
     {
-        "id": "15",
+        "id": "16",
         "categoria": "reformas",
         "nombre": "CASA ARIAS",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157407/Reformas/13_Casa%20Arias/casa_arias_1_23_wgraiw.jpg",
@@ -957,7 +1031,7 @@
         "youtubeVideoId": ""
     },
     {
-        "id": "16",
+        "id": "17",
         "categoria": "reformas",
         "nombre": "PH CABRERO",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157413/Reformas/14_Ph%20Cabrero/ph_cabrero_1_15_egnddu.jpg",
@@ -1031,7 +1105,7 @@
         "youtubeVideoId": ""
     },
     {
-        "id": "17",
+        "id": "18",
         "categoria": "reformas",
         "nombre": "DPTO ITALIA",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157414/Reformas/15_Dpto%20Italia/italia1_izvkra.jpg",
@@ -1066,7 +1140,7 @@
         "youtubeVideoId": ""
     },
     {
-        "id": "18",
+        "id": "19",
         "categoria": "reformas",
         "nombre": "QUINCHO PALESTINA",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157416/Reformas/16_Quincho%20Palestina/quincho_palestina1_zbe9ut.jpg",
@@ -1119,7 +1193,7 @@
         "youtubeVideoId": ""
     },
     {
-        "id": "19",
+        "id": "20",
         "categoria": "reformas",
         "nombre": "COCINA YAPEYU",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1667915877/Reformas/17_%20Cocina%20yapeyu/1_1_l3lccq.jpg",
@@ -1166,7 +1240,7 @@
         "youtubeVideoId": ""
     },
     {
-        "id": "20",
+        "id": "21",
         "categoria": "reformas",
         "nombre": "HALL SARMIENTO",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157412/Reformas/18_Hall%20Sarmiento/hall_sarmiento_1_bzqf7x.jpg",
@@ -1204,7 +1278,7 @@
         "youtubeVideoId": ""
     },
     {
-        "id": "21",
+        "id": "22",
         "categoria": "reformas",
         "nombre": "CASA PALESTINA",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157421/Reformas/19_Casa%20Palestina/palestina1_rnrbxo.jpg",
@@ -1275,7 +1349,7 @@
         "youtubeVideoId": ""
     },
     {
-        "id": "22",
+        "id": "23",
         "categoria": "reformas",
         "nombre": "CLINICA KINESIOLOGICA",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157425/Reformas/20_Clinica%20kinesiologia/clinica_1a_apnzpj.jpg",
@@ -1316,7 +1390,7 @@
         "youtubeVideoId": ""
     },
     {
-        "id": "23",
+        "id": "24",
         "categoria": "reformas",
         "nombre": "DPTO LACARRA",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157427/Reformas/21_Depto%20Lacarra/depto_lacarra1_13_ypokex.jpg",
@@ -1372,7 +1446,7 @@
         "youtubeVideoId": ""
     },
     {
-        "id": "24",
+        "id": "25",
         "categoria": "reformas",
         "nombre": "COCINA DOMINICO",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157420/Reformas/22_Cocina%20dominico/cocina_dominico_1_1_g4madx.png",
@@ -1419,7 +1493,7 @@
         "youtubeVideoId": ""
     },
     {
-        "id": "25",
+        "id": "26",
         "categoria": "reformas",
         "nombre": "DPTO PUEYRREDON",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157436/Reformas/23%20Dpto%20Pueyrredon/1_qbfdvn.jpg",
@@ -1466,7 +1540,7 @@
         "youtubeVideoId": ""
     },
     {
-        "id": "26",
+        "id": "27",
         "categoria": "reformas",
         "nombre": "TERRAZA CONDE",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157424/Reformas/24%20Terraza%20Conde/terraza_Conde_1_aopgtn.jpg",
@@ -1501,7 +1575,7 @@
         "youtubeVideoId": ""
     },
      {
-        "id": "27",
+        "id": "28",
         "categoria": "reformas",
         "nombre": "DPTO PANAMA",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1669810833/Reformas/Cocina%20panama/WhatsApp_Image_2022-11-29_at_17.10.11_bcbibg.jpg",
@@ -1551,7 +1625,7 @@
         "youtubeVideoId": ""
     },
     {
-        "id": "28",
+        "id": "29",
         "categoria": "reformas",
         "nombre": "FRENTE NAZAR",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157428/Reformas/25%20Frente%20Nazar/2_njyt8i.jpg",
