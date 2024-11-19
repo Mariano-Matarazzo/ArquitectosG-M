@@ -123,6 +123,80 @@
     {
         "id": "3",
         "categoria": "reformas",
+        "nombre": "DPTO CABILDO",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613367/Reformas/Reforma%20Cabildo/04_ssa3ns.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613367/Reformas/Reforma%20Cabildo/01_couwlh.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613367/Reformas/Reforma%20Cabildo/02_i9ao0h.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613367/Reformas/Reforma%20Cabildo/04_ssa3ns.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613369/Reformas/Reforma%20Cabildo/05_zdk5lu.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613368/Reformas/Reforma%20Cabildo/06_a5x3xp.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613369/Reformas/Reforma%20Cabildo/03_ntktva.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613369/Reformas/Reforma%20Cabildo/08_vvnnho.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613369/Reformas/Reforma%20Cabildo/07_pundej.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613370/Reformas/Reforma%20Cabildo/planta_3d_fyq6ud.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613348/Reformas/Reforma%20Cabildo/03bp_2_-_Photo_ndpcft.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613348/Reformas/Reforma%20Cabildo/03bp_7_-_Photo_nc5gd4.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613347/Reformas/Reforma%20Cabildo/03bp_1_-_Photo_svah5d.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613330/Reformas/Reforma%20Cabildo/bp_planta_3d_ofltdb.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613332/Reformas/Reforma%20Cabildo/4_4_-_Photo_orfmx0.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613332/Reformas/Reforma%20Cabildo/4_8_-_Photo_s4sroa.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613331/Reformas/Reforma%20Cabildo/toil_planta_3d_nkesgw.jpg"
+            }
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "Reforma de cocina, baño y toilette"
+                },
+                {
+                    "parrafo": "..."
+                },
+                {
+                    "parrafo": "..."
+                },
+                {
+                    "parrafo": "..."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1732018875/Reformas/Reforma%20Cabildo/plantas_fdqlbb.jpg",
+        "youtubeVideoId": ""
+    },
+    {
+        "id": "4",
+        "categoria": "reformas",
         "nombre": "DPTO CÓRDOBA",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157375/Reformas/4_Depto%20Cordoba/depto_corrientes_1_21_r8wzrc.jpg",
         "slider" :
@@ -189,7 +263,7 @@
         "youtubeVideoId": ""
     },
     {
-        "id": "4",
+        "id": "5",
         "categoria": "reformas",
         "nombre": "JARDIN DE INFANTES SAN MIGUEL",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157378/Reformas/5_Jardin%20de%20infantes/jardin_de_infantes_1_19_humvqp.jpg",
@@ -281,7 +355,7 @@
         "youtubeVideoId": ""
     },
     {
-        "id": "5",
+        "id": "6",
         "categoria": "reformas",
         "nombre": "CASA ARIAS",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1719858058/Reformas/Arias%20Saavedra/ab_zn0u3o.jpg",
@@ -349,7 +423,7 @@
         "youtubeVideoId": ""
     },    
     {
-        "id": "6",
+        "id": "7",
         "categoria": "reformas",
         "nombre": "CASA MARMOL",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157382/Reformas/6_Casa%20Marmol/casa_marmol1_20_nulvmq.jpg",
@@ -405,7 +479,7 @@
         "youtubeVideoId": ""
     },
     {
-        "id": "7",
+        "id": "8",
         "categoria": "reformas",
         "nombre": "OFICINA SARMIENTO",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157387/Reformas/7_Oficina%20Sarmiento/oficinas_sarmiento_1_17_zoxqmb.jpg",
@@ -458,7 +532,7 @@
         "youtubeVideoId": ""
     },
     {
-        "id": "8",
+        "id": "9",
         "categoria": "reformas",
         "nombre": "DPTO ARCOS",
         "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1723753073/Reformas/Reforma%20Arcos/V2_06_x1kqcj.jpg",
@@ -517,80 +591,6 @@
                 }
             ],
         "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1723754819/Reformas/Reforma%20Arcos/planta_final_bfgd8c.jpg",
-        "youtubeVideoId": ""
-    },
-    {
-        "id": "9",
-        "categoria": "reformas",
-        "nombre": "DPTO CABILDO",
-        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613367/Reformas/Reforma%20Cabildo/04_ssa3ns.jpg",
-        "slider" :
-        [
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613367/Reformas/Reforma%20Cabildo/01_couwlh.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613367/Reformas/Reforma%20Cabildo/02_i9ao0h.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613367/Reformas/Reforma%20Cabildo/04_ssa3ns.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613369/Reformas/Reforma%20Cabildo/05_zdk5lu.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613368/Reformas/Reforma%20Cabildo/06_a5x3xp.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613369/Reformas/Reforma%20Cabildo/03_ntktva.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613369/Reformas/Reforma%20Cabildo/08_vvnnho.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613369/Reformas/Reforma%20Cabildo/07_pundej.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613370/Reformas/Reforma%20Cabildo/planta_3d_fyq6ud.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613348/Reformas/Reforma%20Cabildo/03bp_2_-_Photo_ndpcft.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613348/Reformas/Reforma%20Cabildo/03bp_7_-_Photo_nc5gd4.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613347/Reformas/Reforma%20Cabildo/03bp_1_-_Photo_svah5d.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613330/Reformas/Reforma%20Cabildo/bp_planta_3d_ofltdb.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613332/Reformas/Reforma%20Cabildo/4_4_-_Photo_orfmx0.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613332/Reformas/Reforma%20Cabildo/4_8_-_Photo_s4sroa.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731613331/Reformas/Reforma%20Cabildo/toil_planta_3d_nkesgw.jpg"
-            }
-        ],
-        "informacionGeneral": 
-            [
-                {
-                    "parrafo": "Reforma de cocina, baño y toilette"
-                },
-                {
-                    "parrafo": "..."
-                },
-                {
-                    "parrafo": "..."
-                },
-                {
-                    "parrafo": "..."
-                }
-            ],
-        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1731614152/Reformas/Reforma%20Cabildo/Presentaci%C3%B3n_de_proyecto_-_Comodoro_Rivadavia_page-0002_-_Copy_g0fidr.jpg",
         "youtubeVideoId": ""
     },
     {
