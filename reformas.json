@@ -539,55 +539,64 @@
         "slider" :
         [
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1724241886/Reformas/Reforma%20Arcos/V2_02_xgj5ay.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1742392185/Reformas/Reforma%20Arcos/WEB/1_wknwyj.png"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1724241885/Reformas/Reforma%20Arcos/V2_01_wwupaa.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1742392184/Reformas/Reforma%20Arcos/WEB/2_jpsv0o.png"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1723753073/Reformas/Reforma%20Arcos/V2_08_oel0ua.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1742392184/Reformas/Reforma%20Arcos/WEB/3_izamv5.png"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1723753073/Reformas/Reforma%20Arcos/V2_06_x1kqcj.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1742392182/Reformas/Reforma%20Arcos/WEB/4_gfmwfg.png"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1723753073/Reformas/Reforma%20Arcos/V2_07_ecqyso.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1742392182/Reformas/Reforma%20Arcos/WEB/5_o9cxlc.png"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1723753073/Reformas/Reforma%20Arcos/V2_05_fiylgi.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1742393703/Reformas/Reforma%20Arcos/WEB/6_trhnjl.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1723753107/Reformas/Reforma%20Arcos/h01_pzjgir.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1742393702/Reformas/Reforma%20Arcos/WEB/7_xwxroc.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1723753109/Reformas/Reforma%20Arcos/h02_d24tce.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1742393701/Reformas/Reforma%20Arcos/WEB/8_azs7i1.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1723753108/Reformas/Reforma%20Arcos/h03_fdh12f.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1742393702/Reformas/Reforma%20Arcos/WEB/9_mntqhi.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1723753108/Reformas/Reforma%20Arcos/v01_qtbxvb.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1742393703/Reformas/Reforma%20Arcos/WEB/10_wweyvk.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1723753108/Reformas/Reforma%20Arcos/v02_agmcrk.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1742393701/Reformas/Reforma%20Arcos/WEB/11_hx4lj8.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1723753107/Reformas/Reforma%20Arcos/planta_3d_o0sgee.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1742392180/Reformas/Reforma%20Arcos/WEB/12_elf6wa.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1742392178/Reformas/Reforma%20Arcos/WEB/13_plbjyd.jpg"
             }
         ],
         "informacionGeneral": 
             [
                 {
-                    "parrafo": "Reforma total"
+                    "parrafo": "Nuestro cliente quería reformar la cocina y el baño ya que las instalaciones y los revestimientos estaban deteriorados por el paso del tiempo. La idea fue modernizarlos y mejorar la funcionalidad. "
                 },
                 {
-                    "parrafo": "..."
+                    "parrafo": "La cocina era pequeña, por tal motivo se decidió ampliarla tomando el espacio del lavadero y abrir un desayunador hacia el living para generar vinculación y amplitud. "
                 },
                 {
-                    "parrafo": "..."
+                    "parrafo": "Se eligieron colores claros tanto para mobiliario como para revestimientos para lograr calidez, amplitud y armonía. Se priorizó mejorar la iluminación tanto natural como artificial. Para ello se colocó un ventanal y se instalaron luces embutidas en cielorraso. "
                 },
                 {
-                    "parrafo": "..."
+                    "parrafo": "En el baño también se cambiaron la totalidad de las instalaciones y los revestimientos. Se colocaron revestimientos claros para lograr amplitud e iluminación. Se opto por un diseño moderno y minimalista."
+                },
+                {
+                    "parrafo": "Además pintamos todo el departamento, cambiamos artefactos de iluminación, ventanales y frentes e interiores de placard."
+                },
+                {
+                    "parrafo": "También se diseño mobiliario a medida para el escritorio. Siguiendo la línea moderna, se optó por materiales claros y un diseño funcional para optimizar el espacio. ."
                 }
             ],
         "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1723754819/Reformas/Reforma%20Arcos/planta_final_bfgd8c.jpg",
