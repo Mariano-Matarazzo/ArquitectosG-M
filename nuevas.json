@@ -1655,5 +1655,58 @@
             ],
         "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157483/Viviendas/15_San%20Martin/san_martin_6_zgyss9.jpg",
         "youtubeVideoId": ""
+    },
+    {
+        "id": "16",
+        "categoria": "nuevas",
+        "nombre": "CASA EP",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1747400807/Viviendas/16_Casa%20EP/24abril_1_-_Photo_pwmmz7.jpg",
+        "slider" :
+        [
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1747400807/Viviendas/16_Casa%20EP/24abril_1_-_Photo_pwmmz7.jpg"
+            },  
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1747400807/Viviendas/16_Casa%20EP/24abril_2_-_Foto_sfoh2l.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1747400811/Viviendas/16_Casa%20EP/24abril_8_-_Foto_v5jmqw.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1747400808/Viviendas/16_Casa%20EP/24abril_4_-_Foto_ev0it5.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1747400818/Viviendas/16_Casa%20EP/INT_16_-_Foto_fxmrm6.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1747400817/Viviendas/16_Casa%20EP/INT_15_-_Foto_u64upb.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1747400823/Viviendas/16_Casa%20EP/INT_12_-_Foto_kcjveh.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1747400814/Viviendas/16_Casa%20EP/INT_14_-_Foto_h4jgxv.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1747400812/Viviendas/16_Casa%20EP/INT_11_-_Foto_ndujvi.jpg"
+            }   
+        ],
+        "informacionGeneral": 
+            [
+                {
+                    "parrafo": "AÑO: 2019"
+                },
+                {
+                    "parrafo": "Se trata de un dúplex que el propietario quería construir para alquilar, por lo cual tenía que ser muy funcional."
+                },
+                {
+                    "parrafo": "En planta baja se ubicó el área social, sobre el living se diseñó una doble altura para generar mayor amplitud y una mejor calidad espacial."
+                },
+                {
+                    "parrafo": "Sobre la planta alta se ubican los dormitorios. Se optó por un diseño moderno y minimalista."
+                }
+            ],
+        "informacionGeneralImagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1636157483/Viviendas/15_San%20Martin/san_martin_6_zgyss9.jpg",
+        "youtubeVideoId": ""
     }
 ]
