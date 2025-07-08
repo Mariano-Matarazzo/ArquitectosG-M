@@ -125,53 +125,53 @@
         "id": "30",
         "categoria": "nuevas",
         "nombre": "CASA OMEGA",
-        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314734/Viviendas/Omega/1_corwiq.jpg",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1751979084/Viviendas/Omega/1_s4qb1i.jpg",
         "slider" :
         [
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314734/Viviendas/Omega/1_corwiq.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1751979084/Viviendas/Omega/1_s4qb1i.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314734/Viviendas/Omega/2_xxljj2.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1751979084/Viviendas/Omega/2_pyq2ku.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1751904382/Viviendas/Omega/13_lfz6la.png"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1751978543/Viviendas/Omega/3_wagwkg.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1751978552/Viviendas/Omega/4_nyc7pb.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1751979084/Viviendas/Omega/5_pjg8cy.jpg"
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1751904419/Viviendas/Omega/6_llizkf.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1751904383/Viviendas/Omega/11_fajgpy.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1751904420/Viviendas/Omega/7_jxaqlh.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1751979084/Viviendas/Omega/8_slftyl.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1751979084/Viviendas/Omega/9_b1eu1c.jpg"
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1751904384/Viviendas/Omega/10_abotvx.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1751904394/Viviendas/Omega/24_dg3nja.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1751979085/Viviendas/Omega/11_fnv8uk.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314737/Viviendas/Omega/8_yc07wf.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1751979085/Viviendas/Omega/12_e1vqfu.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314734/Viviendas/Omega/9_kkbu9y.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1751904382/Viviendas/Omega/13_lfz6la.png"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314734/Viviendas/Omega/10_m9rsph.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1751978539/Viviendas/Omega/14_szkkko.jpg"
             },
             {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314735/Viviendas/Omega/11_cfeayk.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314735/Viviendas/Omega/12_dxme96.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314735/Viviendas/Omega/13_er5pxg.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314735/Viviendas/Omega/14_rbuj1m.jpg"
-            },
-            {
-                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314735/Viviendas/Omega/15_ovsp2c.jpg"
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1751979087/Viviendas/Omega/15_iiv2pl.jpg"
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314735/Viviendas/Omega/16_afcoct.jpg"
