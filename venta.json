@@ -163,10 +163,10 @@
    {
         "id": "2",
         "nombre": "CASA OMEGA",       
-        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1647314734/Viviendas/Omega/1_corwiq.jpg",
+        "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1751979084/Viviendas/Omega/1_s4qb1i.jpg",
         "slider" :
-            [
-             {
+        [
+            {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1751979084/Viviendas/Omega/1_s4qb1i.jpg"
             },
             {
@@ -212,7 +212,7 @@
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1751979087/Viviendas/Omega/15_iiv2pl.jpg"
             },
             {
-                "imagen": ""
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1752121166/Viviendas/Omega/16_b5bbdl.jpg"
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1751978545/Viviendas/Omega/17_ofkf6g.jpg"
@@ -252,6 +252,9 @@
             },
             {
                 "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1751978549/Viviendas/Omega/29_kde77x.jpg"
+            },
+            {
+                "imagen": "https://res.cloudinary.com/dvnlvmoiu/image/upload/v1751904416/Viviendas/Omega/30_rqqynv.jpg"
             }
         ],
         "caracteristicas" : 
